@@ -6,6 +6,12 @@
  * This example repeatedly turns an LED on and off.
  * The Arduino equivalent of ""Hello world".
  *
+ * run this program
+ * troubleshoot
+ * be read to explain what each line of the program does
+ * Read the blinking led tutorial on the Arduino web site for more background:
+ * http://www.arduino.cc/en/Tutorial/BlinkingLED
+ *
  * Schematic:
  * - long leg of the LED in digital pin 13
  * - short leg in ground pin
