@@ -13,6 +13,7 @@
  * Suggestions:
  * Experiment with ways of making this behavior more complex
  * Try encoding a message (e.g. Morse Code)
+ * imagine a conceptual mapping of the on & off timing cycles
  */
 
 // Variables
