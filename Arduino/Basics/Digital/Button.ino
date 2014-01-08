@@ -14,9 +14,12 @@ Suggestions:
   using 'delay' will work, you can also look into the 'millis' function...
 */
 
-int buttonPin = 0;      // pins for button and LED
-int ledPin = 13;
-int buttonState = 0;    // store button's status - initialize to OFF
+// constants won't change. They're used here to set pin numbers (faster/saves memory):
+const int buttonPin = 2;      // pins for button and LED
+const int ledPin = 13;
+
+// store button's status - initialize to OFF (this variable will change, so it's not a const)
+int buttonState = 0;    
 
 void setup() {
   pinMode(buttonPin, INPUT);    // set button to input
