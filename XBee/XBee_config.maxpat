@@ -8,7 +8,7 @@
 		}
 ,
 		"rect" : [ 49.0, 44.0, 1192.0, 771.0 ],
-		"bgcolor" : [ 0.882353, 0.866667, 0.890196, 1.0 ],
+		"bgcolor" : [ 0.886275, 0.882353, 0.882353, 1.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -473,16 +473,16 @@
 ,
 					"patching_rect" : [ 120.0, 623.0, 50.0, 17.0 ],
 					"saved_object_attributes" : 					{
-						"tags" : "",
-						"fontname" : "Arial",
+						"default_fontface" : 0,
+						"globalpatchername" : "",
+						"digest" : "",
+						"fontface" : 0,
+						"default_fontname" : "Arial",
+						"fontsize" : 12.0,
 						"default_fontsize" : 12.0,
 						"description" : "",
-						"globalpatchername" : "",
-						"fontface" : 0,
-						"fontsize" : 12.0,
-						"default_fontface" : 0,
-						"digest" : "",
-						"default_fontname" : "Arial"
+						"fontname" : "Arial",
+						"tags" : ""
 					}
 ,
 					"text" : "p sorter"
@@ -714,16 +714,16 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 831.25, 504.879517, 42.0, 18.0 ],
 					"saved_object_attributes" : 					{
-						"tags" : "",
-						"fontname" : "Arial",
+						"default_fontface" : 0,
+						"globalpatchername" : "",
+						"digest" : "",
+						"fontface" : 0,
+						"default_fontname" : "Arial",
+						"fontsize" : 12.0,
 						"default_fontsize" : 12.0,
 						"description" : "",
-						"globalpatchername" : "",
-						"fontface" : 0,
-						"fontsize" : 12.0,
-						"default_fontface" : 0,
-						"digest" : "",
-						"default_fontname" : "Arial"
+						"fontname" : "Arial",
+						"tags" : ""
 					}
 ,
 					"text" : "p ATIA"
@@ -971,16 +971,16 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 831.25, 440.879517, 42.0, 18.0 ],
 					"saved_object_attributes" : 					{
-						"tags" : "",
-						"fontname" : "Arial",
+						"default_fontface" : 0,
+						"globalpatchername" : "",
+						"digest" : "",
+						"fontface" : 0,
+						"default_fontname" : "Arial",
+						"fontsize" : 12.0,
 						"default_fontsize" : 12.0,
 						"description" : "",
-						"globalpatchername" : "",
-						"fontface" : 0,
-						"fontsize" : 12.0,
-						"default_fontface" : 0,
-						"digest" : "",
-						"default_fontname" : "Arial"
+						"fontname" : "Arial",
+						"tags" : ""
 					}
 ,
 					"text" : "p ATIU"
@@ -1228,16 +1228,16 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 831.25, 376.379517, 41.0, 18.0 ],
 					"saved_object_attributes" : 					{
-						"tags" : "",
-						"fontname" : "Arial",
+						"default_fontface" : 0,
+						"globalpatchername" : "",
+						"digest" : "",
+						"fontface" : 0,
+						"default_fontname" : "Arial",
+						"fontsize" : 12.0,
 						"default_fontsize" : 12.0,
 						"description" : "",
-						"globalpatchername" : "",
-						"fontface" : 0,
-						"fontsize" : 12.0,
-						"default_fontface" : 0,
-						"digest" : "",
-						"default_fontname" : "Arial"
+						"fontname" : "Arial",
+						"tags" : ""
 					}
 ,
 					"text" : "p ATIT"
@@ -1699,16 +1699,16 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 831.25, 313.0, 108.5, 18.0 ],
 					"saved_object_attributes" : 					{
-						"tags" : "",
-						"fontname" : "Arial",
+						"default_fontface" : 0,
+						"globalpatchername" : "",
+						"digest" : "",
+						"fontface" : 0,
+						"default_fontname" : "Arial",
+						"fontsize" : 12.0,
 						"default_fontsize" : 12.0,
 						"description" : "",
-						"globalpatchername" : "",
-						"fontface" : 0,
-						"fontsize" : 12.0,
-						"default_fontface" : 0,
-						"digest" : "",
-						"default_fontname" : "Arial"
+						"fontname" : "Arial",
+						"tags" : ""
 					}
 ,
 					"text" : "p PWM"
@@ -1932,16 +1932,16 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 831.25, 227.379517, 42.0, 18.0 ],
 					"saved_object_attributes" : 					{
-						"tags" : "",
-						"fontname" : "Arial",
+						"default_fontface" : 0,
+						"globalpatchername" : "",
+						"digest" : "",
+						"fontface" : 0,
+						"default_fontname" : "Arial",
+						"fontsize" : 12.0,
 						"default_fontsize" : 12.0,
 						"description" : "",
-						"globalpatchername" : "",
-						"fontface" : 0,
-						"fontsize" : 12.0,
-						"default_fontface" : 0,
-						"digest" : "",
-						"default_fontname" : "Arial"
+						"fontname" : "Arial",
+						"tags" : ""
 					}
 ,
 					"text" : "p ATIR"
@@ -2772,16 +2772,16 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 648.375, 635.0, 324.0, 18.0 ],
 					"saved_object_attributes" : 					{
-						"tags" : "",
-						"fontname" : "Arial",
+						"default_fontface" : 0,
+						"globalpatchername" : "",
+						"digest" : "",
+						"fontface" : 0,
+						"default_fontname" : "Arial",
+						"fontsize" : 12.0,
 						"default_fontsize" : 12.0,
 						"description" : "",
-						"globalpatchername" : "",
-						"fontface" : 0,
-						"fontsize" : 12.0,
-						"default_fontface" : 0,
-						"digest" : "",
-						"default_fontname" : "Arial"
+						"fontname" : "Arial",
+						"tags" : ""
 					}
 ,
 					"text" : "p IO"
@@ -3075,16 +3075,16 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 470.25, 477.5, 44.0, 18.0 ],
 					"saved_object_attributes" : 					{
-						"tags" : "",
-						"fontname" : "Arial",
+						"default_fontface" : 0,
+						"globalpatchername" : "",
+						"digest" : "",
+						"fontface" : 0,
+						"default_fontname" : "Arial",
+						"fontsize" : 12.0,
 						"default_fontsize" : 12.0,
 						"description" : "",
-						"globalpatchername" : "",
-						"fontface" : 0,
-						"fontsize" : 12.0,
-						"default_fontface" : 0,
-						"digest" : "",
-						"default_fontname" : "Arial"
+						"fontname" : "Arial",
+						"tags" : ""
 					}
 ,
 					"text" : "p ATID"
@@ -3443,16 +3443,16 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 470.25, 420.5, 46.0, 18.0 ],
 					"saved_object_attributes" : 					{
-						"tags" : "",
-						"fontname" : "Arial",
+						"default_fontface" : 0,
+						"globalpatchername" : "",
+						"digest" : "",
+						"fontface" : 0,
+						"default_fontname" : "Arial",
+						"fontsize" : 12.0,
 						"default_fontsize" : 12.0,
 						"description" : "",
-						"globalpatchername" : "",
-						"fontface" : 0,
-						"fontsize" : 12.0,
-						"default_fontface" : 0,
-						"digest" : "",
-						"default_fontname" : "Arial"
+						"fontname" : "Arial",
+						"tags" : ""
 					}
 ,
 					"text" : "p ATDL"
@@ -3647,16 +3647,16 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 470.25, 362.0, 48.0, 18.0 ],
 					"saved_object_attributes" : 					{
-						"tags" : "",
-						"fontname" : "Arial",
+						"default_fontface" : 0,
+						"globalpatchername" : "",
+						"digest" : "",
+						"fontface" : 0,
+						"default_fontname" : "Arial",
+						"fontsize" : 12.0,
 						"default_fontsize" : 12.0,
 						"description" : "",
-						"globalpatchername" : "",
-						"fontface" : 0,
-						"fontsize" : 12.0,
-						"default_fontface" : 0,
-						"digest" : "",
-						"default_fontname" : "Arial"
+						"fontname" : "Arial",
+						"tags" : ""
 					}
 ,
 					"text" : "p ATMY"
@@ -3851,16 +3851,16 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 470.25, 304.5, 42.0, 18.0 ],
 					"saved_object_attributes" : 					{
-						"tags" : "",
-						"fontname" : "Arial",
+						"default_fontface" : 0,
+						"globalpatchername" : "",
+						"digest" : "",
+						"fontface" : 0,
+						"default_fontname" : "Arial",
+						"fontsize" : 12.0,
 						"default_fontsize" : 12.0,
 						"description" : "",
-						"globalpatchername" : "",
-						"fontface" : 0,
-						"fontsize" : 12.0,
-						"default_fontface" : 0,
-						"digest" : "",
-						"default_fontname" : "Arial"
+						"fontname" : "Arial",
+						"tags" : ""
 					}
 ,
 					"text" : "p ATNI"
@@ -4055,16 +4055,16 @@
 					"presentation" : 1,
 					"presentation_rect" : [ 470.25, 250.0, 46.0, 18.0 ],
 					"saved_object_attributes" : 					{
-						"tags" : "",
-						"fontname" : "Arial",
+						"default_fontface" : 0,
+						"globalpatchername" : "",
+						"digest" : "",
+						"fontface" : 0,
+						"default_fontname" : "Arial",
+						"fontsize" : 12.0,
 						"default_fontsize" : 12.0,
 						"description" : "",
-						"globalpatchername" : "",
-						"fontface" : 0,
-						"fontsize" : 12.0,
-						"default_fontface" : 0,
-						"digest" : "",
-						"default_fontname" : "Arial"
+						"fontname" : "Arial",
+						"tags" : ""
 					}
 ,
 					"text" : "p ATBD"
@@ -4819,16 +4819,16 @@
 ,
 					"patching_rect" : [ 1005.0, 716.620483, 102.0, 18.0 ],
 					"saved_object_attributes" : 					{
-						"tags" : "",
-						"fontname" : "Arial",
+						"default_fontface" : 0,
+						"globalpatchername" : "",
+						"digest" : "",
+						"fontface" : 0,
+						"default_fontname" : "Arial",
+						"fontsize" : 12.0,
 						"default_fontsize" : 12.0,
 						"description" : "",
-						"globalpatchername" : "",
-						"fontface" : 0,
-						"fontsize" : 12.0,
-						"default_fontface" : 0,
-						"digest" : "",
-						"default_fontname" : "Arial"
+						"fontname" : "Arial",
+						"tags" : ""
 					}
 ,
 					"text" : "p random_bg_colour"
@@ -5587,6 +5587,15 @@
 					"disabled" : 0,
 					"hidden" : 0,
 					"source" : [ "obj-19", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-15", 0 ],
+					"disabled" : 0,
+					"hidden" : 0,
+					"source" : [ "obj-195", 0 ]
 				}
 
 			}
