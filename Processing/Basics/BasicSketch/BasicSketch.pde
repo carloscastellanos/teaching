@@ -1,9 +1,8 @@
 /*
 Some basics
 
-based on sketch by Jeff Thompson
+based on a sketch by Jeff Thompson
 
- www.jeffreythompson.org
 */
 
 void setup()                 // Initial and required statement

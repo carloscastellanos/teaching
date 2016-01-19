@@ -6,7 +6,7 @@
  * This example works with the Wiring / Arduino program that follows below.
  */
 
-For more on erial communication in Processing:
+For more on serial communication in Processing:
 http://processing.org/reference/libraries/serial/index.html
 
 import processing.serial.*;

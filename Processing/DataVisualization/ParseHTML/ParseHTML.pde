@@ -1,31 +1,25 @@
 /*
 PARSE HTML
- Jeff Thompson
- March 2012
+ based upon code by Jeff Thompson
  
  A basic HTML parser - this code downloads the source code from a web page and
  creates an array of all the links and images on the site.  It can also automatically
  download the image files to your computer.
- 
- While a full-fledged HTML parser must be very agile and adaptive (since source code
- can vary so much), our simple example can easily be tailored to specific sites.  Making
- a parser that could work as a web crawler or something similar would be much harder.
- 
- For a Java-based HTML parser, try Java's JSoup library (or my example patch to
- do so within Processing (ParseHTML_WithJSoup.pde)... :)
- 
- www.jeffreythompson.org
  */
 
-// URL to load (either local or online - specify either below)
-String urlLocal = "example.html";
-String urlOnline = "http://www.jeffreythompson.org/Processing/example.html";
+// import the Java Regular Expressions library
+// this is how we can use the Pattern and Match objects
+// java library docs can be found here: https://docs.oracle.com/javase/7/docs/api/
+import java.util.regex.*;
 
+// URL to load (either local or online - specify either below)
+// change these to suit your purposes
+String urlLocal = "example.html";
+String urlOnline = "http://127.0.0.1/art575/html/1/index1.html";
 
 void setup() {
-
   // load the page source into an array; set up an empty array to put source code into
-  String[] rawSource = loadStrings(urlLocal);    // download HTML source
+  String[] rawSource = loadStrings(urlOnline);    // download HTML source
   String[] source = new String[0];               // empty array to append lines to
 
   // if we were to print the raw source, you would notice lots of
@@ -66,11 +60,11 @@ void setup() {
     Matcher m = p.matcher(source[i]);                    
 
     // if there are matches...
-    while (m.find ()) {
+    while (m.find()) {
 
       // we just want the the second result (1), which is just the link url (likely more useful)
-      String tempLine = m.group(1);                            // get links with quotes...
-      tempLine = tempLine.substring(1, tempLine.length()-1);    // ... strip first and last characters (the quotes)
+      String tempLine = m.group(1);                       // get links with quotes...
+      tempLine = tempLine.substring(1, tempLine.length()-1) + "\n";    // ... strip first and last characters (the quotes)
       links = splice(links, tempLine, links.length);           // ... add the results to the array!
     }
   }
@@ -91,7 +85,7 @@ void setup() {
 
     while (m.find ()) {
       String tempLine = m.group(1);
-      tempLine = tempLine.substring(1, tempLine.length()-1);
+      tempLine = tempLine.substring(1, tempLine.length()-1) + "\n";
       images = splice(images, tempLine, images.length);
     }
   }
@@ -102,6 +96,7 @@ void setup() {
   // using the array of image URLs, we can automatically download all image files
   // WARNING: it is not recommended to try this for an untested site, as it may 
   // try to download a TON of images - use at your own risk
+  /*
   println("\nDOWNLOAD ALL IMAGES:");
   for (int i=0; i<images.length; i++) {
 
@@ -122,6 +117,7 @@ void setup() {
     tempImg.save(nf(i, 5) + ".png");
     print(" DONE!\n");
   }
+  */
 
   exit();
 }

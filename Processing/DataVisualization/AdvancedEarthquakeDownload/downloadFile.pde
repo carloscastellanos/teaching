@@ -19,7 +19,7 @@ void downloadFile(String fileToSaveAs) {
     
     // SET UP URL and DOWNLOADING STREAM
     // must be in 'try' statement, since URL throws an MalformedURLException
-    URL url = new URL("http://earthquake.usgs.gov/earthquakes/catalogs/eqs7day-M2.5.txt");
+    URL url = new URL("http://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.csv");
     url.openConnection();                          // create connection
     InputStream fileDownloader = url.openStream(); // and set up InputStream to receive data
 
