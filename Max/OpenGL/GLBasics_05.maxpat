@@ -9,7 +9,7 @@
 			"modernui" : 1
 		}
 ,
-		"rect" : [ 318.0, 79.0, 1236.0, 834.0 ],
+		"rect" : [ 564.0, 79.0, 1236.0, 834.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -37,6 +37,57 @@
 		"style" : "",
 		"subpatcher_template" : "",
 		"boxes" : [ 			{
+				"box" : 				{
+					"bgcolor" : [ 0.74902, 0.74902, 0.74902, 0.3 ],
+					"bgoncolor" : [ 0.55, 0.55, 0.55, 1.0 ],
+					"fontsize" : 12.0,
+					"id" : "obj-46",
+					"legacytextcolor" : 1,
+					"maxclass" : "textbutton",
+					"numinlets" : 1,
+					"numoutlets" : 3,
+					"outlettype" : [ "", "", "int" ],
+					"outputmode" : 0,
+					"parameter_enable" : 0,
+					"patching_rect" : [ 489.833374, 787.0, 204.0, 33.0 ],
+					"style" : "",
+					"text" : "Jitter Expressions Tutorial",
+					"textcolor" : [ 0.121569, 0.498039, 0.74902, 1.0 ],
+					"textoncolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"textovercolor" : [ 0.121569, 0.498039, 0.74902, 1.0 ],
+					"usebgoncolor" : 1,
+					"usetextovercolor" : 1
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"bgcolor" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"bgfillcolor_angle" : 270.0,
+					"bgfillcolor_autogradient" : 0.79,
+					"bgfillcolor_color" : [ 0.290196, 0.309804, 0.301961, 1.0 ],
+					"bgfillcolor_color1" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"bgfillcolor_color2" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"bgfillcolor_proportion" : 0.39,
+					"bgfillcolor_type" : "gradient",
+					"fontname" : "Verdana",
+					"fontsize" : 10.0,
+					"gradient" : 0,
+					"hidden" : 1,
+					"id" : "obj-47",
+					"linecount" : 2,
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 35.833344, 781.0, 444.0, 33.0 ],
+					"style" : "",
+					"text" : ";\rmax launchbrowser https://cycling74.com/tutorials/demystifying-expressions-in-jitter",
+					"textcolor" : [ 0.0, 0.0, 0.0, 1.0 ]
+				}
+
+			}
+, 			{
 				"box" : 				{
 					"fontface" : 1,
 					"fontsize" : 18.0,
@@ -2636,7 +2687,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_matrix", "" ],
-					"patching_rect" : [ 601.0, 560.0, 408.0, 35.0 ],
+					"patching_rect" : [ 601.0, 559.0, 408.0, 35.0 ],
 					"style" : "",
 					"text" : "jit.gl.gridshape glbasics05 @name mult @automatic 0 @color 1. 0. 0.75 1. @lighting_enable 1 @smooth_shading 1 @shape cube"
 				}
@@ -2873,7 +2924,7 @@
 ,
 					"style" : "",
 					"text" : "autopattr @autoname 1",
-					"varname" : "u982008603"
+					"varname" : "u877004214"
 				}
 
 			}
@@ -3162,6 +3213,16 @@
 				"patchline" : 				{
 					"destination" : [ "obj-18", 0 ],
 					"source" : [ "obj-42", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"color" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"destination" : [ "obj-47", 0 ],
+					"hidden" : 1,
+					"midpoints" : [ 499.333374, 814.0, 45.333344, 814.0 ],
+					"source" : [ "obj-46", 0 ]
 				}
 
 			}
