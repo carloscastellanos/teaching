@@ -52,8 +52,8 @@ void draw() {
 }
 
 void serialEvent(Serial s) {
-  //inBuffer = myPort.readStringUntil('\n');
-  inBuffer = s.readString();
+  inBuffer = myPort.readStringUntil('\n');
+  //inBuffer = s.readString();
 }
 
 void movieEvent(Movie movie) {

@@ -63,7 +63,7 @@ void draw() {
     println(val);
   }
   
-  int a = Math.round(map(val, 60, 1000, 10, 255));
+  int a = Math.round(map(val, 10, 1000, 0, 255));
   
   if (video.available()) {
     video.read();
@@ -104,8 +104,8 @@ void draw() {
 }
 
 void serialEvent(Serial s) {
-  //inBuffer = myPort.readStringUntil('\n');
-  inBuffer = s.readString();
+  inBuffer = myPort.readStringUntil('\n');
+  //inBuffer = s.readString();
 }
 
 /*
