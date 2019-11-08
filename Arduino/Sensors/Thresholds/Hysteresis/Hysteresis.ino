@@ -6,10 +6,9 @@
 // This assumes a photoresistor is pulling A0 up and a resistor is pulling A0
 // down.  When the input is bright, the voltage increases, when dark, the
 // voltage decreases.
-const int SENSORPIN = A0;
 
 /****************************************************************/
-// Global variables.
+const int SENSORPIN = A0;
 
 // The state of the system can be captured with only two values, e.g., it is
 // represented as a single bit.  The following statement defines two symbolic
