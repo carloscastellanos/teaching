@@ -1,5 +1,6 @@
 /*
-Class to smooth the values out, creating an array of the last tracked values and averaging them together.
+Class to smooth the values out,
+creating an array of the last tracked values and averaging them together.
 Larger values result in more smoothing but makes it less responsive to changes
 */
 

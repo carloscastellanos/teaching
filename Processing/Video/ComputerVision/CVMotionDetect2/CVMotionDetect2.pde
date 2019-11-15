@@ -18,9 +18,26 @@ void setup() {
   // new smoother object
   smooth = new Smooth(50);
   
+  String[] cameras = Capture.list();
+  
+  if (cameras.length == 0) {
+    println("There are no cameras available for capture.");
+    exit();
+  } else {
+    println("Available cameras:");
+    for (int i = 0; i < cameras.length; i++) {
+      println(cameras[i]);
+    }
+    
+    // The camera can be initialized directly using an 
+    // element from the array returned by list():
+    capture = new Capture(this, width, height, cameras[0], 30);
+    capture.start();     
+  }
+  
   // new capture object
-  capture = new Capture(this, width, height, 30);
-  capture.start();
+  //capture = new Capture(this, width, height, 30);
+  //capture.start();
   // Create an empty image the same size as the video
   prevFrame = createImage(capture.width, capture.height, RGB);
 }
