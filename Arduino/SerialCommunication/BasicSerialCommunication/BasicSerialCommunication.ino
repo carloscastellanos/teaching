@@ -4,11 +4,11 @@ BASIC SERIAL COMMUNICATION
 Carlos Castellanos | 2014 | ccastellanos.com
  
 In order for the Arduino to communicate with your computer it needs to have some kind of standard or
-protocol. Arduino can communicate over USB via what called "serial communication" or RS-232 This
+protocol. Arduino can communicate over USB via what called "serial communication" or RS-232/TTL. This
 allows us to send values (such as sensor readings) from the Arduino to the computer and back to the 
 Arduino (when a button is pressed, data from a web page, etc).
  
-Once it's in your computer you can do all sorts of things wit the data 
+Once it's in your computer you can do all sorts of things with the data 
 (e.g. map it sound, store it in a databse, etc)
  
 You will need to open the Serial Monitor window in the Arduino IDE (located above) in order to
@@ -34,7 +34,7 @@ and send that out to the computer?
  */
 
 int buttonPin = 2;
-int buttonState = 0; // 0/1 = on/off
+int buttonState = 0; // 0 == LOW, 1 == HIGH
 
 void setup() {
   pinMode(buttonPin, INPUT);
@@ -52,8 +52,6 @@ void loop() {
 
     Serial.print("Button: ");  // a label for the data (useful when sending multiple readings)
     Serial.print(buttonState); // send the button's state
-    Serial.print("\n");        // a 'newline' character so we get a line break (allows to see the data better
+    Serial.print("\n");        // a 'newline' character so we get a line break (allows to see the data easier)
   }
 }
-
-
