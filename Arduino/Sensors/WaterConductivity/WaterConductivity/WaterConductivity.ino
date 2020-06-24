@@ -15,7 +15,7 @@ int threshold = 3;
 
 
 int inputPin = A0;
-int ouputPin = A5;
+int ouputPin = 2;
 
 void setup()
 {
@@ -63,7 +63,8 @@ TDS = 500 * (Siemens/1000);
 Serial.print(TDS);
 Serial.println(" PPM.");
 if(returnVoltage>4.9) Serial.println("Are you sure this isn't metal?");
-
+Serial.println("--------------------------------");
+Serial.println("");
 
 delay(5000);
 }
