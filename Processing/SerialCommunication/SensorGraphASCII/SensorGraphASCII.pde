@@ -33,8 +33,12 @@ void setup() {
   println(Serial.list());
   // change the number below to match your port
   String portName = Serial.list()[1];
+  // create a serial object
   myPort = new Serial(this, portName, 9600);
-  myPort.clear(); // empty the serial buffer
+  // empty the serial buffer
+  myPort.clear();
+  // don't generate a serialEvent() until you get a newline character
+  myPort.bufferUntil('\n');
   
   // set the background color
   background(#110239);
@@ -64,13 +68,12 @@ void draw() {
 }
 
 void serialEvent(Serial s) {
-  // get the char
+  // get the string
   // Note: Every time you read a char, byte or string, it’s removed from
-  // the serial buffer. So it’s good practice to read the byte into a 
-  // variable as shown below and immediately do something with that character 
-  // (like graph it, which we do in the draw() method). Then read another char.
-  // note: another possibility here is to use myPort.readStringUntil('\n');
-  String inBuffer = s.readString();
+  // the serial buffer. So it’s good practice to read the string into a 
+  // variable as shown below and immediately do something with that data 
+  // (like graph it, which we do in the draw() method). Then read another string.
+  String inBuffer = s.readStringUntil('\n');
   
   if (inBuffer != null) {
     inBuffer = trim(inBuffer); // remove any possible white space characters
