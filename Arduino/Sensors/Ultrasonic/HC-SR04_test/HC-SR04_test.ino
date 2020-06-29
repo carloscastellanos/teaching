@@ -59,7 +59,10 @@ void loop()
   // 13.524 in/msec
   // 0.013524 in/microsec OR 1/0.013524 = 73.94 microsecs/in
   // for more visit: https://en.wikipedia.org/wiki/Speed_of_sound
-  
+
+  // The pulseIn() function returns the length of a pulse in microseconds
+  // so we use 29.11 microsecs/cm and 73.94 microsecs/in to calculate the
+  // distance in centimeters and inches respectively.
   cm = (duration/2) / 29.11; // (duration/2) * 0.034351 will also work
   inches = (duration/2) / 73.94; // (duration/2) * 0.013524 will also work
   
