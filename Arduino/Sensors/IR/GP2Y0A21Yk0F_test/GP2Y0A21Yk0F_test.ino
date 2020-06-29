@@ -32,11 +32,11 @@
  * First convert the analog reading (which goes from 0 - 1023) to a voltage (0 - 5V):
  * float voltage = sensorValue * (5.0 / 1023.0);
  *
- * To get the distance (in cm), look at Fig. 2 in the datasheet which the distance to voltagecharacteristics
- * of the sensor. You can see that between 10 & 80cm it follows an exponential curve. If you can figure out
- * a function for that curve you will have your distance formula.
- * This is the formula I came up with: 27.3 * (voltage^-1.2)
- * float distance = 27.3 * pow(voltage , -1.199)
+ * To get the distance (in cm), look at Fig. 2 in the datasheet which shows the distance to
+ * voltage characteristics of the sensor. You can see that between 10 & 80cm it follows an
+ * exponential curve. If you can figure out a function for that curve you will have your
+ * distance formula. This is the formula I came up with: 27.3 * (voltage^-1.2)
+ * float distance = 27.3 * pow(voltage, -1.199)
  *
  * You can also try the formula used in the library (which doesn't convert the analog readings to a voltage)
  * distance = 4800 / (sensorValue - 20)
