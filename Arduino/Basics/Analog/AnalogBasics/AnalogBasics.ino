@@ -14,7 +14,7 @@ a fairly decent approximation of analog input.
 values (0-1023).
 
 SCHEMATIC:
-100k ohm potentiometer  
+10k or 100k ohm potentiometer  
 
 either end of pot +--------- +5V
                        
