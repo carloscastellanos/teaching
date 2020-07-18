@@ -2,9 +2,9 @@
 Button
 Carlos Castellanos | 2014 | ccastellanos.com
 
-Press and relasese to turn an LED on, then press and relasese again to turn off
+Press and relase to turn an LED on, then press and relase again to turn off
 
-Note: this example works best witha momentary pushbutton or similary biased switch
+Note: this example works best witha momentary pushbutton or similarly biased switch
 
 
 Schematic, see:
