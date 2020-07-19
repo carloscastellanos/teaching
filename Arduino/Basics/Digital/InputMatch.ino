@@ -89,7 +89,7 @@ void loop()
   int input = digitalRead( INPUT_PIN );
 
   // select the code block corresponding to the current state to evaluate the next input
-  switch( state_index) {
+  switch(state_index) {
 
   case START:
     if (input) state_index = STATE1;
