@@ -15,8 +15,6 @@ void setup() {
   while (!Serial) {
     ; // wait for serial port to connect. Needed for native USB port only
   }
-
-  pinMode(2, INPUT);   // digital sensor is on digital pin 2  establishContact();  // send a byte to establish contact until receiver responds
 }
 
 void loop() {
