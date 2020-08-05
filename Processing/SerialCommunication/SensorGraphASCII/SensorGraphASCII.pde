@@ -5,8 +5,7 @@
  * June 23, 2020
  *
  * Example of serial communication between Processing & Arduino
- * Arduino sends one character and Processing graphs the data
- * (after converting to an integer)
+ * Arduino sends the data as ASCII and Processing graphs the data
  *
  * 
  * Carlos Castellanos
@@ -32,7 +31,7 @@ void setup() {
   // List all the available serial ports
   println(Serial.list());
   // change the number below to match your port
-  String portName = Serial.list()[1];
+  String portName = Serial.list()[4];
   // create a serial object
   myPort = new Serial(this, portName, 9600);
   // empty the serial buffer
