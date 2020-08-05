@@ -8,8 +8,6 @@
  * Arduino sends one byte and Processing graphs the data
  *
  * 
- * Carlos Castellanos
- * June 22, 2020
  *
  */
 
@@ -29,12 +27,12 @@ void setup() {
   // List all the available serial ports
   println(Serial.list());
   // change the number below to match your port
-  String portName = Serial.list()[1];
+  String portName = Serial.list()[4];
   myPort = new Serial(this, portName, 9600);
   myPort.clear(); // empty the serial buffer
   
   // set the background color
-  background(#6D008F);
+  background(#110239);
 }
 
 void draw() {
@@ -50,14 +48,14 @@ void draw() {
   // serialEvent() method.
 
   // draw the line
-  stroke(#B5DB70);
+  stroke(#cccccc);
   line(xPos, height, xPos, yPos);
   
   // at the edge of the screen, go back to the beginning:
   if (xPos >= width) {
     xPos = 0;
     // clear the screen by resetting the background:
-    background(#6D008F);
+    background(#110239);
   } else {
     // increment the horizontal position for the next reading:
     xPos++;
