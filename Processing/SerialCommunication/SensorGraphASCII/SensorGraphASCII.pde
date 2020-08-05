@@ -8,8 +8,6 @@
  * Arduino sends the data as ASCII and Processing graphs the data
  *
  * 
- * Carlos Castellanos
- * June 22, 2020
  *
  */
 
