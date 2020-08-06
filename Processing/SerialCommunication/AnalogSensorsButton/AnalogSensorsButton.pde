@@ -1,3 +1,18 @@
+/*
+ * AnalogSensorsButton
+ *
+ * Carlos Castellanos
+ * August 5, 2020
+ *
+ * Example of serial communication between Processing & Arduino using the
+ * "punctuation" method
+ * Arduino sends the data for three sensors as ASCII and Processing
+ * uses that data not to control the position and color of a shape on the screen.
+ * 
+ *
+ */
+
+
 import processing.serial.*; // import the Processing serial library
 
 Serial myPort;              // The serial port
@@ -11,8 +26,8 @@ void setup() {
   // List all the available serial ports
   println(Serial.list());
   
-  // Change the 0 to the appropriate number of the serial port
-  // that your microcontroller is attached to.
+  // Change the number in the Serial.list() array to the appropriate
+  // number of the serial port that your microcontroller is attached to.
   String portName = Serial.list()[4];
   myPort = new Serial(this, portName, 9600);
   

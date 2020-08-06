@@ -1,3 +1,18 @@
+/*
+ * AnalogSensorsButton_Handshaking
+ *
+ * Carlos Castellanos
+ * August 5, 2020
+ *
+ * Example of serial communication between Processing & Arduino using the
+ * "call-and-response" (handshaking) method
+ * Arduino sends the data for three sensors as ASCII and Processing
+ * uses that data not to control the position and color of a shape on the screen.
+ * 
+ *
+ */
+
+
 import processing.serial.*; // import the Processing serial library
 
 Serial myPort;              // The serial port
