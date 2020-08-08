@@ -10,8 +10,7 @@ void setup() {
 }
 
 void loop() {
-  long start = millis();                    // time performance - not necessary 
-  long total = sensor.capacitiveSensor(30); // read 30 bytes
+  long total = sensor.capacitiveSensor(30); // take 30 samples
   
   Serial.println(total);                    // print sensor output
   delay(1);                                 // small delay to spare serial port from too much data
