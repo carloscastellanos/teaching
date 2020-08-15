@@ -1,6 +1,6 @@
 /*
  * 
- * Testing the HC-SR04 ukltrasonic sensor
+ * Testing the HC-SR04 ultrasonic sensor
  *
     Ultrasonic sensor Pins:
         VCC: +5VDC
