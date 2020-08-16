@@ -21,8 +21,7 @@ void setup() {
   pinMode(echoPin, INPUT);
 }
  
-void loop()
-{
+void loop() {
  
   // The sensor is triggered by a HIGH pulse of 10 or more microseconds.
   // Give a short LOW pulse beforehand to ensure a clean HIGH pulse:
