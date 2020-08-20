@@ -11,7 +11,6 @@
  */
 
 
-
 /***********************
 === PIN DEFINITIONS ===
 ***********************/
@@ -34,7 +33,7 @@ void setup (){
 
 void loop () {
   // show all 8 sensor readings
-  for (byte i=0; i<=7; i++) {
+  for(byte i=0; i<=7; i++) {
     Serial.print("Sensor ");
     Serial.print(i);
     Serial.print(": ");
