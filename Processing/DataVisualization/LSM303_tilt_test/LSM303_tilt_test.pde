@@ -2,7 +2,7 @@
 
 =================================================
 ==  Arduino and Adafruit LSM303 Accelerometer  ==
-==  3D Orientation example                     ==
+==  3D Tilt example                            ==
 ==                                             ==
 ==  Carlos Castellanos                         ==
 ==  August 24, 2020                            ==
@@ -83,7 +83,7 @@ void serialEvent (Serial myPort) {
     // add a linefeed at the end
     println();
     
-    // assign the sensor orientation values (in degrees)
+    // assign the sensor tilt values (in degrees)
     if (items.length > 1) {
       roll = items[0];
       pitch = items[1];

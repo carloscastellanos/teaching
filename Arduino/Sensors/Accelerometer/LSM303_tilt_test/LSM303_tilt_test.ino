@@ -1,5 +1,5 @@
 /*
- * Example of using Arduino and Adafruit LSM303 Accelerometer to determine orientation
+ * Example of using Arduino and Adafruit LSM303 Accelerometer to determine tilt
  *
  *
  * Carlos Castellanos
