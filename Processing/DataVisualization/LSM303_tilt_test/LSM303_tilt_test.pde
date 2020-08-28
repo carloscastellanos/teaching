@@ -53,8 +53,8 @@ void draw() {
     text("degrees     roll: " + roll + "          pitch: " + pitch + "          yaw: " + yaw, -320, 340);
     
     rotateX(radians(roll));
-    rotateZ(radians(pitch));
-    rotateY(radians(yaw));
+    rotateY(radians(pitch));
+    rotateZ(radians(yaw));
 
     pushMatrix();
       noStroke();
