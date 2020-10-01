@@ -55,7 +55,7 @@
 //Call the sensor "sensor"
 //The model of the sensor is "GP2Y0A21YK0F"
 //The sensor output pin is attached to the pin A0
-SharpIR sensor(GP2Y0A21YK0F, A0);
+SharpIR sensor(SharpIR::GP2Y0A21YK0F, A0);
 
 void setup() {
   Serial.begin(9600); //Enable the serial comunication
