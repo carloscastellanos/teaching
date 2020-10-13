@@ -2,14 +2,14 @@
  * AnalogSensorsButtonSoundOscillator
  *
  * Carlos Castellanos
- * September 30, 2020
+ * October 12, 2020
  *
  * Example of serial communication between Processing & Arduino to control
  * the parameters of a sound oscillator.
  * 
  * Arduino sends the data for three sensors as ASCII and Processing
- * uses that data to control the position of a shape on the screen
- * as well as the frequency and amplitude of a triangle oscillator.
+ * uses that data to control the frequency and attack time of a 
+ * triangle oscillator.
  *
  * This sketch uses the "punctuation" method for Serial comunication.
  *
@@ -21,14 +21,24 @@ import processing.sound.*;  // import the Processing sound library
 
 Serial myPort;              // The serial port
 
-TriOsc tri;                 // Triangle wave oscillator
+TriOsc triOsc;              // Triangle wave oscillator
 
-Reverb reverb;              // Reverb
-float room=0.8;
-float damp=0.3;
-float wet=0.9;
+Env env;                    // Envelope
 
-float sensor0, sensor1;     // Sensors
+// Times and levels for the ASR envelope
+float attackTime = 0.001;
+float sustainTime = 0.01;
+float sustainLevel = 0.3;
+float releaseTime = 0.2;
+
+// default frequency
+float freq = 440;
+
+// sensors
+float sensor0, sensor1;
+
+// trigger state
+boolean trigger = false;
  
 void setup() {
   size(800, 600);
@@ -44,21 +54,35 @@ void setup() {
   // don't generate a serialEvent() until you get an ASCII newline character
   myPort.bufferUntil('\n');
   
-  tri = new TriOsc(this);
-  tri.play();
+  // Create the oscillator
+  triOsc = new TriOsc(this);
+  
+  // Create the envelope 
+  env = new Env(this);
 }
 
 void draw() {
-  background(#2b9468); // green background
-  fill(0);
-   
-  tri.freq(map(sensor0, 200, 800, 150, 880)); // frequency 
-  tri.amp(map(sensor1, 0, 1023, 0.0, 1.0));  // amplitude
+  background(0);
+  fill(255);
   
-  // Draw the shape
-  float xloc = map(sensor1, 0, 1023, 0, width);
-  float yloc = map(sensor0, 200, 800, height, 0);
-  ellipse(xloc, yloc, 40, 40);
+  if(trigger) {
+    // frequency
+    freq = map(sensor1, 100, 800, 150, 1000);
+    // play the triangle oscillator with an amplitude of 0.5
+    triOsc.play(freq, 0.5);
+    
+    // The envelope gets triggered with the oscillator as input
+    attackTime = map(sensor0, 0, 1023, 0.001, 0.5);
+    env.play(triOsc, attackTime, sustainTime, sustainLevel, releaseTime);
+    
+    // Draw the shape
+    ellipse(width/2, height/2, 80, 80);
+    
+    trigger = false;
+  } else {
+    // Draw the shape
+    ellipse(width/2, height/2, 40, 40);
+  }
 }
 
 void serialEvent(Serial myPort) {
@@ -80,11 +104,9 @@ void serialEvent(Serial myPort) {
     if (sensors.length > 1) {
       sensor0 = sensors[0];
       sensor1 = sensors[1];
-      // the button will send 0 or 1, which willturn the reverb on/off
+      // the button will send 0 or 1, which willturn the oscillator on/off
       if(sensors[2] > 0) {
-        wet = 0.9;
-      } else {
-        wet = 0.0;
+        trigger = true;
       }
     }
   }
