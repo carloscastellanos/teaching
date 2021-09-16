@@ -74,7 +74,6 @@ void loop()
     digitalWrite(OUTPUT_PIN_B, LOW);
     digitalWrite(OUTPUT_PIN_C, HIGH);
     break;
-  }
 
   case STATE4:
     Serial.println("Entering state 4.");
