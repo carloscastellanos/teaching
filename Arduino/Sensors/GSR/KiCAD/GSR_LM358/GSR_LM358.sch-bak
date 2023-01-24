@@ -1,0 +1,216 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "Galvanic Skin Response"
+Date ""
+Rev ""
+Comp "Carlos Castellanos"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Connection ~ 6400 3700
+Wire Wire Line
+	5400 4350 5400 3800
+Wire Wire Line
+	6400 4350 5400 4350
+Wire Wire Line
+	6400 3700 6400 4350
+Wire Wire Line
+	5800 3050 5800 3300
+Connection ~ 5800 3050
+Wire Wire Line
+	6150 3050 5800 3050
+Wire Wire Line
+	6150 3250 6150 3300
+$Comp
+L Device:C_Small C2
+U 1 1 63D202E3
+P 6150 3150
+F 0 "C2" H 6242 3196 50  0000 L CNN
+F 1 "100nF" H 6242 3105 50  0000 L CNN
+F 2 "" H 6150 3150 50  0001 C CNN
+F 3 "~" H 6150 3150 50  0001 C CNN
+	1    6150 3150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5800 3000 5800 3050
+$Comp
+L power:Earth #PWR?
+U 1 1 63D1EBBD
+P 6150 3300
+F 0 "#PWR?" H 6150 3050 50  0001 C CNN
+F 1 "Earth" H 6150 3150 50  0001 C CNN
+F 2 "" H 6150 3300 50  0001 C CNN
+F 3 "~" H 6150 3300 50  0001 C CNN
+	1    6150 3300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4750 4150 4750 4300
+$Comp
+L power:Earth #PWR?
+U 1 1 63D1E212
+P 4750 4300
+F 0 "#PWR?" H 4750 4050 50  0001 C CNN
+F 1 "Earth" H 4750 4150 50  0001 C CNN
+F 2 "" H 4750 4300 50  0001 C CNN
+F 3 "~" H 4750 4300 50  0001 C CNN
+	1    4750 4300
+	1    0    0    -1  
+$EndComp
+Connection ~ 4750 3600
+Wire Wire Line
+	4750 3750 4750 3600
+$Comp
+L SparkFun-Resistors:RESISTOR0402 R2
+U 1 1 63D1AFC1
+P 4750 3950
+F 0 "R2" H 4800 4050 45  0000 R CNN
+F 1 "1M" H 4800 3850 45  0000 R CNN
+F 2 "0402" H 4750 4100 20  0001 C CNN
+F 3 "" H 4750 3950 60  0001 C CNN
+F 4 " " V 4666 3882 60  0000 R CNN "Field4"
+	1    4750 3950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SparkFun-Resistors:RESISTOR0402 R1
+U 1 1 63D15D67
+P 4750 3400
+F 0 "R1" H 4800 3500 45  0000 R CNN
+F 1 "1M" H 4800 3300 45  0000 R CNN
+F 2 "0402" H 4750 3550 20  0001 C CNN
+F 3 "" H 4750 3400 60  0001 C CNN
+F 4 " " V 4666 3332 60  0000 R CNN "Field4"
+	1    4750 3400
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4750 3600 5150 3600
+Wire Wire Line
+	4750 3000 4750 3200
+Wire Wire Line
+	5150 3000 5150 3300
+$Comp
+L power:+5V #PWR?
+U 1 1 63D14ACF
+P 4750 3000
+F 0 "#PWR?" H 4750 2850 50  0001 C CNN
+F 1 "+5V" H 4765 3173 50  0000 C CNN
+F 2 "" H 4750 3000 50  0001 C CNN
+F 3 "" H 4750 3000 50  0001 C CNN
+	1    4750 3000
+	1    0    0    -1  
+$EndComp
+Text Notes 7100 3700 0    50   ~ 0
+To Arduino
+Wire Wire Line
+	6400 3700 7050 3700
+$Comp
+L power:+5V #PWR?
+U 1 1 63D12F42
+P 5150 3000
+F 0 "#PWR?" H 5150 2850 50  0001 C CNN
+F 1 "+5V" H 5165 3173 50  0000 C CNN
+F 2 "" H 5150 3000 50  0001 C CNN
+F 3 "" H 5150 3000 50  0001 C CNN
+	1    5150 3000
+	1    0    0    -1  
+$EndComp
+Connection ~ 5150 3600
+Wire Wire Line
+	5150 3500 5150 3600
+$Comp
+L Device:C_Small C1
+U 1 1 63D10749
+P 5150 3400
+F 0 "C1" H 5242 3446 50  0000 L CNN
+F 1 "100nF" H 5242 3355 50  0000 L CNN
+F 2 "" H 5150 3400 50  0001 C CNN
+F 3 "~" H 5150 3400 50  0001 C CNN
+	1    5150 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L linear:LM358 IC1
+U 1 1 63D077F6
+P 5900 3700
+F 0 "IC1" H 6444 3753 60  0000 L CNN
+F 1 "LM358" H 6444 3647 60  0000 L CNN
+F 2 "" H 5900 3700 50  0001 C CNN
+F 3 "ns/lm158.pdf" H 5900 3700 50  0001 C CNN
+	1    5900 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 63D0D48A
+P 5800 3000
+F 0 "#PWR?" H 5800 2850 50  0001 C CNN
+F 1 "+5V" H 5815 3173 50  0000 C CNN
+F 2 "" H 5800 3000 50  0001 C CNN
+F 3 "" H 5800 3000 50  0001 C CNN
+	1    5800 3000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5800 4100 5800 4200
+$Comp
+L power:Earth #PWR?
+U 1 1 63D0C8AF
+P 5800 4200
+F 0 "#PWR?" H 5800 3950 50  0001 C CNN
+F 1 "Earth" H 5800 4050 50  0001 C CNN
+F 2 "" H 5800 4200 50  0001 C CNN
+F 3 "~" H 5800 4200 50  0001 C CNN
+	1    5800 4200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5150 3600 5400 3600
+Wire Wire Line
+	5150 5150 5150 3600
+Wire Wire Line
+	5900 4750 6250 4750
+Wire Wire Line
+	5900 5150 5900 4750
+$Comp
+L power:Earth #PWR?
+U 1 1 63D0BD3F
+P 6250 4750
+F 0 "#PWR?" H 6250 4500 50  0001 C CNN
+F 1 "Earth" H 6250 4600 50  0001 C CNN
+F 2 "" H 6250 4750 50  0001 C CNN
+F 3 "~" H 6250 4750 50  0001 C CNN
+	1    6250 4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J2
+U 1 1 63D0AD79
+P 5900 5150
+F 0 "J2" V 5864 5062 50  0000 R CNN
+F 1 "Finger 2" V 5773 5062 50  0000 R CNN
+F 2 "" H 5900 5150 50  0001 C CNN
+F 3 "~" H 5900 5150 50  0001 C CNN
+	1    5900 5150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x01 J1
+U 1 1 63D09A4B
+P 5150 5150
+F 0 "J1" V 5114 5062 50  0000 R CNN
+F 1 "Finger 1" V 5023 5062 50  0000 R CNN
+F 2 "" H 5150 5150 50  0001 C CNN
+F 3 "~" H 5150 5150 50  0001 C CNN
+	1    5150 5150
+	0    -1   -1   0   
+$EndComp
+$EndSCHEMATC
