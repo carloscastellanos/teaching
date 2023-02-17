@@ -56,9 +56,10 @@ void draw() {
     fill(204);
     text("degrees     roll: " + roll + "          pitch: " + pitch + "          yaw: " + yaw, -320, 340);
     
-    rotateX(roll);
-    rotateY(pitch);
-    rotateZ(yaw);
+    // rotate the model (convert degrees to radians first)
+    rotateX(radians(roll));
+    rotateY(radians(pitch));
+    rotateZ(radians(yaw));
 
     pushMatrix();
       noStroke();
@@ -82,7 +83,7 @@ void serialEvent (Serial myPort) {
     // now print out those three floats using a for() loop
     print("Roll/Pitch/Yaw = ");
     for(int i=0; i<items.length; i++) {
-      print(items[i] + "\t");
+      print(items[i] + " \t");
     }
     // add a linefeed at the end
     println();
