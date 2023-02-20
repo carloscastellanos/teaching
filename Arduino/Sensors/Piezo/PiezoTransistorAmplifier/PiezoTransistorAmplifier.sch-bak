@@ -1,0 +1,166 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Transistor_BJT:2N3904 Q1
+U 1 1 63F2E3FD
+P 3350 3400
+F 0 "Q1" H 3540 3446 50  0000 L CNN
+F 1 "2N3904" H 3540 3355 50  0000 L CNN
+F 2 "Package_TO_SOT_THT:TO-92_Inline" H 3550 3325 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 3350 3400 50  0001 L CNN
+	1    3350 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:Earth #PWR01
+U 1 1 63F30798
+P 3450 4350
+F 0 "#PWR01" H 3450 4100 50  0001 C CNN
+F 1 "Earth" H 3450 4200 50  0001 C CNN
+F 2 "" H 3450 4350 50  0001 C CNN
+F 3 "~" H 3450 4350 50  0001 C CNN
+	1    3450 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L MCU_Module:Arduino_Nano_v3.x U1
+U 1 1 63F315A7
+P 4900 3200
+F 0 "U1" H 4900 2111 50  0000 C CNN
+F 1 "Arduino_Nano_v3.x" H 4900 2020 50  0000 C CNN
+F 2 "Module:Arduino_Nano" H 4900 3200 50  0001 C CIN
+F 3 "http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf" H 4900 3200 50  0001 C CNN
+	1    4900 3200
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	3450 3600 3450 4200
+Wire Wire Line
+	3450 4200 4800 4200
+Connection ~ 3450 4200
+Connection ~ 4800 4200
+Wire Wire Line
+	4800 4200 4900 4200
+Wire Wire Line
+	2850 4000 2850 4200
+Wire Wire Line
+	2850 4200 3450 4200
+Wire Wire Line
+	3450 2850 3450 3200
+Wire Wire Line
+	4800 2200 4800 2000
+Wire Wire Line
+	4800 2000 3450 2000
+Wire Wire Line
+	3450 2000 3450 2650
+Wire Wire Line
+	1850 2000 3450 2000
+Connection ~ 3450 2000
+Text Notes 1100 5450 0    50   ~ 0
+The transistor here amplifies the voltage coming from the piezo\nsensor. When a vibration is sensed, the sensor converts these\nvibrations into electrical signals and sends them to the base of\nthe transistor. This turns the transistor on (i.e. current now flows\nfrom the collector to the emitter). R1 and RV1 set the overall\nsensitivity of the sensor. Raising the resistance value will increase\nthe detection sensitivity while a lower resistance value decreases\nit. Experiment with different values for R1 and RV1 but keep the\noverall resistance between 1MΩ & 2MΩ. R2 protects the Arduino\nfrom receiving too much current.
+$Comp
+L SymbolsSimilarEN60617+oldDIN617:PIEZO-ELEMENT-2_TERMINAL PZ1
+U 1 1 63F2A254
+P 2300 4000
+F 0 "PZ1" H 2300 4387 60  0000 C CNN
+F 1 "PIEZO-ELEMENT" H 2300 4281 60  0000 C CNN
+F 2 "" H 2300 4000 50  0001 C CNN
+F 3 "" H 2300 4000 50  0001 C CNN
+	1    2300 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_POT_US RV1
+U 1 1 63F48BB6
+P 1850 2950
+F 0 "RV1" H 1782 2996 50  0000 R CNN
+F 1 "1M" H 1782 2905 50  0000 R CNN
+F 2 "" H 1850 2950 50  0001 C CNN
+F 3 "~" H 1850 2950 50  0001 C CNN
+	1    1850 2950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1850 2000 1850 2100
+Wire Wire Line
+	1850 2300 1850 2800
+Wire Wire Line
+	2050 2950 2050 3400
+Wire Wire Line
+	2050 3400 3150 3400
+Wire Wire Line
+	2050 2950 2000 2950
+Wire Wire Line
+	3450 4200 3450 4350
+Wire Wire Line
+	1850 3100 1850 3200
+Wire Wire Line
+	1850 3200 1150 3200
+Wire Wire Line
+	1150 3200 1150 4300
+Wire Wire Line
+	1150 4300 2850 4300
+Wire Wire Line
+	2850 4300 2850 4200
+Connection ~ 2850 4200
+$Comp
+L Device:R_Small_US R2
+U 1 1 63F3B065
+P 3450 2750
+F 0 "R2" H 3518 2796 50  0000 L CNN
+F 1 "470" H 3518 2705 50  0000 L CNN
+F 2 "" H 3450 2750 50  0001 C CNN
+F 3 "~" H 3450 2750 50  0001 C CNN
+	1    3450 2750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2700 4000 2850 4000
+$Comp
+L Device:R_Small_US R1
+U 1 1 63F3F5AA
+P 1850 2200
+F 0 "R1" H 1918 2246 50  0000 L CNN
+F 1 "1M" H 1918 2155 50  0000 L CNN
+F 2 "" H 1850 2200 50  0001 C CNN
+F 3 "~" H 1850 2200 50  0001 C CNN
+	1    1850 2200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1900 4000 1800 4000
+Wire Wire Line
+	1800 4000 1800 3400
+Wire Wire Line
+	1800 3400 2050 3400
+Connection ~ 2050 3400
+$Comp
+L Device:C_Small C1
+U 1 1 63F53816
+P 3950 3200
+F 0 "C1" V 4179 3200 50  0000 C CNN
+F 1 "10nF (103)" V 4088 3200 50  0000 C CNN
+F 2 "" H 3950 3200 50  0001 C CNN
+F 3 "~" H 3950 3200 50  0001 C CNN
+	1    3950 3200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4050 3200 4400 3200
+Wire Wire Line
+	3850 3200 3450 3200
+Connection ~ 3450 3200
+$EndSCHEMATC
