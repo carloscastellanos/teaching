@@ -293,9 +293,9 @@ I find I learn best when learning is an act of play, and an earnest exploration 
 
 ## **Communication**
 
-I will be using Discord primarily, but also email and MyCourses, to communicate reminders, updates to assignments, and so on. Please check Discord and your email regularly to make sure you have the most up to date information. You are welcome to communicate anything to me regarding the course via email or Discord . I will almost always respond to emails within 24 hours, and to Discord messages usually within an hour or two.
+I will be using email and myCourses announcements to communicate reminders, updates to assignments, etc. Please check these regularly to make sure you have the most up to date information. You are welcome to communicate anything to me regarding the course via email. I will almost always respond to emails within 24 hours. We will also use myCourses dicussions for questions, link-sharing and general class discussion. I am also availabe via Twitter.
 
-**If you need to discuss grades or personal matters, I ask that you do it through my RIT email address**. Legally, since Discord is not FERPA compliant, I cannot discuss those sorts of things there.
+**If you need to discuss grades or personal matters, I ask that you do it via my RIT email address.**
 
 ## **Notices of Accommodation**
 
