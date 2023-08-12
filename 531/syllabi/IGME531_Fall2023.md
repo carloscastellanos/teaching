@@ -1,5 +1,5 @@
-<style type="text/css">
-  body{font-family: Roboto, sans-serif;}
+<style>
+  font-family: Roboto, sans-serif;
 </style>
 
 # IGME 531
