@@ -1,6 +1,4 @@
-<style>
-  font-family: Roboto, sans-serif;
-</style>
+<div style="font-family: Roboto, sans-serif;">
 
 # IGME 531
 
@@ -330,3 +328,5 @@ For your open-ended, public-facing projects, which will be presented and hosted 
 # **Final Note**
 
 Any and all of the previous information is subject to change or modification during the semester, but always with notice. Any changes will be announced in class and communicated electronically.
+
+</div>
