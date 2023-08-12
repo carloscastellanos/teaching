@@ -6,7 +6,7 @@
 
 # Course Information
 
-_This document exclusively covers the policies and procedures for IGME-531. This document does not include information about topic units, specific assignments, or readings. These can be found in the Content section.._
+_This document exclusively covers the policies and procedures for IGME-531. This document does not include information about topic units, specific assignments, or readings. These can be found in the Content section._
 
 <table>
   <tr>
@@ -119,7 +119,17 @@ Invention and creative experimentation are the overarching goals and ethos of th
 
 ## Required Texts
 
-There are no required text purchases for this course. Readings and lecture materials will be provided through MyCourses. There is however an optional text listed below and other learning resources (books, web sites, etc) available through myCourses.
+There are no required text purchases for this course.. There is however an optional text listed below and other learning resources (books, web sites, etc) available through myCourses. You will also be required to open an account at OpenProcessing.org
+
+_Optional Text:_
+Levin, G., & Brain, T. (2021). _Code as creative medium: A Handbook for Computational Art and Design._ MIT Press.
+
+## Required Materials
+
+- <span style="font-weight:400;">Computer:</span> Students should have access to a desktop or laptop computer with a webcam. A reliable internet connection will also be very important.
+- Sketchbook: It is extremely wise to plan your projects on paper before writing any code. In support of this, you are required to maintain a paper sketchbook for this course. Most assignments will require you to post images of your project sketches.
+- Programming Environments: This is a polyglot course; the programming environments used for example projects and sample code will be a mixture of p5.js (JavaScript, optionally with Visual Studio Code and the p5.vscode extension), Processing (Java), Python and possibly openFrameworks (C++) and Max/MSP/Jitter (visual programming environment).
+- Camera: Students should have access to a digital camera to document certain projects. A smartphone with a camera is acceptable.
 
 ## Learning Resources
 
@@ -303,13 +313,15 @@ If you have a "Notice of Accommodation", I should have received a copy electroni
 
 ##
 
-## **Academic Dishonesty**
+## **Academic Integrity**
 
-The RIT policy on academic dishonesty is available at: [http://www.rit.edu/~w-policy/sectionD/D8.html](http://www.rit.edu/~w-policy/sectionD/D8.html). I have a responsibility to the university to ensure that academic dishonesty does not happen by anyone in my courses and I take this responsibility very seriously. I also think upholding academic integrity is simply the right thing to do.
+The RIT policy on academic integrity is available at: [http://www.rit.edu/~w-policy/sectionD/D8.html](http://www.rit.edu/~w-policy/sectionD/D8.html). I have a responsibility to the university to ensure that academic dishonesty does not happen by anyone in my courses and I take this responsibility very seriously. I also think upholding academic integrity is simply the right thing to do.
 
 In this course, if you violate the academic dishonesty policy, you will receive an "F" grade for the course, I will file a letter with the department detailing the incident for your records folder, and you will be immediately removed from the class. (If this is a second occurrence during your career at RIT, the penalties are harsher.)
 
 I really hate to see anyone fail a course this way, so if you have any questions about your work and these policies, the easiest thing to do is to double-check with me before submitting your work. That way, I can let you know if there's any issues and we can ensure your work is safe to submit.
+
+For your open-ended, public-facing projects, which will be presented and hosted online on myCourses, GitHub or OpenProcessing.org, there are no “correct answers”. Your curiosity, creativity, ingenuity and originality are what's important.
 
 # **Final Note**
 
