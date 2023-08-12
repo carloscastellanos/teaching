@@ -128,10 +128,10 @@ Levin, G., & Brain, T. (2021). _Code as creative medium: A Handbook for Computat
 
 ## Required Materials
 
-- <span style="font-weight:500;">Computer:</span> Students should have access to a desktop or laptop computer with a webcam. A reliable internet connection will also be very important.
-- Sketchbook: It is extremely wise to plan your projects on paper before writing any code. In support of this, you are required to maintain a paper sketchbook for this course. Most assignments will require you to post images of your project sketches.
-- Programming Environments: This is a polyglot course; the programming environments used for example projects and sample code will be a mixture of p5.js (JavaScript, optionally with Visual Studio Code and the p5.vscode extension), Processing (Java), Python and possibly openFrameworks (C++) and Max/MSP/Jitter (visual programming environment).
-- Camera: Students should have access to a digital camera to document certain projects. A smartphone with a camera is acceptable.
+- **Computer:** Students should have access to a desktop or laptop computer with a webcam. A reliable internet connection will also be very important.
+- **Sketchbook:** It is extremely wise to plan your projects on paper before writing any code. In support of this, you are required to maintain a paper sketchbook for this course. Most assignments will require you to post images of your project sketches.
+- **Programming Environments:** This is a polyglot course; the programming environments used for example projects and sample code will be a mixture of p5.js (JavaScript, optionally with Visual Studio Code and the p5.vscode extension), Processing (Java), Python and possibly openFrameworks (C++) and Max/MSP/Jitter (visual programming environment).
+- **Camera:** Students should have access to a digital camera to document certain projects. A smartphone with a camera is acceptable.
 
 ## Learning Resources
 
