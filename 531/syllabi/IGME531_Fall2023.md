@@ -121,7 +121,7 @@ Invention and creative experimentation are the overarching goals and ethos of th
 
 ## Required Texts
 
-There are no required text purchases for this course.. There is however an optional text listed below and other learning resources (books, web sites, etc) available through myCourses. You will also be required to open an account at OpenProcessing.org
+There are no required text purchases for this course.. There is however an optional text listed below and other learning resources (books, web sites, etc) available through myCourses. You will also be required to open an account at [OpenProcessing.org](https://OpenProcessing.org)
 
 _Optional Text:_
 Levin, G., & Brain, T. (2021). _Code as creative medium: A Handbook for Computational Art and Design._ MIT Press.
@@ -142,6 +142,18 @@ Available resources include books, videos, web sites and GitHub repositories. We
 Grades will be generated through a [labor-based grading contract](https://en.wikipedia.org/wiki/Contract_grading#Labor-based_contract_grading), which will be negotiated with the students at the beginning of the semester, and re-evaluated at mid-semester. This contract will be based on factors including completion of assignments and attendance.
 
 There are approximately 8 main assignments (software art programming projects) on which students will receive critical feedback from the instructor and their peers. Critical feedback on the content or quality of projects will not factor into grades, except where such feedback concerns missing components of the assignment.
+
+# Philosophy
+
+This course operates under the following principles:
+
+**Experiential Learning.** We learn by doing. The course emphasizes immediate application of theory into practical demonstrations. Success — and especially failures — of an experiment helps create understanding of underlying principles.
+
+**Collaboration & Cooperative Learning.** We teach each other. Knowledge sharing and creative dialogue are critical to success in this course and in creative work in general. Success in this field requires an ability to collaborate within diverse cohorts of technology, arts and design experts. Collaborative skill requires excellence in one’s own areas of expertise and an ability to translate ideas across disciplinary boundaries.
+
+**Self-motivation.** Students are responsible for their own progress. Wherever possible, the driving motivation will be a self-chosen goal, divided into manageable subproblems. The desire for the goal prompts autonomous exploration. If you ever find the course dull, that is an opportunity to reflect on what you are trying to achieve and choose a new objective.
+
+**Critical Thinking, Reflection and Writing.** Understanding develops through reflection, and the best discipline for reflection is writing and drawing. Mere repetition of the examples does not build skill; it is the process of reflection which integrates experience into knowledge which can be applied to novel situations.
 
 # Assignments
 
@@ -164,7 +176,7 @@ Every assignment requires that you document your process. **You will be expected
 
 This journal is a reflection of yourself as a professional and should demonstrate that. Therefore, even if you do have a website/blog already, **this course requires that you create a website/blog unique to this course**. This will be a website that you will continue to use throughout this course and perhaps your duration in the program. Free blogging platforms like WordPress or Weebly will work just fine.
 
-In addition to the journal, you will also upload your programming assignments (with some possible exceptions) to the OpenProcessing web site. This will make it easier for all of us to see your programming assignments. You will simply need to post a link to the Processing or P5.js sketch in your assignment submission. The following is a selection of several top rated free website services that you may use. You are not limited to these services, but they are recommended.
+In addition to the journal, you will also upload your programming assignments (with some possible exceptions) to the OpenProcessing web site. This will make it easier for all of us to see your programming assignments. You will simply need to post a link to the Processing or P5.js sketch in your assignment submission.
 
 **Good documentation habits:**
 
