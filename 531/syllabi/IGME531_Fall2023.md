@@ -77,6 +77,41 @@ Twitter: [@ccastellanossf](https://twitter.com/ccastellanossf) (DMs open)
 
 ---
 
+### Contents
+
+* [**Course Description**](#course-description)
+    * [Catalog Description](#catalog-description)
+    * [Detailed Description](#detailed-description)
+* [**Course Overview**](#course-overview)
+    * [Topics](#topics)
+    * [Course Goals & Learning Objectives](#course-goals--learning-objectives)
+    * [Required Texts](#required-texts)
+    * [Required Materials](#required-materials)
+    * [Learning Resources](#learning-resources)
+    * [Assessment Structure](#assessment-structure)
+* [**Philosophy**](#philosophy)
+* [**Assignments**](#assignments)
+    * [Overview](#overview)
+    * [Journal & Documentation](#journal--documentation)
+    * [Reading & Response](#readings--response)
+* [**Grading**](#grading)
+    * [Rubrics for Creative Projects](#rubrics-for-creative-projects)
+    * [Grade Calculation](#grade-calculation)
+    * [Grade Components](#grade-components)
+    * [Professionalism](#professionalism)
+    * [Late Policy](#late-policy)
+    * [Follow Your Passion](#follow-your-passion)
+* [**Academic Integrity**]
+    * [Policies for Open-Ended Creative Projects](#policies-for-open-ended-creative-projects)
+    * [Use of Free and Open-Source Code in Projects](#use-of-free-and-open-source-code-in-projects)
+    * [Informal Collaboration](#informal-collaboration)
+    * [Formal Collaboration](#formal-collaboration)
+* [**Additional Information**]
+    * [Communication](#communication)
+    * [Statement on Well-Being & Success](#statement-on-well-being--success)
+
+---
+
 # Course Description
 
 ## Catalog Description
@@ -121,7 +156,7 @@ Invention and creative experimentation are the overarching goals and ethos of th
 
 ## Required Texts
 
-There are no required text purchases for this course.. There is however an optional text listed below and other learning resources (books, web sites, etc) available through myCourses. You will also be required to open an account at [OpenProcessing.org](http://openprocessing.org)
+There are no required text purchases for this course.. There is however an optional text listed below, along with other learning resources (books, web sites, etc) available through myCourses. You will also be required to open an account at [OpenProcessing.org](http://openprocessing.org)
 
 _Optional Text:_
 
@@ -342,19 +377,11 @@ I will assume that most of you are here (that is, in this class and/or at IGM) b
 
 Notwithstanding the above, you will always be expected to conform to certain supporting requirements (described above) in regard to deliverables and documentation. Did you include an image of your project? Did you write the requested narrative? Such requirements are non-negotiable.
 
-# Additional Information
-
-## Communication
-
-I will be using email and myCourses announcements to communicate reminders, updates to assignments, etc. Please check these regularly to make sure you have the most up to date information. You are welcome to communicate anything to me regarding the course via email. I will almost always respond to emails within 24 hours. We will also use myCourses discussions for questions, link-sharing and general class discussion. I am also available via Twitter.
-
-**If you need to discuss grades or personal matters, I ask that you do it via my RIT email address**.
-
-## Academic Integrity
+# Academic Integrity
 
 The RIT policy on academic integrity is available at: [http://www.rit.edu/~w-policy/sectionD/D8.html](http://www.rit.edu/~w-policy/sectionD/D8.html). Please read them to understand the penalties associated with academic dishonesty. I reserve the right to determine an appropriate penalty based on the violation of academic dishonesty that occurs. The penalty for plagiarizing may range from failure on the specific plagiarized assignment to failure in the class. If you have any questions about this policy as it relates to work you are doing in the course, please feel free to contact the professor.
 
-**Policies for Open-Ended Creative Projects**
+## Policies for Open-Ended Creative Projects
 
 For your open-ended, public-facing projects, which will be presented and hosted online on myCourses, GitHub or OpenProcessing.org, there are no “correct answers”. Your curiosity, creativity, ingenuity and originality are what’s important.
 
@@ -362,7 +389,7 @@ You may borrow code or ideas from other sources, within the limits of “reasona
 
 You are expected or invited to make extensive use of open-source libraries and tutorials. When working in this way, much like a knitting circle, our classroom is structured around peer instruction, in which students are expected to help each other learn.
 
-**Use of Free and Open-Source Code in Projects**
+## Use of Free and Open-Source Code in Projects
 
 You are expected or invited to make extensive use of open-source libraries and tutorials. When working in this way, much like a knitting circle, our classroom is structured around peer instruction, in which students are expected to help each other learn.
 
@@ -372,7 +399,7 @@ Credit is perhaps the most important form of currency in the economies of common
 
 **Be Careful.** It sometimes happens that an artist places the entire source code for their artwork online, as a resource from which others can learn. The assignments professors give in new-media arts courses are often similar; you may discover the work of a student in some other class or school, who has posted code for a project which responds to a similar assignment. You should probably avoid this code. At the very least, you should be very, very careful about approaching such code for possible re-use. If it is necessary to do so, it is best to extract components that solve a specific technical problem, rather than those parts which operate to create a unique creative experience. Your challenge, if and/or when you work with others’ code, is to **make it your own**. It should be clear that forking an artwork from someone’s page on GitHub, OpenProcessing, etc., and simply changing the colors would be disgracefully lazy. Doing so without proper citation would be plagiarism.
 
-**Informal Collaboration**
+## Informal Collaboration
 
 This course places a very high value on civic responsibility that includes, but is not limited to, helping others learn. In this course, we strongly encourage you to give help (or ask others for help) in using various toolkits, algorithms, libraries, or other facilities. Please note the following expectations:
 
@@ -380,7 +407,7 @@ This course places a very high value on civic responsibility that includes, but 
 - **We are all teachers.** Students with advanced skills are expected to help others, yet refrain from doing another’s work for them. You can usually tell when you’re about to cross the line: Ask yourself whether you are teaching someone to fish, or merely giving them the fish.
 - When in doubt: **give credit** to the people who have helped you.
 
-**Formal Collaboration**
+## Formal Collaboration
 
 The assignments in this course are primarily intended to be executed by individuals. That said, I am in favor of students collaborating if such collaborations arise organically and can be conducted safely. Please note the following expectations:
 
@@ -389,6 +416,15 @@ The assignments in this course are primarily intended to be executed by individu
 - **Describe who did what.** Written reports for collaborative projects should describe how your effort was distributed.
 - **Only IGME531 collaborators.** Your project collaborator, if you have one, must be in this class. You may not collaborate with people from outside the course (e.g. your housemate).
 - **Avoid codependency.** You may not collaborate with the same person (i.e. submit an assignment jointly) on more than two projects.
+
+# Additional Information
+
+## Communication
+
+I will be using email and myCourses announcements to communicate reminders, updates to assignments, etc. Please check these regularly to make sure you have the most up to date information. You are welcome to communicate anything to me regarding the course via email. I will almost always respond to emails within 24 hours. We will also use myCourses discussions for questions, link-sharing and general class discussion. I am also available via Twitter.
+
+**If you need to discuss grades or personal matters, I ask that you do it via my RIT email address**.
+
 
 ## Statement on Well-Being & Success
 
