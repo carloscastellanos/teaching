@@ -101,12 +101,12 @@ Twitter: [@ccastellanossf](https://twitter.com/ccastellanossf) (DMs open)
     * [Professionalism](#professionalism)
     * [Late Policy](#late-policy)
     * [Follow Your Passion](#follow-your-passion)
-* [**Academic Integrity**]
+* [**Academic Integrity**](#academic-integrity)
     * [Policies for Open-Ended Creative Projects](#policies-for-open-ended-creative-projects)
     * [Use of Free and Open-Source Code in Projects](#use-of-free-and-open-source-code-in-projects)
     * [Informal Collaboration](#informal-collaboration)
     * [Formal Collaboration](#formal-collaboration)
-* [**Additional Information**]
+* [**Additional Information**](#additional-information)
     * [Communication](#communication)
     * [Statement on Well-Being & Success](#statement-on-well-being--success)
 
