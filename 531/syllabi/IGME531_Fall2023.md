@@ -87,7 +87,7 @@ Students will design and build creative applications, while studying the history
 
 IGME 531 is a practical introduction to programming and computational media within the context of contemporary art and aesthetics. This is a kind of “studio art course in computer programming”. That is, our objective is art and aesthetics, achieved through the medium of student-written software. Intended for students who have had at least one semester of elementary programming (in any language), this course introduces students to concepts, methods, historical context and critical issues in contemporary arts and culture as they pertain to computational and emerging media technologies. Students will develop or deepen the skills and confidence to produce interactive, generative, and other computationally-based artworks. They will also conduct research and discuss their work in relation to current and historical praxes of computational art and engage critically with emerging technologies.
 
-# Course Profile
+# Course Overview
 
 ## Topics
 
@@ -130,7 +130,7 @@ Levin, G., & Brain, T. (2021). _Code as creative medium: A Handbook for Computat
 
 - **Computer:** Students should have access to a desktop or laptop computer with a webcam. A reliable internet connection will also be very important.
 - **Sketchbook:** It is extremely wise to plan your projects on paper before writing any code. In support of this, you are required to maintain a paper sketchbook for this course. Most assignments will require you to post images of your project sketches.
-- **Programming Environments:** This is a polyglot course; the programming environments used for example projects and sample code will be a mixture of p5.js (JavaScript, optionally with Visual Studio Code and the p5.vscode extension), Processing (Java), Python and possibly openFrameworks (C++) and Max/MSP/Jitter (visual programming environment).
+- **Programming Environments:** This is a polyglot course; the programming environments used for example projects and sample code will be a mixture of p5.js (JavaScript, optionally with Visual Studio Code and the p5.vscode extension), Processing (Java), Python and possibly openFrameworks (C++) and Max/MSP/Jitter (visual programming environment). Depending on the assignment, you may also use any other media development environment or programming language you are comfortable with (e.g., Unity (C#), Swift, etc.).
 - **Camera:** Students should have access to a digital camera to document certain projects. A smartphone with a camera is acceptable.
 
 ## Learning Resources
@@ -139,7 +139,9 @@ Available resources include books, videos, web sites and GitHub repositories. We
 
 ## Assessment Structure
 
-There are no required text purchases for this course. Readings will be provided through MyCourses and lecture notes.
+Grades will be generated through a [labor-based grading contract](https://en.wikipedia.org/wiki/Contract_grading#Labor-based_contract_grading), which will be negotiated with the students at the beginning of the semester, and re-evaluated at mid-semester. This contract will be based on factors including completion of assignments and attendance.
+
+There are approximately 8 main assignments (software art programming projects) on which students will receive critical feedback from the instructor and their peers. Critical feedback on the content or quality of projects will not factor into grades, except where such feedback concerns missing components of the assignment.
 
 # Assignments
 
@@ -148,21 +150,33 @@ There are no required text purchases for this course. Readings will be provided 
 Assignments are not simply about writing code. Every assignment will have associated readings, research and reflective writing components (discussed below). In addition, your instructor will provide important historical context, show examples and provide other notes and resources relevant to the assignment topic/theme. Tentatively, there are 8 main assignments (software art programming projects):
 
 1. Training Camp (skill-building)
-2. Noise, Fractals & Generative Forms
-3. Chance, Indeterminacy & Anti-art
+2. Chance, Indeterminacy & Rule-based systems (e.g. fractals)
+3. Un-drawing Machine
 4. Networks & Telematics
-5. Sonic Creatures
+5. Augmented Body
 6. AI/Machine Learning
-7. Augmented Body
+7. Sonic Creatures
 8. Self-Directed Final Project
 
-## Readings + Response
+## Journal & Documentation
 
-Readings, videos, and other supplementary materials will be prescribed throughout the semester. These might include excerpts from academic texts, academic papers, recorded conference talks, blog posts, or any other material I think is interesting and worth your time. It’s best to think of this as a curated collection of material; you could find it on your own, but I’m saving you the work of sifting through the entire internet for the good bits. It’s important that you take the time to watch and read these. I may ask you to submit some artifact attesting to your having done so. If you’re struggling to keep up with them, don’t hesitate to ask for help. I may recommend which prescribed content is most important, or help you skim through the content to the most important bits.
+Every assignment requires that you document your process. **You will be expected to keep an online journal/blog** of your work in this class – updated weekly (at minimum). Project updates, research process, readings, interesting links – all of these go in your journal. Specific requirements will be provided for each assignment.
 
-## Reflections
+This journal is a reflection of yourself as a professional and should demonstrate that. Therefore, even if you do have a website/blog already, **this course requires that you create a website/blog unique to this course**. This will be a website that you will continue to use throughout this course and perhaps your duration in the program. Free blogging platforms like WordPress or Weebly will work just fine.
 
-Weekly reflections are lightweight, freeform opportunities for you to think just a bit further on the class’s topics. They will be required every week, and function as the class’s heartbeat: they let me know you’re still invested, if you’re struggling to keep up, where you are in understanding the material. They are not intended to stress you out or require a great deal of effort, and only require that you take a moment every week to think creatively and critically on what you’ve learned.
+In addition to the journal, you will also upload your programming assignments (with some possible exceptions) to the OpenProcessing web site. This will make it easier for all of us to see your programming assignments. You will simply need to post a link to the Processing or P5.js sketch in your assignment submission. The following is a selection of several top rated free website services that you may use. You are not limited to these services, but they are recommended.
+
+**Good documentation habits:**
+
+Document your projects thoroughly as you go, do not put it off until the end. Plan in advance to have what you need to document. Photos, video, sketches, schematics, code and notes are all possible forms of documentation. More specific instructions will be given for each assignment but in general you will need to include general description (what it is, does), the goal(s) of the project, add the ideas/inspirations and results/experience (i.e. a narrative reflection). Your explanation should give enough information that someone who’s never seen the project can understand it. In addition (as mentioned below), you will also write a reflection on the readings and your overall research process.
+
+Make sure the code is well-commented, so you and others can understand what it does. You may post your code (and other relevant files) to a code repository site like GitHub (in addition to OpenProcessing).
+
+Make sure to cite sources from which you get your ideas, code, and construction techniques. When you base your work on someone else’s, cite the original author and link to their work, just as you would when quoting another author in a paper. Very few ideas come out of nowhere, and your readers can learn a lot from the sources from which you learned and by which you were inspired. This is how knowledge and innovation work. So please be generous in sharing your sources.
+
+## Readings & Response
+
+Readings, videos, and other supplementary materials will be included as part of every assignment. You will be expected to write a short 1-page response for each in your journal. These might include excerpts from academic texts, academic papers, recorded conference talks, blog posts, or any other relevant material. Remember that this essentially curated collection of material. You could do your own research (and will, especially for your final project), but I am helping you by sharing what I think is most important. Part of learning is knowing where to look and conducting your own research. This is why it is important to do the readings, and come to class with thoughts and questions for discussion. It helps you gain confidence in these “meta-skills” of researching, questioning, generating ideas, etc. As always, if you’re struggling to keep up with the readings, do not hesitate to ask for help.
 
 # Grading
 
