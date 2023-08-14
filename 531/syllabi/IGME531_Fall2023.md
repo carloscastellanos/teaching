@@ -1,4 +1,8 @@
-<div style="font-family: Roboto, sans-serif;">
+<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 0.</p>
+<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+
+<p style="color: red; font-weight: bold">Links to alert messages:</p>
+<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
 
 # IGME 531
 
@@ -9,6 +13,8 @@
 # Course Information
 
 _This document exclusively covers the policies and procedures for IGME-531. This document does not include information about topic units, specific assignments, or readings. These can be found in the Content section._
+
+This syllabus can also be found on [GitHub](https://github.com/carloscastellanos/teaching/blob/master/531/syllabi/IGME531_Fall2023.md)
 
 <table>
   <tr>
@@ -77,19 +83,23 @@ Twitter: [@ccastellanossf](https://twitter.com/ccastellanossf) (DMs open)
 
 ---
 
-# Course Description
+# Contents
 
-## Catalog Description
+[TOC]
+
+# Course Description {#course-description}
+
+## Catalog Description {#catalog-description}
 
 Students will design and build creative applications, while studying the history of computation in the visual arts, music, and other relevant areas. Technical topics include advanced audiovisual programming techniques, while theoretical topics include foundational discussions on artificial life, generative art, microsound, participatory and process-based art, programming as performance, and computational creativity. Individual and/or group projects will be required.
 
-## Detailed Description
+## Detailed Description {#detailed-description}
 
 IGME 531 is a practical introduction to programming and computational media within the context of contemporary art and aesthetics. This is a kind of “studio art course in computer programming”. That is, our objective is art and aesthetics, achieved through the medium of student-written software. Intended for students who have had at least one semester of elementary programming (in any language), this course introduces students to concepts, methods, historical context and critical issues in contemporary arts and culture as they pertain to computational and emerging media technologies. Students will develop or deepen the skills and confidence to produce interactive, generative, and other computationally-based artworks. They will also conduct research and discuss their work in relation to current and historical praxes of computational art and engage critically with emerging technologies.
 
-# Course Overview
+# Course Overview {#course-overview}
 
-## Topics
+## Topics {#topics}
 
 This course covers the practical application of computer programming techniques to the creation of explorative and/or expressive software art and computational design. General topics include generative art, gestural interaction systems, network and data aesthetics and creative strategies. This will include (but likely not limited to):
 
@@ -108,7 +118,7 @@ This course covers the practical application of computer programming techniques 
 - Network Art & Telematics
 - Systems Art & Cybernetics
 
-## Course Goals & Learning Objectives
+## Course Goals & Learning Objectives {#course-goals-&-learning-objectives}
 
 Invention and creative experimentation are the overarching goals and ethos of this course. In addition, at the course’s conclusion, students will be able to:
 
@@ -119,31 +129,32 @@ Invention and creative experimentation are the overarching goals and ethos of th
 - Identify and discuss historical, theoretical and societal issues associated with computational media and emerging technologies.
 - Understand how to document, discuss and present creative work
 
-## Required Texts
+## Required Texts {#required-texts}
 
-There are no required text purchases for this course.. There is however an optional text listed below and other learning resources (books, web sites, etc) available through myCourses. You will also be required to open an account at [OpenProcessing.org](https://OpenProcessing.org)
+There are no required text purchases for this course.. There is however an optional text listed below and other learning resources (books, web sites, etc) available through myCourses. You will also be required to open an account at [OpenProcessing.org](http://openprocessing.org)
 
 _Optional Text:_
-Levin, G., & Brain, T. (2021). _Code as creative medium: A Handbook for Computational Art and Design._ MIT Press.
 
-## Required Materials
+Levin, G., & Brain, T. (2021). _Code as creative medium: A Handbook for Computational Art and Design_. MIT Press.
 
-- **Computer:** Students should have access to a desktop or laptop computer with a webcam. A reliable internet connection will also be very important.
-- **Sketchbook:** It is extremely wise to plan your projects on paper before writing any code. In support of this, you are required to maintain a paper sketchbook for this course. Most assignments will require you to post images of your project sketches.
-- **Programming Environments:** This is a polyglot course; the programming environments used for example projects and sample code will be a mixture of p5.js (JavaScript, optionally with Visual Studio Code and the p5.vscode extension), Processing (Java), Python and possibly openFrameworks (C++) and Max/MSP/Jitter (visual programming environment). Depending on the assignment, you may also use any other media development environment or programming language you are comfortable with (e.g., Unity (C#), Swift, etc.).
-- **Camera:** Students should have access to a digital camera to document certain projects. A smartphone with a camera is acceptable.
+## Required Materials {#required-materials}
 
-## Learning Resources
+- Computer: Students should have access to a desktop or laptop computer with a webcam. A reliable internet connection will also be very important.
+- Sketchbook: It is extremely wise to plan your projects on paper before writing any code. In support of this, you are required to maintain a paper sketchbook for this course. Most assignments will require you to post images of your project sketches.
+- Programming Environments: This is a polyglot course; the programming environments used for example projects and sample code will be a mixture of p5.js (JavaScript, optionally with Visual Studio Code and the p5.vscode extension), Processing (Java), Python and possibly openFrameworks (C++) and Max/MSP/Jitter (visual programming environment). Depending on the assignment, you may also use any other media development environment or programming language you are comfortable with (e.g., Unity (C#), Swift, etc.).
+- Camera: Students should have access to a digital camera to document certain projects. A smartphone with a camera is acceptable.
+
+## Learning Resources {#learning-resources}
 
 Available resources include books, videos, web sites and GitHub repositories. We will also make use of threaded online discussions. All of this is available through (you guessed it) myCourses.
 
-## Assessment Structure
+## Assessment Structure {#assessment-structure}
 
 Grades will be generated through a [labor-based grading contract](https://en.wikipedia.org/wiki/Contract_grading#Labor-based_contract_grading), which will be negotiated with the students at the beginning of the semester, and re-evaluated at mid-semester. This contract will be based on factors including completion of assignments and attendance.
 
 There are approximately 8 main assignments (software art programming projects) on which students will receive critical feedback from the instructor and their peers. Critical feedback on the content or quality of projects will not factor into grades, except where such feedback concerns missing components of the assignment.
 
-# Philosophy
+# Philosophy {#philosophy}
 
 This course operates under the following principles:
 
@@ -155,9 +166,9 @@ This course operates under the following principles:
 
 **Critical Thinking, Reflection and Writing.** Understanding develops through reflection, and the best discipline for reflection is writing and drawing. Mere repetition of the examples does not build skill; it is the process of reflection which integrates experience into knowledge which can be applied to novel situations.
 
-# Assignments
+# Assignments {#assignments}
 
-## Overview
+## Overview {#overview}
 
 Assignments are not simply about writing code. Every assignment will have associated readings, research and reflective writing components (discussed below). In addition, your instructor will provide important historical context, show examples and provide other notes and resources relevant to the assignment topic/theme. Tentatively, there are 8 main assignments (software art programming projects):
 
@@ -170,7 +181,7 @@ Assignments are not simply about writing code. Every assignment will have associ
 7. Sonic Creatures
 8. Self-Directed Final Project
 
-## Journal & Documentation
+## Journal & Documentation {#journal-&-documentation}
 
 Every assignment requires that you document your process. **You will be expected to keep an online journal/blog** of your work in this class – updated weekly (at minimum). Project updates, research process, readings, interesting links – all of these go in your journal. Specific requirements will be provided for each assignment.
 
@@ -186,15 +197,52 @@ Make sure the code is well-commented, so you and others can understand what it d
 
 Make sure to cite sources from which you get your ideas, code, and construction techniques. When you base your work on someone else’s, cite the original author and link to their work, just as you would when quoting another author in a paper. Very few ideas come out of nowhere, and your readers can learn a lot from the sources from which you learned and by which you were inspired. This is how knowledge and innovation work. So please be generous in sharing your sources.
 
-## Readings & Response
+## Readings & Response {#readings-&-response}
 
 Readings, videos, and other supplementary materials will be included as part of every assignment. You will be expected to write a short 1-page response for each in your journal. These might include excerpts from academic texts, academic papers, recorded conference talks, blog posts, or any other relevant material. Remember that this essentially curated collection of material. You could do your own research (and will, especially for your final project), but I am helping you by sharing what I think is most important. Part of learning is knowing where to look and conducting your own research. This is why it is important to do the readings, and come to class with thoughts and questions for discussion. It helps you gain confidence in these “meta-skills” of researching, questioning, generating ideas, etc. As always, if you’re struggling to keep up with the readings, do not hesitate to ask for help.
 
-# Grading
+# Grading {#grading}
 
-In general, grading procedure for the course follows [University Policy D05.0](https://www.rit.edu/academicaffairs/policiesmanual/d050), which describes policies regarding points awarded for grade, handling of withdrawals (D05.0, Section IV), and so on.
+Your work will be evaluated according to three different schemes, which are decoupled to the greatest extent possible:
 
-## Class Grade Components
+- **Grades**: standards used by RIT on its transcripts to indicate your objective level of effort in a course; see Class Grade Components below
+- **Rubrics**: standards used by our class community in critiques to provide subjective feedback about your creative projects
+- **Professionalism**: standards used by the professor to judge your professional conduct, which help me decide whether I might someday write a letter of recommendation for you, agree to offer independent study credits to you, hire you as a research assistant, etc.
+
+## Rubrics for Creative Projects {#rubrics-for-creative-projects}
+
+The purpose of our open-ended projects is to provide well-circumscribed opportunities for you to make creative work with code. Generally, the prompts will invite you to explore a specific conceptual theme or set of programming techniques. As such - and since there is no “correct” or “best” or “optimal” artwork - there is no correct solution to these assignments and no specific requirement for how to implement your idea (unless otherwise specified). A prompt also asks not just for a creative solution, but also for some **creativity in defining and approaching the problem**. It is expected that your projects will be documented and published to your online journal.
+
+With creative projects, it may not matter how much time a student spent making it. You may sometimes observe a very quickly-executed solution which succeeds because of its strong concept. Usually, however, the quality of a project is rewarded by extra attention to its craft.
+
+In our critiques, we will evaluate your open-ended projects according to the following subjective considerations:
+
+- **Curiosity:** Are you asking questions as you work?
+- **Perseverance:** Are you forging through difficult problems without giving up?
+- **Execution:** Are you crafting with purpose, precision, and attention?
+- **Inventiveness and Risk-Taking:** Are you discovering/exploring methods outside the obvious and predictable? Taking risks and pushing past what you already know and discovering new territories, terms, skills, connections, etc. Ideas that fail often teach more than ideas that succeed.
+
+## Grade Calculation {#grade-calculation}
+
+Grades will be calculated via a [labor-based grading contract](https://en.wikipedia.org/wiki/Contract_grading#Labor-based_contract_grading), which will be negotiated with students at the beginning of the semester, and re-evaluated at mid-semester. This contract will be based on objective factors that include the number of projects you complete, your fulfillment of the project requirements, and your attendance.
+
+In this course, your grades boil down to fulfillment. Projects always have a list of supporting requirements. These are very straightforward to fulfill, but if you fail to meet these, you will have points deducted. Nearly every project assignment will ask you to do the following:
+
+- Create a unique blog post for your project, on our course website.
+- Title and Categorize your blog post in a specified manner.
+- Embed a photo of your notebook sketches for the project, if applicable.
+- Embed a static image of your project, such as a screenshot or photograph.
+- Embed dynamic documentation of your project (such as an animated GIF, video recording, or interactive applet) into the blog post, if applicable.
+- Read an article(s) or watch a video and write a short (~1-page) response.
+- Write 100-200 words about your project, describing its development process. In your writing, include some critical reflection and analysis of your project: In what ways did you succeed, and in what ways could it be better?
+- Embed or link to your code, if requested.
+- As per our course policies on Academic Integrity, you must also:
+  - Name any other students from whom you received advice or help. If you had collaborators, explain how the work was distributed among the collaborators.
+  - Cite and link to the sources for any code, external libraries, or other media (e.g. photographs, soundtracks, source images) which you used in your Project. **Citing your sources is very important**. If in doubt, err on the side of generosity.
+
+## Grade Components {#grade-components}
+
+Grading procedure for the course follows [University Policy D05.0](https://www.rit.edu/academicaffairs/policiesmanual/d050), which describes policies regarding points awarded for grade, handling of withdrawals (D05.0, Section IV), and so on.
 
 <table>
   <tr>
@@ -277,82 +325,87 @@ F</p>
   </tr>
 </table>
 
-##
+## Professionalism {#professionalism}
 
-## **Evaluation Criteria**
+There are a few elementary things you can do to ensure that you retain my highest respect for your professionalism. These things may seem simple and obvious, but it’s sometimes surprising how few students seem to get this right. At a minimum, I ask you to:
 
-I will do my best to provide feedback for all submitted work within two weeks of the submission deadline (per University policy) and will post all grades to MyCourses. However, depending upon circumstance, feedback may be provided more than two weeks after the submission deadline.
+- **Be nice.** Maintain a positive, friendly attitude.
+- **Be present.** Show up to all course sessions, on time.
+- **Be responsible.** Communicate with the professor beforehand if you must miss a session or if there are any problems, questions, or circumstances that hinder your full participation in the course.
+- **Be diligent.** Submit your deliverables, on time, with clear and thorough documentation.
 
-In addition to the grade for projects, assignments and exams, I will add any additional notes and feedback to the grade in MyCourses.
+Beyond this, I would love it if you could:
 
-If you have any questions about a grade, you are welcome to discuss with me further via email or in-person by scheduling a meeting.
+- **Be helpful.** Help your classmates when they’re stuck.
+- **Be fearless.** Take risks. Work outside your comfort zone. **Give yourself permission to be weird.**
+- **Be conscientious.** Pay attention to details of craft and execution. Put your heart in the work.
+- **Be persevering.** Become resourceful about getting the assistance you need.
+- **Be generous. **Participate in the life of the course. Make helpful contributions to lectures, discussions and critiques.
 
-## **Late Policy**
+## Late Policy {#late-policy}
 
-Assignments are due at the announced date and time (usually the due date posted with the assignment drop box on MyCourses). There is no grade deduction for submitting work late, but late submissions will not be accepted once we start grading the assignment in question. _We may begin grading at any point after the due date._
+Assignments are due at the announced date and time (usually the due date posted with the assignment on myCourses). When you submit work late, you will miss an important opportunity to share, show off, discuss and get critical feedback on your work. To receive this important feedback, your work must be available for evaluation during the critical review period. Thus, to receive full credit towards your grade, projects should be uploaded and completed by the time that I get around to checking them and/or by the time we have class discussion and critiques on them (which is usually on the stated due date or a few days after). If not, I reserve the right to assign partial or zero credit to them. If you know you're going to be a little late with a project, contact me to arrange an accommodation.
 
-- If you foresee a scheduling conflict with a posted assignment, contact me as soon as possible to work out an alternative submission plan.
-- Certain project milestones and/or assignments may not be submitted late at all, if their completion is necessary to participate in class (for instance, if we will be critiquing a project milestone in class the day after it is due, late submission of this milestone will prevent you from participating in class). These will generally be announced.
-- If an assignment is going to be critiqued in class, then it must be completed on time for full credit.
+## Follow Your Passion {#follow-your-passion}
 
-_As a final caveat to the above_, I'm not interested in being a hard-ass about this. If things aren't going your way or extenuating circumstances begin to extenuate, talk to me and we can usually work something out.
+I will assume that most of you are here (that is, in this class and/or at IGM) because you are passionate about games, media arts or otherwise combining technology and creativity. With very rare exceptions (I’ll be clear), I will almost always prefer that you **make the assignment interesting to you** — if necessary, by creatively bending the rules or re-interpreting the assignment. My assignments are starting-points, prompts and propositions. Think beyond them.
 
-## **Attendance**
+Notwithstanding the above, you will always be expected to conform to certain supporting requirements (described above) in regard to deliverables and documentation. Did you include an image of your project? Did you write the requested narrative? Such requirements are non-negotiable.
 
-Attendance is not strictly mandatory, but infrequent attendance will significantly impact your grade. There will be in-class activities that cannot generally be made up if you miss class, and these will often happen without previous warning.
+# Additional Information {#additional-information}
 
-It never hurts to let me know your plans ahead of time. If you’ve not typically missed class, I will wonder where you are. Generally, the more information you can give me the better I can help you and assist you in your learning. If you are dealing with a stressful situation and need a bit of slack, talk to me and we can work it out. If you wish to attend interesting events of professional interest, contact me to discuss possibilities for extensions on work deadlines.
+## Communication {#communication}
 
-In any case, if you miss class or cannot fulfill participation requirements, you are responsible for checking with classmates for notes and MyCourses for posted materials.
+I will be using email and myCourses announcements to communicate reminders, updates to assignments, etc. Please check these regularly to make sure you have the most up to date information. You are welcome to communicate anything to me regarding the course via email. I will almost always respond to emails within 24 hours. We will also use myCourses discussions for questions, link-sharing and general class discussion. I am also available via Twitter.
 
-If I need to miss class, I will let you know as soon as possible both through email and Discord. The department will also post a sign on the classroom door letting you know.
+**If you need to discuss grades or personal matters, I ask that you do it via my RIT email address**.
 
-# **Additional Information**
+## Academic Integrity {#academic-integrity}
 
-## **Succeeding in my class**
+The RIT policy on academic integrity is available at: [http://www.rit.edu/~w-policy/sectionD/D8.html](http://www.rit.edu/~w-policy/sectionD/D8.html). Please read them to understand the penalties associated with academic dishonesty. I reserve the right to determine an appropriate penalty based on the violation of academic dishonesty that occurs. The penalty for plagiarizing may range from failure on the specific plagiarized assignment to failure in the class. If you have any questions about this policy as it relates to work you are doing in the course, please feel free to contact the professor.
 
-### Read the readings
+**Policies for Open-Ended Creative Projects**
 
-All the knowledge in the world is written down, and it takes very little effort to acquire it. The amount of know-how and skill you take away from this class will be directly correlated with the amount of reading you do; use this cheat code to win.
+For your open-ended, public-facing projects, which will be presented and hosted online on myCourses, GitHub or OpenProcessing.org, there are no “correct answers”. Your curiosity, creativity, ingenuity and originality are what’s important.
 
-### Take notes
+You may borrow code or ideas from other sources, within the limits of “reasonable person” principles described below, provided you **attribute your sources**. Your work will appear, publicly, on the open Internet. Your projects will likely be discussed and critiqued in front of (and with the assistance of) your peers.
 
-I **strongly** recommend that you take notes, and that you do so on paper. Paper will help you focus and is conveniently free of all the distractions endemic to digital media.
+You are expected or invited to make extensive use of open-source libraries and tutorials. When working in this way, much like a knitting circle, our classroom is structured around peer instruction, in which students are expected to help each other learn.
 
-[You will learn more efficiently on paper](https://www.npr.org/2016/04/17/474525392/attention-students-put-your-laptops-away?fbclid=IwAR3ZcxFz5PeLs9WOdsAw0tpNeD3ZmxkYLn3nJq6YYj3mpR22ksybcTOfG8Y).
+**Use of Free and Open-Source Code in Projects**
 
-### Ask questions
+You are expected or invited to make extensive use of open-source libraries and tutorials. When working in this way, much like a knitting circle, our classroom is structured around peer instruction, in which students are expected to help each other learn.
 
-We’re all here to learn, and we’ll all have moments when we don’t know something. Ask me (or your classmates) questions when you don’t know something, and take risks on iffy answers. Everyone will be better off for the conversation.
+Credit is perhaps the most important form of currency in the economies of commons-based peer production and open-source media arts. You are expected to cite the source of any code you use. Please note the following expectations and guidelines:
 
-### Participate recklessly
+**Use Libraries.** In your projects, the use of general, reusable libraries is strongly encouraged. The people who developed and contributed these components to the community worked hard, often for no pay; acknowledge them by citing their name and linking to their repository.
 
-I find I learn best when learning is an act of play, and an earnest exploration into unknown territory. That requires that you be open to making mistakes, to giving the wrong answer in class, and risking that you’ll look like a fool. The more we can dive in with that philosophy, the better the course will go.
+**Be Careful.** It sometimes happens that an artist places the entire source code for their artwork online, as a resource from which others can learn. The assignments professors give in new-media arts courses are often similar; you may discover the work of a student in some other class or school, who has posted code for a project which responds to a similar assignment. You should probably avoid this code. At the very least, you should be very, very careful about approaching such code for possible re-use. If it is necessary to do so, it is best to extract components that solve a specific technical problem, rather than those parts which operate to create a unique creative experience. Your challenge, if and/or when you work with others’ code, is to **make it your own**. It should be clear that forking an artwork from someone’s page on GitHub, OpenProcessing, etc., and simply changing the colors would be disgracefully lazy. Doing so without proper citation would be plagiarism.
 
-## **Communication**
+**Informal Collaboration**
 
-I will be using email and myCourses announcements to communicate reminders, updates to assignments, etc. Please check these regularly to make sure you have the most up to date information. You are welcome to communicate anything to me regarding the course via email. I will almost always respond to emails within 24 hours. We will also use myCourses dicussions for questions, link-sharing and general class discussion. I am also availabe via Twitter.
+This course places a very high value on civic responsibility that includes, but is not limited to, helping others learn. In this course, we strongly encourage you to give help (or ask others for help) in using various toolkits, algorithms, libraries, or other facilities. Please note the following expectations:
 
-**If you need to discuss grades or personal matters, I ask that you do it via my RIT email address.**
+- In this class, **it’s OK to give and receive help.** In fact, it’s better than OK! But students who receive help from someone else are obliged to acknowledge that person in their project report, clarifying the nature of the help that was received.
+- **We are all teachers.** Students with advanced skills are expected to help others, yet refrain from doing another’s work for them. You can usually tell when you’re about to cross the line: Ask yourself whether you are teaching someone to fish, or merely giving them the fish.
+- When in doubt: **give credit** to the people who have helped you.
 
-## **Notices of Accommodation**
+**Formal Collaboration**
 
-If you have a "Notice of Accommodation", I should have received a copy electronically. Please discuss this with me after class or in person so that we can make sure all of your accommodations are met.
+The assignments in this course are primarily intended to be executed by individuals. That said, I am in favor of students collaborating if such collaborations arise organically and can be conducted safely. Please note the following expectations:
 
-##
+- **Notify the Professor.** It’s helpful for me to know who is working with whom. Students who wish to collaborate should jointly inform the professor as early as possible.
+- **Only pairs.** Unless permission is explicitly granted by the Professor, collaborations in this course are restricted to pairs of students.
+- **Describe who did what.** Written reports for collaborative projects should describe how your effort was distributed.
+- **Only IGME531 collaborators.** Your project collaborator, if you have one, must be in this class. You may not collaborate with people from outside the course (e.g. your housemate).
+- **Avoid codependency.** You may not collaborate with the same person (i.e. submit an assignment jointly) on more than two projects.
 
-## **Academic Integrity**
+## Statement on Well-Being & Success {#statement-on-well-being-&-success}
 
-The RIT policy on academic integrity is available at: [http://www.rit.edu/~w-policy/sectionD/D8.html](http://www.rit.edu/~w-policy/sectionD/D8.html). I have a responsibility to the university to ensure that academic dishonesty does not happen by anyone in my courses and I take this responsibility very seriously. I also think upholding academic integrity is simply the right thing to do.
+Success in this course depends heavily on your personal health and wellbeing. Recognize that stress is an expected part of the college experience, and it often can be compounded by unexpected setbacks or life changes outside the classroom. Moreover, those with marginalized identities may be faced with additional social stressors. Your other instructors and I strongly encourage you to reframe challenges as an unavoidable pathway to success. Reflect on your role in taking care of yourself throughout the term, before the demands of exams and projects reach their peak. Please feel free to reach out to me about any difficulty you may be having that may impact your performance in this course as soon as it occurs and before it becomes unmanageable. In addition to your academic advisor, I strongly encourage you to contact the many other support services on campus that stand ready to assist you.
 
-In this course, if you violate the academic dishonesty policy, you will receive an "F" grade for the course, I will file a letter with the department detailing the incident for your records folder, and you will be immediately removed from the class. (If this is a second occurrence during your career at RIT, the penalties are harsher.)
-
-I really hate to see anyone fail a course this way, so if you have any questions about your work and these policies, the easiest thing to do is to double-check with me before submitting your work. That way, I can let you know if there's any issues and we can ensure your work is safe to submit.
-
-For your open-ended, public-facing projects, which will be presented and hosted online on myCourses, GitHub or OpenProcessing.org, there are no “correct answers”. Your curiosity, creativity, ingenuity and originality are what's important.
-
-# **Final Note**
+# Final Note {#final-note}
 
 Any and all of the previous information is subject to change or modification during the semester, but always with notice. Any changes will be announced in class and communicated electronically.
 
-</div>
+Note: this syllabus borrows ideas and content from numerous colleagues in the New Media Art/Creative Coding community. In the spirit of the course itself, it is a combination of material from the course designer/instructor Carlos Castellanos and colleagues [Golan Levin](https://flong.com), [Ali Momeni](https://alimomeni.net/), the late [Stephen Wilson](https://www.legacy.com/us/obituaries/sfgate/name/stephen-wilson-obituary?id=21055905), [Travis Stodter](https://www.rit.edu/directory/tmsigm-travis-stodter) and many others.
