@@ -1,6 +1,6 @@
 # What is a "Field Report"?
 
-For this course, you will periodically be asked to “survey the field”. That is, browse various blogs, web sites, academic journals or other resources in order to deepen your knowledge of the field and familiarize yourself with the current state of the art. You will then be expected to report on your findings — hopefully with a critical perspective. Some weeks, the "Field Report" deliverables may be thematically oriented. There is no restriction on the sources of information you may use.
+For this course, you will periodically be asked to "survey the field". That is, browse various blogs, web sites, academic journals or other resources in order to deepen your knowledge of the field and familiarize yourself with the current state of the art. You will then be expected to report on your findings — hopefully with a critical perspective. Some weeks, the "Field Report" deliverables may be thematically oriented. There is no restriction on the sources of information you may use.
 
 A "Field Report" is a brief post that reports on a new media project that interests you. Your job is to browse blogs and other sources, and then report on an artwork or other project *that you haven’t seen before*. Blogging about a project of which you’re already aware defeats the point of the assignment, which is to deepen your familiarity with the fields of new media arts and creative technology — *and develop your own personal research practice*.
 
