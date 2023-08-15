@@ -90,6 +90,10 @@ Twitter: [@ccastellanossf](https://twitter.com/ccastellanossf) (DMs open)
     * [Learning Resources](#learning-resources)
     * [Assessment Structure](#assessment-structure)
 * [**Philosophy**](#philosophy)
+* [**Attendance**](#attendance)
+    * [Attendance & Presence](#attendance--presence)
+    * [A Word About Unexcused Absences in Critiques](#a-word-about-unexcused-absences-in-critiques)
+    * [Attendance Policy Summary](#attendance-policy-summary)
 * [**Assignments**](#assignments)
     * [Overview](#overview)
     * [Journal & Documentation](#journal--documentation)
@@ -195,7 +199,7 @@ This course operates under the following principles:
 
 ## Attendance & Presence
 
-_"80% of success is showing up" _— Woody Allen
+_"80% of success is showing up"_— Woody Allen
 
 Your presence and earnest participation in the class are of paramount importance. You are responsible for what happens in class whether you are here or not. Organize with your classmates to get class information and material that you have missed.
 
