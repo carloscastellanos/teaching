@@ -191,6 +191,50 @@ This course operates under the following principles:
 
 **Critical Thinking, Reflection and Writing.** Understanding develops through reflection, and the best discipline for reflection is writing and drawing. Mere repetition of the examples does not build skill; it is the process of reflection which integrates experience into knowledge which can be applied to novel situations.
 
+# Attendance
+
+## Attendance & Presence
+
+_"80% of success is showing up" _— Woody Allen
+
+Your presence and earnest participation in the class are of paramount importance. You are responsible for what happens in class whether you are here or not. Organize with your classmates to get class information and material that you have missed.
+
+Additionally, communication is paramount when it comes to your attendance. If you are going to be absent or tardy, please contact the professor in a timely manner regarding your situation. Email is best, but I am also amenable to receiving messages via Twitter DM, or the RIT Slack. If you are ill, or if you know you will have a planned absence, please let me know before the beginning of that class session. I can be very understanding and accommodating about planned and necessary absences, family circumstances, and/or medical issues when you inform me in a timely and professional manner.
+
+Regarding your mental presence in the classroom: physical presence means nothing if you are "checked out". Focus is precious, and your mental presence is extremely important. During the professor's lectures or (especially) during guest presentations, distracted "participation" is simply put — bad form, and will not be tolerated. You can survive for a couple of hours without texting, tweeting, chatting, emailing, or doing work for other courses.
+
+## A Word About Unexcused Absences in Critiques
+
+Sometimes, students who haven’t completed their projects skip class during critiques, because they are too embarrassed to come to class empty-handed. This type of absence is particularly self-destructive, and is one of the most objectionable things you can do in this class. Please have courage. Your participation on critique days is essential, even if your own project is incomplete or missing, because these sessions and conversations help you understand our class standards, expectations, and criteria for good work. **Even if your own project is unfinished, you are still expected to contribute productively to the class discussion**.
+
+## Attendance Policy Summary
+
+**Terms:**
+
+
+* A **class event** is an in-class activity, such as a lecture or critique, in which your presence and participation is expected.
+* An **excused absence** is one in which you've communicated responsibly with the professor prior to class. For example, if you've sent an email to the professor because you're not feeling well, or if you know in advance that you're going to be observing a religious holiday or traveling to a job interview. Contacting the professor beforehand can make it possible to provide you with accommodations—such as recording a class event, or providing a Zoom connection for a remote participant.
+* An **unexcused absence** is one in which you've _ghosted_ a class event, without communicating beforehand with the professor.
+* A **mental absence** is a form of partial absence in which you might as well be elsewhere. For example, while walking around the room, I plainly observe that you're working on homework for another course. Sleeping in class is also a form of mental absence.
+* **Tardiness** is a form of partial absence in which you are more than 20 minutes late to a class event. Tardiness may be excused or unexcused.
+
+**Policies:**
+
+
+* Students should contact the professor before class to alert him to their absence.
+* Our labor-based grading contract (to be negotiated) will assign grades that factor in a count of unexcused absences, but not excused absences.
+* A post-hoc excuse for an unexcused absence may or may not be accepted, at the professor's discretion.
+* The first incidence of unexcused tardiness will be noted, but excused.
+* The first incidence of mental absence will be noted, but excused.
+
+**Advisory:**
+
+The three least forgivable violations of our course attendance policy are:
+
+1. Sleeping during a presentation by an outside guest
+2. Unexcused absence during a critique
+3. Unexcused absence... and then I bump into you in the hallway chatting with your friends later that day
+
 # Assignments
 
 ## Overview
