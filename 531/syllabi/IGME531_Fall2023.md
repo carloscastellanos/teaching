@@ -246,12 +246,12 @@ The three least forgivable violations of our course attendance policy are:
 Assignments are not simply about writing code. Every assignment will have associated readings, research and reflective writing components (discussed below). In addition, your instructor will provide important historical context, show examples and provide other notes and resources relevant to the assignment topic/theme. Tentatively, there are 8 main assignments (software art programming projects):
 
 1. Training Camp (skill-building)
-2. Chance, Indeterminacy & Rule-based systems (e.g. fractals)
-3. Un-drawing Machine
-4. Networks & Telematics
-5. Augmented Body
-6. AI/Machine Learning
-7. Sonic Creatures
+2. Rhythm & Time
+3. Chance, Indeterminacy & Rule-based systems (e.g. fractals)
+4. Un-drawing Machine
+5. Networks & Telematics
+6. Augmented Body
+7. AI/Machine Learning
 8. Self-Directed Final Project
 
 ## Journal & Documentation
