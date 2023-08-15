@@ -208,7 +208,7 @@ Assignments are not simply about writing code. Every assignment will have associ
 
 ## Journal & Documentation
 
-Every assignment requires that you document your process. **You will be expected to keep an online journal/blog** of your work in this class – updated weekly (at minimum). Project updates, research process, readings, interesting links – all of these go in your journal. Specific requirements will be provided for each assignment.
+Every assignment requires that you document your process. **You will be expected to keep an online journal/blog** of your work in this class. Project updates, research process, readings, interesting links – all of these go in your journal. Specific requirements will be provided for each assignment.
 
 This journal is a reflection of yourself as a professional and should demonstrate that. Therefore, even if you do have a website/blog already, **this course requires that you create a website/blog unique to this course**. This will be a website that you will continue to use throughout this course and perhaps your duration in the program. Free blogging platforms like WordPress or Weebly will work just fine.
 
@@ -245,7 +245,7 @@ In our critiques, we will evaluate your open-ended projects according to the fol
 - **Curiosity:** Are you asking questions as you work?
 - **Perseverance:** Are you forging through difficult problems without giving up?
 - **Execution:** Are you crafting with purpose, precision, and attention?
-- **Inventiveness and Risk-Taking:** Are you discovering/exploring methods outside the obvious and predictable? Taking risks and pushing past what you already know and discovering new territories, terms, skills, connections, etc. Ideas that fail often teach more than ideas that succeed.
+- **Inventiveness and Risk-Taking:** Are you discovering/exploring methods outside the obvious and predictable? Are you taking risks and pushing past what you already know and discovering new territories, terms, skills, connections, etc. Ideas that fail often teach more than ideas that succeed.
 
 ## Grade Calculation
 
