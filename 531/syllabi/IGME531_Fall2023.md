@@ -130,7 +130,7 @@ IGME 531 is a practical introduction to programming and computational media with
 
 ## Topics
 
-This course covers the practical application of computer programming techniques to the creation of explorative and/or expressive software art and computational design. General topics include generative art, gestural interaction systems, network and data aesthetics and creative strategies. This will include (but likely not limited to):
+This course covers the practical application of computer programming techniques to the creation of explorative and/or expressive software art and computational design. General topics include generative art, gestural interaction systems, network and data aesthetics and creative strategies. This will include:
 
 - Unpredictability and chance operations
 - Fractals & L-Systems
@@ -227,6 +227,7 @@ Sometimes, students who haven’t completed their projects skip class during cri
 
 * Students should contact the professor before class to alert him to their absence.
 * Our labor-based grading contract (to be negotiated) will assign grades that factor in a count of unexcused absences, but not excused absences.
+* You are permitted one unexcused absence.
 * A post-hoc excuse for an unexcused absence may or may not be accepted, at the professor's discretion.
 * The first incidence of unexcused tardiness will be noted, but excused.
 * The first incidence of mental absence will be noted, but excused.
@@ -248,7 +249,7 @@ Assignments are not simply about writing code. Every assignment will have associ
 1. Training Camp (skill-building)
 2. Representing Time
 3. Chance, Indeterminacy & Rule-based systems (e.g. fractals)
-4. Un-drawing Machine
+4. Un-Drawing Machine
 5. Networks & Telematics
 6. Augmented Body
 7. AI/Machine Learning
