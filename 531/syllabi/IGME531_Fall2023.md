@@ -248,7 +248,7 @@ Assignments are not simply about writing code. Every assignment will have associ
 
 1. Training Camp (skill-building)
 2. Representing Time
-3. Chance, Indeterminacy & Rule-based systems (e.g. fractals)
+3. Chance, Indeterminacy & Rule-based Systems
 4. Un-Drawing Machine
 5. Networks & Telematics
 6. Augmented Body
