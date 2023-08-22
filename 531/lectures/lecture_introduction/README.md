@@ -106,3 +106,13 @@ It's possible that STEM education might benefit from the inclusion of arts-orien
 You, as IGM students, may be in a Computing Science college, but make no mistake — you are making cultural artifacts. Thus our objective here is to make compelling provocative new forms of culture, and our medium is software and electronics. We learn codeing as necessary to execute our ideas.
 
 We can learn via hands-on tinkering and experimentation. While success (however you define it) won’t happen overnight, know that with a modest set of skills as simple as (1) identifying what you don’t know, (2) knowing how and where to look things up and (3) how to inquire, research question, etc and (4) how to tinker and and keep tinkering, you will eventually reach your goals.
+
+
+## Before Next Session
+
+1. Create a (free) account on [OpenProcessing.org](https://openprocessing.org/).
+2. Create a (free) account on the [p5.js Editor](https://editor.p5js.org/)
+3. Spend some time browsing the [p5.js Examples](https://p5js.org/examples/). Examine at least six Examples, including their code.
+4. Spend some time browsing the [p5.js Reference](https://p5js.org/reference/). Examine at least 6 Reference pages, starting with the Shape commands.
+5. Browse [We Make Money Not Art](https://we-make-money-not-art.com/) and the [MediaArtTube](https://www.youtube.com/user/MediaArtTube) YouTube channel. Identify a project or two that you find interesting. Time permitting, we will discuss these in class.
+6. And don’t forget to fill out the [Labor Contract Survey](https://forms.gle/1H8omAbzY1x2ydxk7)
