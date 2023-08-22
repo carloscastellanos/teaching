@@ -1,23 +1,8 @@
 
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 5.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
-# An Introduction
+# Aesthetics & Computation: An Introduction
 
 
 ## Preliminaries
-
 
 
 * Roll call
@@ -33,11 +18,7 @@
 Aesthetics can be defined as normative judgements related to questions of beauty and the nature of taste, especially in the arts. It is considered a branch of philosophy concerned with these judgements
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.jpg "image_tooltip")
+[Immanuel Kant](img/Kant_gemaelde_3_(cropped).jpg "Immanuel Kant)
 
 
 Philosopher Immanuel Kant argued that beauty is not a property of an artwork or natural phenomenon, but is instead best understood as the pleasure derived from how the given artwork or natural phenomenon stimulates our imagination. His theory of the [sublime](https://en.wikipedia.org/wiki/Sublime_(philosophy)) connects great art and beauty to subjective qualities of greatness and wonder that are beyond human possibility of measurement, imitation or otherwise full understanding (similar to God).
@@ -56,7 +37,7 @@ The relationship between computation and images is actually much older than perh
 <p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image2.jpg "image_tooltip")
+[Wooden Jacquard Loom](img/Wooden_Jacquard_loom_MOSI-11_5544.JPG "Jacquard Loom")
 
 
 
