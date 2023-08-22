@@ -73,6 +73,7 @@ Other related movements which we will touch on this semester include:
 
 
 ![Sol Lewitt's 'Wall Drawings'](img/Sol_Lewitt-WallDrawings.jpg "Sol Lewitt's 'Wall Drawings'")
+*Sol Lewitt's 'Wall Drawings' (1969-).*
 
 
 ## Art & Aesthetics in a School of Computer Science
