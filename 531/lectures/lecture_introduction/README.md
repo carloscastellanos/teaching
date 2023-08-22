@@ -59,6 +59,7 @@ The conceptual and aesthetic roots of New Media/Computational art actually exten
 
 
 ![Marcel Duchamp's 'Fountain'](img/Duchamp_Fountain.jpg "Marcel Duchamp's 'Fountain'")
+*'Fountain', Marcel Duchamp (1917-).*
 
 
 Other related movements which we will touch on this semester include:
