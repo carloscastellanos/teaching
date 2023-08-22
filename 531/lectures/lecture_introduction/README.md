@@ -35,12 +35,12 @@ The relationship between computation and images is actually much older than perh
 
 ![Wooden Jacquard Loom](img/Wooden_Jacquard_loom_MOSI-11_5544.JPG "Jacquard Loom")
 
-<video src='https://www.youtube.com/watch?v=MQzpLLhN0fY' /></video>
+[Video of Jacquard Loom in action](https://www.youtube.com/watch?v=MQzpLLhN0fY)
 
 
 However the earliest iterations of computer art and generative art was the work of artists such as [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake), [Vera Molnar](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r) and [John Whitney](https://en.wikipedia.org/wiki/John_Whitney_(animator)), among others.
 
-![https://youtu.be/TbV7loKp69s](https://youtu.be/TbV7loKp69s)
+[John Whitney's 'Catalog' (1961)](https://youtu.be/TbV7loKp69s)
 
 
 Today, computers are used for _everything_. Photoshop and related tools have been around for more than a quarter century. In this course, we will distinguish between art that happens to have been made on a computer, and art which necessarily requires the development of new technology (software, circuits).
@@ -72,16 +72,11 @@ Other related movements which we will touch on this semester include:
 * [Situationists](https://en.wikipedia.org/wiki/Situationist_International)
 
 
+![Sol Lewitt's 'Wall Drawings'](img/Sol_Lewitt-WallDrawings.jpg "Sol Lewitt's 'Wall Drawings'")
 
-
-![alt_text](images/image4.png "image_tooltip")
-
-
-[www.youtube.com/watch?v=lYJ3dPwa2tI](www.youtube.com/watch?v=lYJ3dPwa2tI)
 
 
 ## Art & Aesthetics in School of Computer Science
-
 
 
 * How many of you have taken an art or music course?
@@ -94,12 +89,10 @@ Other related movements which we will touch on this semester include:
 <p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image5.jpg "image_tooltip")
+![Leah Buechley](img/leah_buechley.jpg "Leah Buechley")
 
 
 Designer/educator/engineer, [Leah Buechley](https://leahbuechley.com/), has observed that STEM subjects generally fail to educate students who:
-
-
 
 * learn concretely (from examples) rather than abstractly (from equations)
 * work improvisationally rather than by planning everything in advance
