@@ -18,7 +18,7 @@
 Aesthetics can be defined as normative judgements related to questions of beauty and the nature of taste, especially in the arts. It is considered a branch of philosophy concerned with these judgements
 
 
-[Immanuel Kant](img/Kant_gemaelde_3_(cropped).jpg "Immanuel Kant)
+[Immanuel Kant](img/Kant_cropped.jpg "Immanuel Kant")
 
 
 Philosopher Immanuel Kant argued that beauty is not a property of an artwork or natural phenomenon, but is instead best understood as the pleasure derived from how the given artwork or natural phenomenon stimulates our imagination. His theory of the [sublime](https://en.wikipedia.org/wiki/Sublime_(philosophy)) connects great art and beauty to subjective qualities of greatness and wonder that are beyond human possibility of measurement, imitation or otherwise full understanding (similar to God).
@@ -33,17 +33,15 @@ So for this course, you will be asked to consider different kinds of aesthetics 
 The relationship between computation and images is actually much older than perhaps even some computer scientists know. The Jacquard loom from the early 19th century (there were even earlier versions) greatly simplified the process of manufacturing textiles with complex visual patterns such as damask, brocade and jacquard. Interchangeable punch cards were used as a kind of code for the weaving of the patterns.
 
 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 [Wooden Jacquard Loom](img/Wooden_Jacquard_loom_MOSI-11_5544.JPG "Jacquard Loom")
 
+<video src='https://www.youtube.com/watch?v=MQzpLLhN0fY' />
 
 
 
 However the earliest iterations of computer art and generative art was the work of artists such as [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake), [Vera Molnar](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r) and [John Whitney](https://en.wikipedia.org/wiki/John_Whitney_(animator)), among others.
 
+[https://youtu.be/TbV7loKp69s](https://youtu.be/TbV7loKp69s)
 
 
 Today, computers are used for _everything_. Photoshop and related tools have been around for more than a quarter century. In this course, we will distinguish between art that happens to have been made on a computer, and art which necessarily requires the development of new technology (software, circuits).
@@ -51,8 +49,7 @@ Today, computers are used for _everything_. Photoshop and related tools have bee
 
 ## A Bit of Historical COntext
 
-The conceptual and aesthetic roots of New Media/Computational actually art extend further back to the emergence of the Dada movement in early 20th century Europe. Dada emphasized non-sense, non-rationality, critique of existing structures. It critiqued the hubris of Western bourgeois society. Dadaist strategies included:
-
+The conceptual and aesthetic roots of New Media/Computational art actually extend further back to the emergence of the Dada movement in early 20th century Europe. Dada emphasized non-sense, non-rationality, critique of existing structures. It critiqued the hubris of Western bourgeois society. Dadaist strategies included:
 
 
 * collage
@@ -62,14 +59,10 @@ The conceptual and aesthetic roots of New Media/Computational actually art exten
 
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+[Marcel Duchamp's 'Fountain'](img/Duchamp_Fountain.jpg "Marcel Duchamp's 'Fountain'")
 
 
 Other related movements which we will touch on this semester include:
-
 
 
 * [Surrealism](https://en.wikipedia.org/wiki/Surrealism)
@@ -80,8 +73,6 @@ Other related movements which we will touch on this semester include:
 * [Situationists](https://en.wikipedia.org/wiki/Situationist_International)
 
 
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
 ![alt_text](images/image4.png "image_tooltip")
