@@ -18,7 +18,7 @@
 Aesthetics can be defined as normative judgements related to questions of beauty and the nature of taste, especially in the arts. It is considered a branch of philosophy concerned with these judgements
 
 
-[Immanuel Kant](img/Kant_cropped.jpg "Immanuel Kant")
+![Immanuel Kant](img/Kant_cropped.jpg "Immanuel Kant")
 
 
 Philosopher Immanuel Kant argued that beauty is not a property of an artwork or natural phenomenon, but is instead best understood as the pleasure derived from how the given artwork or natural phenomenon stimulates our imagination. His theory of the [sublime](https://en.wikipedia.org/wiki/Sublime_(philosophy)) connects great art and beauty to subjective qualities of greatness and wonder that are beyond human possibility of measurement, imitation or otherwise full understanding (similar to God).
@@ -33,9 +33,9 @@ So for this course, you will be asked to consider different kinds of aesthetics 
 The relationship between computation and images is actually much older than perhaps even some computer scientists know. The Jacquard loom from the early 19th century (there were even earlier versions) greatly simplified the process of manufacturing textiles with complex visual patterns such as damask, brocade and jacquard. Interchangeable punch cards were used as a kind of code for the weaving of the patterns.
 
 
-[Wooden Jacquard Loom](img/Wooden_Jacquard_loom_MOSI-11_5544.JPG "Jacquard Loom")
+![Wooden Jacquard Loom](img/Wooden_Jacquard_loom_MOSI-11_5544.JPG "Jacquard Loom")
 
-<video src='https://www.youtube.com/watch?v=MQzpLLhN0fY' />
+<video src='https://www.youtube.com/watch?v=MQzpLLhN0fY' /></video>
 
 
 
@@ -59,7 +59,7 @@ The conceptual and aesthetic roots of New Media/Computational art actually exten
 
 
 
-[Marcel Duchamp's 'Fountain'](img/Duchamp_Fountain.jpg "Marcel Duchamp's 'Fountain'")
+![Marcel Duchamp's 'Fountain'](img/Duchamp_Fountain.jpg "Marcel Duchamp's 'Fountain'")
 
 
 Other related movements which we will touch on this semester include:
