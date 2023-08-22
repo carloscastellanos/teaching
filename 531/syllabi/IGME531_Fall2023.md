@@ -479,6 +479,10 @@ I will be using email and myCourses announcements to communicate reminders, upda
 
 Success in this course depends heavily on your personal health and wellbeing. Recognize that stress is an expected part of the college experience, and it often can be compounded by unexpected setbacks or life changes outside the classroom. Moreover, those with marginalized identities may be faced with additional social stressors. Your other instructors and I strongly encourage you to reframe challenges as an unavoidable pathway to success. Reflect on your role in taking care of yourself throughout the term, before the demands of exams and projects reach their peak. Please feel free to reach out to me about any difficulty you may be having that may impact your performance in this course as soon as it occurs and before it becomes unmanageable. In addition to your academic advisor, I strongly encourage you to contact the many other support services on campus that stand ready to assist you.
 
+## Statement on the Use of Generative AI
+
+I will not forbid the use of Generative AI in this course. In fact, the nature of the course compels us to explore it, and we will in fact cover generative AI tools this semester. Thus in lieu of a more formal or specific policy, we will follow a similar policy for generative AI as we use for open source code. You will need to clearly spell out what tool(s) you use, what your prompts were (if applicable), link to any GitHub repositories, CoLab Notebooks or any generative AI software tools you used. Again, we will cover some of these so generative AI is part of the course content anyway. However, as with the use of someone else's code, simply taking something and tweaking it slightly will be considered a form of plagiarism, or at least laziness. As with code and computation more generally, you will be asked to be creative and inventive with the use of generative AI.
+
 # Final Note
 
 Any and all of the previous information is subject to change or modification during the semester, but always with notice. Any changes will be announced in class and communicated electronically.
