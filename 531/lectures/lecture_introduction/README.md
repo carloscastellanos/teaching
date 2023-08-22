@@ -38,16 +38,15 @@ The relationship between computation and images is actually much older than perh
 <video src='https://www.youtube.com/watch?v=MQzpLLhN0fY' /></video>
 
 
-
 However the earliest iterations of computer art and generative art was the work of artists such as [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake), [Vera Molnar](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r) and [John Whitney](https://en.wikipedia.org/wiki/John_Whitney_(animator)), among others.
 
-[https://youtu.be/TbV7loKp69s](https://youtu.be/TbV7loKp69s)
+![https://youtu.be/TbV7loKp69s](https://youtu.be/TbV7loKp69s)
 
 
 Today, computers are used for _everything_. Photoshop and related tools have been around for more than a quarter century. In this course, we will distinguish between art that happens to have been made on a computer, and art which necessarily requires the development of new technology (software, circuits).
 
 
-## A Bit of Historical COntext
+## A Bit of Historical Context
 
 The conceptual and aesthetic roots of New Media/Computational art actually extend further back to the emergence of the Dada movement in early 20th century Europe. Dada emphasized non-sense, non-rationality, critique of existing structures. It critiqued the hubris of Western bourgeois society. Dadaist strategies included:
 
