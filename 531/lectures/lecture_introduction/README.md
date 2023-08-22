@@ -83,7 +83,7 @@ Other related movements which we will touch on this semester include:
 * How many of you have taken an art or music course?
 * How many computer science courses outside of IGM have you taken?
 * As curious and creative people, are your IGM coding courses different from regular CS courses? If so, how?
-* How many of you like art or music but came to IGM because it will help you get a “real job” while still having some connection to art, entertainment, media.
+* How many of you like art or music but came to IGM because it will help you get a "real job" while still having some connection to art, entertainment or media?
 
 
 ![Leah Buechley](img/leah_buechley.jpg "Leah Buechley")
@@ -105,7 +105,7 @@ It's possible that STEM education might benefit from the inclusion of arts-orien
 
 You, as IGM students, may be in a Computing Science college, but make no mistake — you are making cultural artifacts. Thus our objective here is to make compelling provocative new forms of culture, and our medium is software and electronics. We learn codeing as necessary to execute our ideas.
 
-We can learn via hands-on tinkering and experimentation. While success (however you define it) won’t happen overnight, know that with a modest set of skills as simple as (1) identifying what you don’t know, (2) knowing how and where to look things up and (3) how to inquire, research question, etc and (4) how to tinker and and keep tinkering, you will eventually reach your goals.
+We can learn via hands-on tinkering and experimentation. While success (however you define it) won’t happen overnight, know that with a modest set of skills as simple as (1) identifying what you don’t know, (2) knowing how and where to look things up and (3) how to inquire, research, question, etc and (4) how to tinker and and keep tinkering, you will eventually reach your goals.
 
 
 ## Before Next Session
