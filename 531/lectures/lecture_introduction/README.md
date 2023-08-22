@@ -75,7 +75,6 @@ Other related movements which we will touch on this semester include:
 ![Sol Lewitt's 'Wall Drawings'](img/Sol_Lewitt-WallDrawings.jpg "Sol Lewitt's 'Wall Drawings'")
 
 
-
 ## Art & Aesthetics in School of Computer Science
 
 
@@ -85,10 +84,6 @@ Other related movements which we will touch on this semester include:
 * How many of you like art or music but came to IGM because it will help you get a “real job” while still having some connection to art, entertainment, media.
 
 
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![Leah Buechley](img/leah_buechley.jpg "Leah Buechley")
 
 
@@ -96,7 +91,7 @@ Designer/educator/engineer, [Leah Buechley](https://leahbuechley.com/), has obse
 
 * learn concretely (from examples) rather than abstractly (from equations)
 * work improvisationally rather than by planning everything in advance
-* are interested in creating expressive objects, rather than utilitarian solutions.
+* are interested in creating expressive objects or systems, rather than utilitarian solutions.
 
 Of traditional computer science introductions, educator-innovator [Mitchel Resnick](https://www.media.mit.edu/~mres/) has remarked, "It's like offering a writing class that teaches only grammar and punctuation without providing students a chance to write their own stories."
 
@@ -104,8 +99,8 @@ This class will attempt to address that.
 
 It's possible that STEM education might benefit from the inclusion of arts-oriented pedagogical approaches. But that’s not the problem that concerns us here. Instead, in a world in which computing now touches every discipline, it should no longer be taken for granted that computing must be taught by computer scientists (it’s like if only nutritionists were allowed to cook your food). Computer Science is a discipline, but programming is a skill (or a tool, or a medium, or better yet, a craft) which has different communities of use with different pedagogical needs.
 
-“Creative coding” describes the growing set of cultural practices by which artists, designers, architects, and poets employ computer programming and custom software as their chosen medium. This burgeoning field has been accelerated by the widespread adoption of open-source arts-engineering toolkits, such as [Processing](https://processing.org/), [p5.js](https://p5js.org/), and [openFrameworks](https://openframeworks.cc/), into the curricula of hundreds of art and design schools around the world. Created by artists, for artists, these toolkits are specifically oriented to the needs and working styles of cultural practitioners, and have radically democratized software development as a potent mode of creative inquiry.
+"Creative coding" describes the growing set of cultural practices by which artists, designers, architects, and poets employ computer programming and custom software as their chosen medium. This burgeoning field has been accelerated by the widespread adoption of open-source arts-engineering toolkits, such as [Processing](https://processing.org/), [p5.js](https://p5js.org/), and [openFrameworks](https://openframeworks.cc/), into the curricula of hundreds of art and design schools around the world. Created by artists, for artists, these toolkits are specifically oriented to the needs and working styles of cultural practitioners, and have radically democratized software development as a potent mode of creative inquiry.
 
-You, as IGM students, may be in a Computing Science college, but make no mistake — you are making culture artifacts. Thus our objective here is to make compelling provocative new forms of culture, and our medium is software and electronics. We learn codecraft as necessary to execute our ideas.
+You, as IGM students, may be in a Computing Science college, but make no mistake — you are making cultural artifacts. Thus our objective here is to make compelling provocative new forms of culture, and our medium is software and electronics. We learn codeing as necessary to execute our ideas.
 
 We can learn via hands-on tinkering and experimentation. While success (however you define it) won’t happen overnight, know that with a modest set of skills as simple as (1) identifying what you don’t know, (2) knowing how and where to look things up and (3) how to inquire, research question, etc and (4) how to tinker and and keep tinkering, you will eventually reach your goals.
