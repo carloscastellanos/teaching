@@ -75,7 +75,7 @@ Other related movements which we will touch on this semester include:
 ![Sol Lewitt's 'Wall Drawings'](img/Sol_Lewitt-WallDrawings.jpg "Sol Lewitt's 'Wall Drawings'")
 
 
-## Art & Aesthetics in School of Computer Science
+## Art & Aesthetics in a School of Computer Science
 
 
 * How many of you have taken an art or music course?
