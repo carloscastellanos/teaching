@@ -15,6 +15,10 @@ Based upon a lecture by [Golan Levin](http://flong.com)
 
 *Why are there 7 days in a week?*
 
+The marking of time stretches back many thousands of years, with some of the earliest 
+timekeeping technologies being gnomons, sundials, water clocks, and lunar calendars. Even today’s standard representation of time, 
+with hours and minutes divided into 60 parts, is a legacy inherited from the ancient Sumerians, who used a [sexagesimal](https://en.wikipedia.org/wiki/Sexagesimal) counting system. 
+
 
 [A Brief History of the Calendar and Timekeeping](https://www.youtube.com/watch?v=OaYMK2n9Aow) (watch up to 12:42). Lecture by Dr. Donna Carroll, Lecturer of Physics, Maastricht University: 
 [![](img/history-of-calendar.jpg)](https://www.youtube.com/watch?v=OaYMK2n9Aow)
