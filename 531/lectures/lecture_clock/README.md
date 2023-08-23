@@ -83,10 +83,6 @@ Now let’s go back in history. Here are John Maeda’s [12 O’Clocks](http://w
 Clocks have been an idee fixe in new media. Here's the elegant video-slitscan-based [*Last Clock*](https://vimeo.com/27975734), (2002) by Jussi Angesleva & Ross Cooper:<br />
 [![](img/lastclock2-620x527.jpg)](https://vimeo.com/27975734)
 
-[Here's a clock](https://www.openprocessing.org/sketch/503941) I produced as a student of John Maeda in 1999.<br />
-[![](img/bandedclock.jpg)](https://www.openprocessing.org/sketch/503941)
-
-
 
 ---
 
