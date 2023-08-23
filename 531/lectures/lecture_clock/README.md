@@ -154,7 +154,6 @@ Monumnents may also not be fixed physically in space and time.
 [*Zero Noon*](http://lozano-hemmer.com/zero_noon.php) by Rafael Lozano-Hemmer<br />
 [![](img/rafael.jpg)](http://lozano-hemmer.com/zero_noon.php)
 
-* [*The Rhythm Of Heart*]() - A metronomic archive of the artists’ heartbeats.
 * [Untitled (Perfect Lovers)](https://collections.dma.org/artwork/5324909) - by Félix González-Torres. Two synchronized clocks embody the tension that comes from two people living side-by-side as life moves forward towards death.
 
 In some situations, it may not be necessary for a clock to “work” mechanically in order for it to “operate” powerfully. Below are clocks which are frozen at 8:15am, the moment when the Hiroshima bomb detonated, when Kengo Nikawa’s pocketwatch stopped forever.
