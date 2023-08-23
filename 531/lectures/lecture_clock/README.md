@@ -1,11 +1,11 @@
-## Representing Time
+# Representing Time
 
 Based upon a lecture by [Golan Levin](http://flong.com)
 
 [![](img/clocks_o.jpeg)](https://tegabrain.com/The-Phenology-Clock)
 *[Phenology Clock](https://tegabrain.com/The-Phenology-Clock) (2014) - part of a project developed at the Environmental Health Clinic with Natalie Jeremijenko, Jake Richardson, Blacki Migliozzi, and others.*
 
-### Deep History
+## Deep History
 
 *Question: Why does the circle have 360°?*
 
@@ -26,7 +26,7 @@ Based upon a lecture by [Golan Levin](http://flong.com)
 
 ---
 
-### Unusual Historical Clocks
+## Unusual Historical Clocks
 
 (*These examples taken from: [A Minor History Of / Time without Clocks](http://www.cabinetmagazine.org/issues/29/foer.php) by Joshua Foer.*)
 Joshua Foer has done such an excellent job, it is best just to link to his [*A Minor History of Time Without Clocks*](http://www.cabinetmagazine.org/issues/29/foer.php). Here’s a [PDF backup](http://cmuems.com/2016/60212/resources/foer_time_without_clocks.pdf). Let’s pay special attention to the following:
@@ -48,7 +48,7 @@ Joshua Foer has done such an excellent job, it is best just to link to his [*A M
 
 ---
 
-### 12 is Arbitrary!
+## 12 is Arbitrary!
 
 It’s worth remembering that the convention that we use 12 (or 24) hour time is *totally arbitrary* — an artifact of ancient Egyptian astronomy. Other systems have been used and proposed. For example, until quite recently, a six-hour day was used in Thailand. During the French Revolution, when the metric system was invented, people seriously proposed decimal time. 
 
@@ -60,7 +60,7 @@ We see this again in the *10-Hour Flux Clock* by George Maciunas (1969):<br />
 
 ---
 
-### Software Clocks (I)
+## Software Clocks
 
 Let’s start with something simple. [The Colour Clock](http://thecolourclock.co.uk/) displays the current time as a hexadecimal color. Hours = red, minutes = green, seconds = blue. There you go; glad that’s over with. In case you were wondering, more than several people have thought of this idea. Low hanging fruit.
 
@@ -86,7 +86,7 @@ Clocks have been an idee fixe in new media. Here's the elegant video-slitscan-ba
 
 ---
 
-### The Clock and Human Industry
+## The Clock and Human Industry
 
 [*Real Time: Schiphol Clock*](https://vimeo.com/171408075) by Maarten Baas<br />
 [![](img/maarten_baas_real_time_schiphol_clock_1.gif)](https://vimeo.com/171408075)
@@ -99,7 +99,7 @@ Clocks have been an idee fixe in new media. Here's the elegant video-slitscan-ba
 [![](img/yugo_nakamura_industrious_clock.gif)](https://www.youtube.com/watch?v=xkAfH11FJDk)
 
 
-### Crowdsourced Clocks
+## Crowdsourced Clocks
 
 [*All the Minutes*](http://alltheminutes.com/) by Studio Moniker, is a clock which cites tweets that mention the current time.<br />
 [![](img/tweet.png)](http://alltheminutes.com/)
@@ -114,7 +114,7 @@ A well-known ‘crowdsourced’ clock (in a different sense) is Christian Marcla
 
 ---
 
-### Physical Machines & Clock Typography
+## Physical Machines & Clock Typography
 
 [*Continue Time*](https://vimeo.com/10800426) by Sander Mulder<br />
 [![](img/sander_mulder_continue_time.gif)](https://vimeo.com/10800426)
@@ -128,7 +128,7 @@ A well-known ‘crowdsourced’ clock (in a different sense) is Christian Marcla
 
 ---
 
-### Monuments: Markers of Time
+## Monuments: Markers of Time
 
 Though not clocks or otherwise keepers of time in the traditional sense, monuments are still markers of time in place. They function as windows to cultural values by pointing to the moments in history, people and places a culture chooses to remember and publicly mark. The location of the monument and relationship to surrounding spaces, the materials used, its history and reasons for its construction are all important elements that contribute to the power (or impotence) of the monument.
 
@@ -148,7 +148,7 @@ _The (1979) by  Monument Against Fascism_ by Esther Shalev-Gerz and Jochen Gerz 
 
 ---
 
-### New Graphics; New Concepts
+## New Graphics; New Concepts
 
 [*Ink Calendar*](http://www.oscar-diaz.net/work/ink-calendar) by Oscar Diaz uses capillary action to display the time.<br />
 [![](img/ink-calendar.jpg)](http://www.oscar-diaz.net/work/ink-calendar)
@@ -168,20 +168,3 @@ In another situation, a clock may simply be working so slowly that it never appe
 
 [*The Clock of the Long Now*](https://www.youtube.com/watch?v=w9uM6BBKfO8) (10,000 Year Clock)
 [![](img/long-now.jpg)](https://www.youtube.com/watch?v=w9uM6BBKfO8)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
