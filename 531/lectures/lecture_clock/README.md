@@ -91,10 +91,6 @@ Clocks have been an idee fixe in new media. Here's the elegant video-slitscan-ba
 [*Real Time: Schiphol Clock*](https://vimeo.com/171408075) by Maarten Baas<br />
 [![](img/maarten_baas_real_time_schiphol_clock_1.gif)](https://vimeo.com/171408075)
 [![](img/maarten_baas_real_time_schiphol_clock_2.gif)](https://www.youtube.com/watch?v=EAax4BSKNQU&t=1m38s)
-[![](img/maarten_baas_real_time_schiphol_clock_3.gif)](https://www.youtube.com/watch?v=Nt_g8TKihy0&t=0m51s)
-
-[*Sweeper Clock*](https://vimeo.com/11164881) by Maarten Baas<br />
-[![](img/maarten_baas_sweeper_clock.gif)](https://vimeo.com/11164881)
 
 [*Standard Time*](https://www.youtube.com/watch?v=81Q3imVqBEk&t=0m12s) by Mark Formanek<br />
 [![](img/mark_formanek_standard_time.gif)](https://www.youtube.com/watch?v=81Q3imVqBEk&t=0m12s)
@@ -102,8 +98,6 @@ Clocks have been an idee fixe in new media. Here's the elegant video-slitscan-ba
 [*Industrious Clock*](https://www.youtube.com/watch?v=xkAfH11FJDk) by Yugo Nakamura<br />
 [![](img/yugo_nakamura_industrious_clock.gif)](https://www.youtube.com/watch?v=xkAfH11FJDk)
 
-[*Book Clock*](https://www.youtube.com/watch?v=A9M__aTuItY) by Masaaki Hiromura<br />
-[![](img/book-clock.jpg)](https://www.youtube.com/watch?v=A9M__aTuItY)
 
 ### Crowdsourced Clocks
 
@@ -125,60 +119,18 @@ A well-known ‘crowdsourced’ clock (in a different sense) is Christian Marcla
 [*Continue Time*](https://vimeo.com/10800426) by Sander Mulder<br />
 [![](img/sander_mulder_continue_time.gif)](https://vimeo.com/10800426)
 
-[*3.16 Billion Cycles*](https://cwandt.com/products/3-16-billion-cycles) by Che-Wei Wang & Taylor Lev<br />
-[![](img/316-billion.jpg)](https://cwandt.com/products/3-16-billion-cycles)
-
-[*Digital Sundial*](https://www.youtube.com/watch?time_continue=819&v=wrsje5It_UU) by Mojoptix<br />
-[![](img/mojoptix.jpg)](https://www.youtube.com/watch?time_continue=819&v=wrsje5It_UU)
-
-Taiwanese designer Yen-Wen Tseng has designed a clock, [*Hand in Hand*](http://www.dezeen.com/2010/03/26/hand-in-hand-clock-yen-wen-tseng/), where the hands are linked by two pivoting arms:<br />
-[![](img/dzn_Hand-in-Hand-Clock-Yen-Wen-Tseng-2.jpg)](http://www.dezeen.com/2010/03/26/hand-in-hand-clock-yen-wen-tseng/)
-
-[*Water Clocks*](https://vimeo.com/28461780) by Bernard Gitton (*jump to 2:19*)<br />
-[![](img/water.jpg)](https://vimeo.com/28461780)
-
-[*Drop Clock*](https://www.youtube.com/watch?v=I32NLiAl9PA&t=0m20s) by Stasean<br />
-[![](img/drop_clock.gif)](https://www.youtube.com/watch?v=I32NLiAl9PA&t=0m20s)
-
-[*Binary Clock*](https://www.youtube.com/watch?v=-n-ZWACEtoM&t=1m18s)<br />
-[![](img/binary.jpg)](https://www.youtube.com/watch?v=-n-ZWACEtoM&t=1m18s)
-
-[*LEGO Mindstorms Digital Clock*](https://www.youtube.com/watch?v=A_mA72r3ZiQ&t=0m7s)<br />
-[![](img/lego_mindstorms_digital_clock.gif)](https://www.youtube.com/watch?v=A_mA72r3ZiQ&t=0m7s)
-
-[*Segmentus Clock*](https://www.youtube.com/watch?v=yWma_3koR_M&t=0m17s) by Art Lebedev<br />
-[![](img/art_lebedev_segmentus_clock.gif)](https://www.youtube.com/watch?v=yWma_3koR_M&t=0m17s)
-
 [*Ferrolic*](https://vimeo.com/116510462) by Zelf Koelman<br />
 [![](img/ferrolic.jpg)](https://vimeo.com/116510462)
 
-[*A Million Times*](https://vimeo.com/60491636) by Humans Since 1982<br />
-[![](img/humans_since_1982_a_million_times.gif)](https://vimeo.com/60491636)
-
-[*The Clock Clock*](https://vimeo.com/29319186) by Humans Since 1982<br />
-[![](img/humans_since_1982_the_clock_clock.gif)](https://vimeo.com/29319186)
-
-[*A Study Of Time*](https://vimeo.com/25087555) by rAndom International<br />
-[![](img/random_international_a_study_of_time.gif)](https://vimeo.com/25087555)
-
-[*Wordclock*](https://www.youtube.com/watch?v=zwX95UaKCRg&t=0m46s)<br />
-[![](img/word_clock.gif)](https://www.youtube.com/watch?v=zwX95UaKCRg&t=0m46s)
-
-[*Qlocktwo*](http://www.qlocktwo.com/produktbilder_classic.php?lang=en) by Biegert & Funk selectively illuminates parts of a text image:<br />
-[![](img/qlock2.jpg)](http://www.qlocktwo.com/produktbilder_classic.php?lang=en)
-
 [*It's about time*](https://makezine.com/2007/09/27/clock-tells-time-as-a-con/) by insightoutsight /  Laurence Willmott<br />
 [![](img/about-time.jpg)](https://makezine.com/2007/09/27/clock-tells-time-as-a-con/)
-
-[*Four Letter Clock*](http://www.skot9000.com/posts/2011/10/17/fourletter.html) by Skot Croshere (SKOT9000), 2011<br />
-[![](img/four-letter-clock.jpg)](http://www.skot9000.com/posts/2011/10/17/fourletter.html)
 
 
 ---
 
 ### Monuments: Markers of Time
 
-Thouugh not clocks or otherwise keepers of time, monuments are still markers of time in place. THey function as windows to cultural values by pointing to the moments in history, people and places a culture chooses to remember and publicly mark. The location of the monument and relationship to surrounding spaces, the materials used, its history and reasons for its construction are all important elements that contribute to the power (or impotence) of the monument.
+Though not clocks or otherwise keepers of time in the traditional sense, monuments are still markers of time in place. They function as windows to cultural values by pointing to the moments in history, people and places a culture chooses to remember and publicly mark. The location of the monument and relationship to surrounding spaces, the materials used, its history and reasons for its construction are all important elements that contribute to the power (or impotence) of the monument.
 
 Monuments are not fixed in memory or meaning. Sometimes history is lost and forgotten and monuments lose their 'currency', or the settings of monuments may change, thereby shifting and changing their context and meaning.
 
@@ -198,42 +150,6 @@ Monumnents may also not be fixed physically in space and time.
 
 [*A Dot for Every Second in the Day*](http://www.clarifyscience.info/assets/day_of_dots_clock)<br />
 [![](img/dot_clock.gif)](http://www.clarifyscience.info/assets/day_of_dots_clock)
-
-[*Untitled (For The Sun)*](http://www.jimcampbell.tv/portfolio/objects/untitled_for_the_sun/) by Jim Campbell<br />
-[![](img/campbell.jpg)](http://www.jimcampbell.tv/portfolio/objects/untitled_for_the_sun/)
-
-[*CRASHCLOCK*](https://www.youtube.com/watch?v=-7YBu3cd9F0&t=0m48s) by Tha<br />
-[![](img/tha_crashclock.gif)](https://www.youtube.com/watch?v=-7YBu3cd9F0&t=0m48s)
-
-[*Horloge Tactile*](https://vimeo.com/37522983) by Eric Morzier<br />
-[![](img/eric_morzier_horloge_tactile.gif)](https://vimeo.com/37522983)
-
-[*Pong Clock*](https://www.youtube.com/watch?v=3uQHWsUby04&t=0m18s)<br />
-[![](img/pong_clock.gif)](https://www.youtube.com/watch?v=3uQHWsUby04&t=0m18s)
-
-[*Center Clock*](http://leebyron.com/centerclock/) by Lee Byron (2007)<br />
-[![](img/lee_byron_center_clock.gif)](http://leebyron.com/centerclock/)
-
-[*QR Clock*](https://www.qrplanet.com/clock/) by QRPlanet<br />
-[![](img/qr_clock.gif)](https://www.qrplanet.com/clock/)
-
-[*Time Machine*](http://www.todayandtomorrow.net/2013/06/14/time-machine/) by Daniel Duarte<br />
-[![](img/daniel_duarte_time_machine.gif)](http://www.todayandtomorrow.net/2013/06/14/time-machine/)
-
-[*L'Ora X Clock*](https://www.moma.org/collection/works/3696?locale=en) by Bruno Munari (1945)<br />
-[![](img/munari.jpg)](https://www.moma.org/collection/works/3696?locale=en)
-
-[*Sonicode Clock*](https://vimeo.com/1778777) by Saqoosha<br />
-[![](img/saquoosha_sonicode.gif)](https://vimeo.com/1778777)
-
-[*Last Time*](http://www.alimiharbi.com/work/last-time/) by Ali Miharbi (2009)<br />
-[![](img/ali-miharbi.png)](http://www.alimiharbi.com/work/last-time/)
-
-[*Personal Timekeeper*](http://i-s-o-p-t.com/2015/07/21/CircleofMoment/) by Taeyoon Choi & E Roon<br />
-[![](img/taeyoon.jpg)](http://i-s-o-p-t.com/2015/07/21/CircleofMoment/)
-
-[*Ten Things I Can Count On*](http://electronicsculpture.brucecannon.org/sculptures/ten_things/ten_things_i_can_count_on.htm) by Bruce Cannon<br />
-[![](img/ten_things_breaths_taken.jpg)](http://electronicsculpture.brucecannon.org/sculptures/ten_things/ten_things_i_can_count_on.htm)
 
 [*Zero Noon*](http://lozano-hemmer.com/zero_noon.php) by Rafael Lozano-Hemmer<br />
 [![](img/rafael.jpg)](http://lozano-hemmer.com/zero_noon.php)
