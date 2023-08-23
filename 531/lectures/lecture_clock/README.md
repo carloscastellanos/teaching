@@ -8,8 +8,11 @@ Based upon a lecture by [Golan Levin](http://flong.com)
 ### Deep History
 
 *Question: Why does the circle have 360°?*
+
 *Why is an hour 60 minutes?*
+
 *Where do the days of the week get their names?*
+
 *Why are there 7 days in a week?*
 
 
