@@ -3,7 +3,7 @@
 Based upon a lecture by [Golan Levin](http://flong.com)
 
 [![](img/clocks_o.jpeg)](https://tegabrain.com/The-Phenology-Clock)
-*Phenology Clock (2014) - part of a project developed at the Environmental Health Clinic with Natalie Jeremijenko, Jake Richardson, Blacki Migliozzi, and others.*
+*[Phenology Clock](https://tegabrain.com/The-Phenology-Clock) (2014) - part of a project developed at the Environmental Health Clinic with Natalie Jeremijenko, Jake Richardson, Blacki Migliozzi, and others.*
 
 ### Deep History
 
@@ -135,6 +135,11 @@ Though not clocks or otherwise keepers of time in the traditional sense, monumen
 Monuments are not fixed in memory or meaning. Sometimes history is lost and forgotten and monuments lose their 'currency', or the settings of monuments may change, thereby shifting and changing their context and meaning.
 
 Monumnents may also not be fixed physically in space and time.
+
+_The (1979) by  Monument Against Fascism_ by Esther Shalev-Gerz and Jochen Gerz is a 12 metre-high column with a perimeter of 1 metre square and clad in lead that slowly burrows into the ground over time. Installed in a busy public square, residents were invited with a text, translated in seven languages, to ratify a public statement about fascism by engraving their names with the metal pencil provided directly onto the surface of the monument.
+
+"We invite the citizens of Harburg, and visitors to the town, to add their names here to ours. In doing so we commit ourselves to remain vigilant. As more and more names cover this 12 metre-high lead column, it will gradually be lowered into the ground. One day it will have disappeared completely and the site of the Harburg monument against fascism will be empty. In the long run, it is only we ourselves who can stand up against injustice."
+
 
 [![](img/Esther-Shalev-Gerz-et-Jochen-Gerz-Monument-contre-le-fascisme-1986-installation-permanente-Hambourg-Harbourg-Allemagne-vue-dinstallation-1986-©-Atelier-Shalev-Gerz-low-def.jpg)](https://www.shalev-gerz.net/portfolio/monument-against-fascism)
 [![](img/Monument_06.jpg)](https://www.shalev-gerz.net/portfolio/monument-against-fascism)
