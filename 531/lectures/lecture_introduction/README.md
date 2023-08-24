@@ -46,7 +46,7 @@ However the earliest iterations of computer art and generative art was the work 
 [John Whitney's 'Catalog' (1961)](https://youtu.be/TbV7loKp69s)
 
 
-Today, computers are used for _everything_. Photoshop and related tools have been around for more than a quarter century. In this course, we will distinguish between art that happens to have been made on a computer, and art which necessarily requires the development of new technology (software, circuits).
+Today, computers are used for _everything_. Photoshop and related tools have been around for more than a quarter century. In this course, we will distinguish between art that happens to have been made on a computer, and art which necessarily requires the development of new technology (software, circuits, etc).
 
 
 ## A Bit of Historical Context
