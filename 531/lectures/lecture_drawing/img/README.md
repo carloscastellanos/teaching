@@ -1,5 +1,7 @@
 # Drawing Machines
 
+Based upon a lecture by [Golan Levin](http://flong.com)
+
 ---
 
 ### Mark-Making is Intuitive

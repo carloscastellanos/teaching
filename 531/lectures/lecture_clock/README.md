@@ -5,6 +5,8 @@ Based upon a lecture by [Golan Levin](http://flong.com)
 [![](img/clocks_o.jpeg)](https://tegabrain.com/The-Phenology-Clock)
 *[Phenology Clock](https://tegabrain.com/The-Phenology-Clock) (2014) - part of a project developed at the Environmental Health Clinic with Natalie Jeremijenko, Jake Richardson, Blacki Migliozzi, and others.*
 
+---
+
 ## Deep History
 
 *Question: Why does the circle have 360°?*
