@@ -1,5 +1,7 @@
 # Drawing Machines
 
+Based upon a lecture by [Golan Levin](http://flong.com)
+
 ---
 
 ### Mark-Making is Intuitive
@@ -7,7 +9,6 @@
 
 [Suda, the Painting Elephant](https://www.youtube.com/watch?v=foahTqz7On4)<br />
 [![](img/elephant.gif)](https://www.youtube.com/watch?v=foahTqz7On4)
-
 ![](img/dolphin.gif)
 
 ---
@@ -94,25 +95,6 @@ Christine Sugrue & Damian Stewart, [*A Cable Plays*](http://csugrue.com/acablepl
 Sougwen Chung, [*Drawing Operations*](http://sougwen.com/project/drawing-operations) (2015)<br />
 [![Sougwen Chung](img/chung_drawing_operations_2015.gif)](https://www.youtube.com/watch?v=yGQIh_g6WLM&t=0m54s)<br />
 *In this project, the robotic arm mimics the artist’s gesture by seeing through an overhead camera, and analyzing the movement through computer vision software. The result is a synchronicity of movement between artist and machine, captured as a drawing artifact.*
-
----
-
-Chutes
-
-
-Aaron Koblin, [*The Sheep Market*](http://www.aaronkoblin.com/project/the-sheep-market/) (2008)<br />
-[![The Sheep Market](img/koblin_sheep_market_2008.gif)](https://www.youtube.com/watch?v=3Mmb5aSscck)
-
-Chris Milk & Aaron Koblin, [*Johnny Cash Project*](https://vimeo.com/15416762), 2011
-
-
-TEDDY: A Sketching Interface for 3D Freeform Design (1999), by Takeo Igarashi infers 3D information from a 2D silhouette:
-http://www-ui.is.s.u-tokyo.ac.jp/~takeo/teddy/teddy.htm
-https://www.youtube.com/watch?v=e2H35SlLmUA
-
-
-
-
 
 
 ---
@@ -207,7 +189,7 @@ James Clar, [*A Moment Defined By A Point And A Line*](http://www.jamesclar.com/
 
 ---
 
-### Drawing, Assisted by Machine Learning
+### Drawing, Assisted by AI/Machine Learning
 
 Harold Cohen, *AARON* (1973-1985)
 ![](img/aaron-harold-cohen1-1.jpg)<br />
@@ -250,10 +232,6 @@ Coding Train #128 (21'): [Sketch-RNN Snowflakes with ml5.js](https://www.youtube
 
 #### Interactive Completion etc.
 
-Microsoft, [*ShadowDraw*](https://www.youtube.com/watch?v=zh_-HUdQwow) (2011)<br />
-[![](img/shadowdraw.png)](https://www.youtube.com/watch?v=zh_-HUdQwow)
-https://www.youtube.com/watch?v=zh_-HUdQwow
-
 Magenta [*Magic Sketchpad*](https://magic-sketchpad.glitch.me/)
 
 Magenta Sketch-RNN multi-predict [drawing completion demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_predict.html)<br />
@@ -266,35 +244,4 @@ Magenta Sketch-RNN Demo
 https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
 
 https://magenta.tensorflow.org/sketch-rnn-demo
-
-
-
----
-
-### Student Project: *Human Lines* by Akiva Krauthamer
-
-[Akiva Krauthamer](http://www.akivadesign.com/default.html) was an undergraduate in the CMU School of Drama who took our *Interactive Art* advanced studio course in 2016. For his final project, he created [*Human Lines*](http://golancourses.net/2016/akiva/04/28/human-lines/), a system which used a performer's speech and body to create drawings in space. His three key inspirations were:
- 
-1. 20th century Bauhaus choreographer, Oskar Schlemmer<br />
-![](img/schlemmer.jpg)
-2. William Forsythe, [*Improvisation Technologies*](https://www.youtube.com/watch?time_continue=4&v=6X29OjcBHG8) (1995)<br />
-![Forsythe](img/william_forsythe_improvisation_technologies_anim.gif)
- * [William Forsythe, example 1](https://www.youtube.com/watch?time_continue=4&v=6X29OjcBHG8)
- * [William Forsythe, example 2](https://www.youtube.com/watch?time_continue=5&v=cqGyFiEXXIQ)
-3. Chris Schmandt, [*Put that There*](https://www.youtube.com/watch?v=RyBEUyEtxQo) (1979)<br />
-[![](img/put-that-there.png)](https://www.youtube.com/watch?v=RyBEUyEtxQo)
-
-Akiva's [*Human Lines*](http://golancourses.net/2016/akiva/04/28/human-lines/) project uses the Kinect skeleton tracking and real-time speech-to-text to enable voice-created lines on the body:<br />
-[![](img/akiva_clap.gif)](https://www.youtube.com/watch?v=B9SiAHSsQCM)<br />
-[![](img/akiva_jump.gif)](https://www.youtube.com/watch?v=B9SiAHSsQCM)<br />
-
-
----
-
-### Unprocessed Links 
-
-* https://twitter.com/Gaziter/status/1132007797485395969
-* http://yangyang.blog/2019/04/magical-pencil/ ITP student thesis: draw the things you need to play the game.
-* https://vimeo.com/306264502 Anti-Drawing Machine
-
 
