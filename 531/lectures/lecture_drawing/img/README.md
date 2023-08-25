@@ -6,7 +6,8 @@
 
 
 [Suda, the Painting Elephant](https://www.youtube.com/watch?v=foahTqz7On4)<br />
-<span>[![](img/elephant.gif)](https://www.youtube.com/watch?v=foahTqz7On4) ![](img/dolphin.gif)</span>
+[![](img/elephant.gif)](https://www.youtube.com/watch?v=foahTqz7On4)
+![](img/dolphin.gif)
 
 ---
 
