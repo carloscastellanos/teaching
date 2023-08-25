@@ -96,25 +96,6 @@ Sougwen Chung, [*Drawing Operations*](http://sougwen.com/project/drawing-operati
 [![Sougwen Chung](img/chung_drawing_operations_2015.gif)](https://www.youtube.com/watch?v=yGQIh_g6WLM&t=0m54s)<br />
 *In this project, the robotic arm mimics the artist’s gesture by seeing through an overhead camera, and analyzing the movement through computer vision software. The result is a synchronicity of movement between artist and machine, captured as a drawing artifact.*
 
----
-
-Chutes
-
-
-Aaron Koblin, [*The Sheep Market*](http://www.aaronkoblin.com/project/the-sheep-market/) (2008)<br />
-[![The Sheep Market](img/koblin_sheep_market_2008.gif)](https://www.youtube.com/watch?v=3Mmb5aSscck)
-
-Chris Milk & Aaron Koblin, [*Johnny Cash Project*](https://vimeo.com/15416762), 2011
-
-
-TEDDY: A Sketching Interface for 3D Freeform Design (1999), by Takeo Igarashi infers 3D information from a 2D silhouette:
-http://www-ui.is.s.u-tokyo.ac.jp/~takeo/teddy/teddy.htm
-https://www.youtube.com/watch?v=e2H35SlLmUA
-
-
-
-
-
 
 ---
 
