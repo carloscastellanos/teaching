@@ -8,6 +8,7 @@
 ---
 
 Smoke signals, reflected lights, homing pigeons are all early examples of human attempts to communicate across distances, what media theorist Marshall McLuhan would later refer to (in reference to telecommuications of the modern age) as "extending our central nervous systems".
+
 !['tower semaphore'](img/tower-system.jpg)
 Semaphore towers, such as the [Chappe Telegraph](https://en.wikipedia.org/wiki/Optical_telegraph) shown here, were "[optical telegraphs](https://en.wikipedia.org/wiki/Optical_telegraph)" a line of towers (usually 5 to 15 kilometers apart) used for sending coded messages and other textual information.
 
