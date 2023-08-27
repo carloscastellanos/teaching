@@ -9,7 +9,7 @@
 * Syllabus
 * What do you think this class is about?
 * What are your skills, interests?
-* What have you seen in the area “creative coding”, computation aesthetics, “new media art”, etc
+* What have you seen in the area "creative coding", computational aesthetics, "new media art", etc
 * What do you want to get out of this class?
 
 
