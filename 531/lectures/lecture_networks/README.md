@@ -1,9 +1,9 @@
 # Telematics & Network Art 
 
-# Art Across Distances
+## Art Across Distances
 
 
-**The impact of telecommunications technologies cannot be reduced to the practical and functional details of communication nor their economic impacts. Psychologists and sociologists have their impact on identity, privay interpersonal relationships, social movements, natonal boundiaries and more. Over the last four decades - especially since the advent of the World Wide Web, artists have explored the implications, possiblities and limits of these technologies. Let's take review some of thse artists now. **
+**The impact of telecommunications technologies cannot be reduced to the practical and functional details of communication nor their economic impacts. Psychologists and sociologists have their impact on identity, privay interpersonal relationships, social movements, natonal boundiaries and more. Over the last four decades - especially since the advent of the World Wide Web, artists have explored the implications, possiblities and limits of these technologies. Let's take review some of thse artists now.**
 
 ---
 
