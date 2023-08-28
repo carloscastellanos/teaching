@@ -159,11 +159,8 @@ Invention and creative experimentation are the overarching goals and ethos of th
 
 ## Required Texts
 
-There are no required text purchases for this course.. There is however an optional text listed below, along with other learning resources (books, web sites, etc) available through myCourses. You will also be required to open an account at [OpenProcessing.org](http://openprocessing.org)
+There are no required text purchases for this course. There are however learning resources (books, web sites, etc) available through myCourses. You will also be required to open an account at [OpenProcessing.org](http://openprocessing.org)
 
-_Optional Text:_
-
-Levin, G., & Brain, T. (2021). _Code as creative medium: A Handbook for Computational Art and Design_. MIT Press.
 
 ## Required Materials
 

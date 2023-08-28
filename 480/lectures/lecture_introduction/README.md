@@ -1,5 +1,9 @@
 
-# Aesthetics & Computation: An Introduction
+# Current Topics in Interactive Development
+
+*Fall 2023: Code as Creative Medium*
+
+---
 
 
 ## Preliminaries
@@ -9,27 +13,15 @@
 * Syllabus
 * What do you think this class is about?
 * What are your skills, interests?
-* What have you seen in the area "creative coding", computational aesthetics, "new media art", etc
+* What have you seen in the area "creative coding", computational media, "new media art", etc
 * What do you want to get out of this class?
 
 
-## What is Aesthetics?
+## What is Creative Coding?
 
-Aesthetics can be defined as normative judgements related to questions of beauty and the nature of taste, especially in the arts. It is considered a branch of philosophy concerned with these judgements
+"Creative coding" describes the growing set of cultural practices by which artists, designers, musicians architects, and poets employ computer programming and custom software as their chosen medium. This burgeoning, interdisciplinary field has been accelerated by the widespread adoption of open-source arts-engineering toolkits, such as [Processing](https://processing.org/), [p5.js](https://p5js.org/), and [openFrameworks](https://openframeworks.cc/), into the curricula of hundreds of art and design schools around the world. Other popular tools among artists include Max/MSP, Arduino, Cinder and TouchDesigner. All of these toolkits (most of which were created by artists for artists) are specifically oriented to meet the particular needs and working styles of both professionals and students with visual-spatial, musical-rhythmic, verbal-linguistic, and bodily-kinesthetic intelligences.
 
-
-![Immanuel Kant](img/Kant_cropped.jpg "Immanuel Kant")
-
-
-Philosopher Immanuel Kant argued that beauty is not a property of an artwork or natural phenomenon, but is instead best understood as the pleasure derived from how the given artwork or natural phenomenon stimulates our imagination. His theory of the [sublime](https://en.wikipedia.org/wiki/Sublime_(philosophy)) connects great art and beauty to subjective qualities of greatness and wonder that are beyond human possibility of measurement, imitation or otherwise full understanding (similar to God).
-
-However much 20th century and contemporary art, especially art that uses technology or engages with the sciences, does not fit into this Kantian notion of beauty and aesthetics. Much of this art is strange, confusing, weird and not beautiful by conventional means. Herbert Grabes calls this the "[aesthetic of the strange](https://books.google.com/books?id=Afp5DwAAQBAJ&source=gbs_navlinks_s)", which sits somewhere between the beautiful and the sublime. For Grabes, this broad spectrum and variety of strangeness provides a foundation for understanding the modern and postmodern arts. In causing a sense of alienation which spans a spectrum from mild irritation all the way to uncanniness, Grabes argues that these new kinds of experiences demand that readers and viewers be “especially creative in their attempts to understand the works” (11). This in turn may lead to a pleasurable expansion or alteration of ingrained modes of perception and consciousness, thus "test[ing] the limits of conceptual thought" (15).
-
-![Walter Dahn](img/Dahn-Asthma-II-1982.jpg "Immanuel Kant")
-
-*Asthma II (1982), Walter Dahn*
-
-So for this course, you will be asked to consider different kinds of aesthetics from what you may have been taught or otherwise been aware of. Consider that in the age of AI, biotech, big data, etc there will be an aesthetics of these things that will not conform to conventional or preexisting models.
+In practical terms, what this means for this course is that using some of the tools listed above (and possibly others) we will be focusing more on _what_ to make when learning to code and _why_, rather than how to simply make something "work".
 
 
 ## Art with Computers?
@@ -104,8 +96,6 @@ Of traditional computer science introductions, educator-innovator [Mitchel Resni
 This class will attempt to address that.
 
 It's possible that STEM education might benefit from the inclusion of arts-oriented pedagogical approaches. But that’s not the problem that concerns us here. Instead, in a world in which computing now touches every discipline, it should no longer be taken for granted that computing must be taught by computer scientists (it’s like if only nutritionists were allowed to cook your food). Computer Science is a discipline, but programming is a skill (or a tool, or a medium, or better yet, a craft) which has different communities of use with different pedagogical needs.
-
-"Creative coding" describes the growing set of cultural practices by which artists, designers, architects, and poets employ computer programming and custom software as their chosen medium. This burgeoning field has been accelerated by the widespread adoption of open-source arts-engineering toolkits, such as [Processing](https://processing.org/), [p5.js](https://p5js.org/), and [openFrameworks](https://openframeworks.cc/), into the curricula of hundreds of art and design schools around the world. Created by artists, for artists, these toolkits are specifically oriented to the needs and working styles of cultural practitioners, and have radically democratized software development as a potent mode of creative inquiry.
 
 You, as IGM students, may be in a Computing Science college, but make no mistake — you are making cultural artifacts. Thus our objective here is to make compelling provocative new forms of culture, and our medium is software and electronics. We learn codeing as necessary to execute our ideas.
 
