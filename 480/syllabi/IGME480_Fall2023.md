@@ -112,6 +112,7 @@ Twitter: [@ccastellanossf](https://twitter.com/ccastellanossf) (DMs open)
 * [**Additional Information**](#additional-information)
     * [Communication](#communication)
     * [Statement on Well-Being & Success](#statement-on-well-being--success)
+    * [Statement on the Use of Generative AI](#statement-on-the-use-of-generative-ai)
 
 ---
 
