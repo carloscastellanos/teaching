@@ -6,7 +6,7 @@
 
 # Course Information
 
-_This document exclusively covers the policies and procedures for IGME-531. This document does not include information about topic units, specific assignments, or readings. These can be found in the Content section._
+_This document exclusively covers the policies and procedures for IGME-531. This document does not include information about topic units, specific assignments, or readings. These can be found in the Content section on myCourses._
 
 This syllabus can also be found on [GitHub](https://github.com/carloscastellanos/teaching/blob/master/531/syllabi/IGME531_Fall2023.md)
 

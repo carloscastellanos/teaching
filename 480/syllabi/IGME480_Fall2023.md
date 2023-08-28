@@ -6,7 +6,7 @@
 
 # Course Information
 
-_This document exclusively covers the policies and procedures for IGME-480. This document does not include information about topic units, specific assignments, or readings. These can be found in the Content section._
+_This document exclusively covers the policies and procedures for IGME-480. This document does not include information about topic units, specific assignments, or readings. These can be found in the Content section on myCourses._
 
 
 <table>
@@ -123,7 +123,7 @@ Students will design and build creative applications, while studying the history
 
 ## Detailed Description
 
-This semester's domain area for IGME 480 is creative coding. This will be a practical introduction to programming and computational media within the context of contemporary art and creativity. This is a kind of "studio art course in computer programming". That is, our objective is art, achieved through the medium of student-written software. Intended for students who have had at least one semester of elementary programming (in any language), this course introduces students to concepts, methods, historical context and critical issues in contemporary arts and culture as they pertain to computational and emerging media technologies. Students will develop or deepen the skills and confidence to produce interactive, generative, and other computationally-based artworks. They will also conduct research and discuss their work in relation to current and historical praxes of computational art and engage critically with emerging technologies.
+This semester's domain area for IGME 480 is **creative coding**. This will be a practical introduction to programming and computational media within the context of contemporary art and creativity. This is a kind of "studio art course in computer programming". That is, our objective is art, achieved through the medium of student-written software. Intended for students who have had at least one semester of elementary programming (in any language), this course introduces students to concepts, methods, historical context and critical issues in contemporary arts and culture as they pertain to computational and emerging media technologies. Students will develop or deepen the skills and confidence to produce interactive, generative, and other computationally-based artworks. They will also conduct research and discuss their work in relation to current and historical praxes of computational art and engage critically with emerging technologies.
 
 # Course Overview
 
