@@ -152,7 +152,7 @@ This course covers the practical application of computer programming techniques 
 Invention and creative experimentation are the overarching goals and ethos of this course. In addition, at the course’s conclusion, students will be able to:
 
 - Demonstrate proficiency in creating computer programs capable of responding to user interaction, in a variety of different creative coding tools
-- Demonstrate a basic understanding of aesthetics and its relationship to computation
+- Demonstrate a basic understanding of creativity and aesthetics and its relationship to computation
 - Identify and discuss the work of artists, researchers and other creative practitioners working in Generative/Computational Art and related fields
 - Understand the role of computation in artworks that explore concepts of transmediality, generativity, connectivity and complexity.
 - Identify and discuss historical, theoretical and societal issues associated with computational media and emerging technologies.
