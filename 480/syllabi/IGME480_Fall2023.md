@@ -136,7 +136,7 @@ This course covers the practical application of computer programming techniques 
 - Time and Interactivity
 - Computer Vision & Video tracking
 - AI/Machine Learning
-- Artificial Life & Creative Ecosystems
+- Agents, Artificial Life & Creative Ecosystems
 - Digital Fabrication/3D Printing
 - Sound synthesis
 - Dada & Surrealism
