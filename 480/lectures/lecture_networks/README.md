@@ -1,4 +1,6 @@
-# Telematics & Network Art 
+# Telematics & Network Art
+
+This lecture borrows material from [Golan Levin](http://flong.com)
 
 ## Art Across Distances
 
@@ -24,10 +26,8 @@ Smoke signals, reflected lights, homing pigeons are all early examples of human 
 *Hydraulic Telegraph, 4th century BC, Ancient Greece*
 
 
+Today, we participate in synchronous video calls with Skype and FaceTime, collaboratively edit documents in Google Docs, and build multiperson virtual environments in MineCraft. These systems and processes are part of the fabric of everyday life, but it hasn't always been so, and it's worth stepping back and thinking about the use of networked telecommunications in media arts. As is often the case, some media artworks from the past presaged common tools today... and others represent intriguing dead-ends in the history of attempts to devise new modes of communication.
 
-Today, we participate in synchronous video calls with Skype and FaceTime, collaboratively edit documents (and [sext](https://www.theatlantic.com/technology/archive/2019/03/hottest-chat-app-teens-google-docs/584857/)) in Google Docs, and build multiperson virtual environments in MineCraft. These systems and processes are part of the fabric of everyday life, but it hasn't always been so, and it's worth stepping back and thinking about the use of networked telecommunications in media arts. As is often the case, some media artworks from the past presaged common tools today... and others represent intriguing dead-ends in the history of attempts to devise new modes of communication.
-
-![Net Art Diagram](images/net_art.jpg)
 
 In the projects below, questions how each project resolves issues of:
 
@@ -42,67 +42,27 @@ In the projects below, questions how each project resolves issues of:
 
 ---
 
-#### Some Brief Summaries of Communication Models
+## Telematic Art
 
-Questions: 
-* what are some ways in which we can categorize communication systems? 
-* what are some models we can use to understand communication?
 
-*Groundlaying*: [Communication Models](communication_models.md)
-
----
-
-#### Across deep time: the Chauvet Cave paintings (40KY BCE)
-
-We will watch a portion of [*The Cave of Forgotten Dreams by Werner Herzog*](https://www.youtube.com/watch?v=l7XTERdQZf8&t=29m58s), from 29:58 - 32:45 (purchase required). Regarding two artists, 5000 years apart, who 'collaborated' on the same drawing, Herzog remarks: "We are locked in history, and they were not."
-
-[![image](images/cave_of_forgotten_dreams.jpg)](https://www.youtube.com/watch?v=l7XTERdQZf8&t=29m58s)
-
-#### Cairns
-
-[Cairns](https://en.wikipedia.org/wiki/Cairn) are human-made piles of stones. Cairns have been and are used for a broad variety of purposes, from prehistoric times to the present, often as landmarks, memorials and trail markers. It is a collaboratively created structure, built one stone at a time, often over the course of centuries.
-
-![image](images/Shankend-Cairn.jpg)
-
-So how did we get from there, to ...here?:
-
-### Your World of Text
-
-Andrew Badr's [Your World of Text](https://www.yourworldoftext.com/golan) is an infinite grid of text editable by any visitor. "The changes made by other people appear on your screen as they happen. Everyone starts in the same place, but you can scroll through the world using your mouse. Put any letters at the end of the URL to go to a new world. For example, http://yourworldoftext.com/forexample. They all start off blank. You can also create a custom world for you and your friends."
-
-...and here?:
-
-### nVidia Holodeck
-
-[![](https://img.youtube.com/vi/goFZOTjCVFg/0.jpg)](https://youtu.be/goFZOTjCVFg)
-
-...and, here?:
-
-#### Agar.io & Slither.io
-[Agar.io](https://agar.io/) (Matheus Valadares, 2015) and the related [Slither.io](http://slither.io/) are compelling multiplayer games that are astonishingly well-tuned. Very different strategies are required depending on one's current size/score.
-
-![image](images/agario.png)
-
-![image](images/slitherio.jpg)
-
-#### Telephone Picture (László Moholy-Nagy, 1923)
+### Telephone Picture (László Moholy-Nagy, 1923)
 The [first use of telecommunications as an artistic medium](https://en.wikipedia.org/wiki/Telematic_art) occurred in 1923 when the Hungarian constructivist artist László Moholy-Nagy made [Telephone Pictures](https://www.moma.org/collection/works/78747). These works questioned the idea of the isolated individual artist and the unique art object.
 
-![](images/Laszlo-Moholy-Nagy-Telephone-Picture-1200x1922.jpg)
+![](img/Laszlo-Moholy-Nagy-Telephone-Picture-1200x1922.jpg)
 
 *"In April 1923, Moholy had Construction in Enamel 2 and 3 made at a local enamel factory. He would later claim to have ordered them by describing them over the telephone, exaggerating both his distance from the manufacturing process that produced them and the degree of technological mediation involved. In doing so Moholy presented the artist in the modern age as producer of ideas rather than things. While sharing the same abstract geometric composition, the works use a mathematical progression to change its scale, highlighting the conception of the image as transferable data."* (MoMA)
 
 * Compare with Miranda July, [*Learning to Love you More*](http://www.learningtoloveyoumore.com/index.php). See #23, "[Recreate this Snapshot](http://www.learningtoloveyoumore.com/reports/23/23.php)"
 
-#### VideoPlace (~1972-1989)
+### VideoPlace (~1972-1989)
 Myron Krueger's landmark [VideoPlace](https://youtu.be/dmmxVA5xhuo) (~1972-1989) was a 2D artificial reality that enveloped its users, and responded to their movements and actions, without the use of encumbering goggles or gloves. One of the first interactive computer artworks, it allowed participants in different locations to share a common virtual space -- even, at different scales.
 
 [![](https://img.youtube.com/vi/dmmxVA5xhuo/0.jpg)](https://youtu.be/dmmxVA5xhuo)
 
-#### Hole in Space (1980)
+### Hole in Space (1980)
 Hole in Space (1980) was a "communication sculpture" by Kit Galloway and Sherrie Rabinowitz, which used live two-way video to connect street-level audiences in Los Angeles and New York City.
 
-![](images/hole-in-space.jpg)
+![](img/hole-in-space.jpg)
 
 *"On a November evening in 1980 the unsuspecting public walking past the Lincoln Center for the Performing Arts in New York City, and «The Broadway» department store located in the open air Shopping Center in Century City (Los Angeles), had a surprising counter with each other. Suddenly head-to-toe, life-sized, television images of the people on the opposite coast appeared. They could now see, hear, and speak with each other as if encountering each other on the same sidewalk. No signs, sponsor logos, or credits were posted--no explanation at all was offered. No self-view video monitors to distract from the phenomena of this life-size encounter. [...] «Hole-In-Space» suddenly severed the distance between both cities and created an outrageous pedestrian intersection. There was the evening of discovery, followed by the evening of intentional word-of-mouth rendezvous, followed by a mass migration of families and trans-continental loved ones, some of which had not seen each other for over twenty years."*
 
@@ -249,31 +209,4 @@ Jingwen Zhu's [*Real Me*](http://www.jingwen-zhu.com/real-me/) (2015) "is a chat
 
 ---
 
-#### Time Permitting
-
-* Bilal, Wafaa. [*Domestic Tension*](http://wafaabilal.com/domestic-tension/) (2007). Viewers log onto the internet to contact the artist, or to shoot him with a paintball gun.
-* Black Socialists of America. *BSA’s Clapback Chest*. 2019. Custom search engine. https://blacksocialists.us/clapback-chest.
-* Brain, Tega, and Sam Lavigne. *Smell Dating*. 2016. Smell-based dating service. http://smell.dating/. 
-* Chen, Alexander. [*Shared Piano*](https://musiclab.chromeexperiments.com/Shared-Piano/#P0kMOE-Po)
-* Depoorter, Dries, and David Surprenant. *Die With Me*. 2018. Mobile chat app. https://diewithme.online.
-* Dinahmoe. *_plink*. 2011. Multiplayer online instrument. [http://dinahmoelabs.com/_plink/](http://dinahmoelabs.com/_plink/).
-* Exonemo. [*The Internet Bedroom*](http://idpw.org/bedroom/) (2015). A sleepover in Google Hangouts.
-* [Fahner, Craig](https://twitter.com/feelalrighttt/status/1304468647310749699). [https://eigengrau.glitch.me](https://eigengrau.glitch.me) A web-based synthesizer you and other people play together, by closing your eyes in front of your computer. 
-* Gage, Zach. *Can We Talk?*. 2011. Chat program. https://vimeo.com/27421540.
-* Goldberg, Ken, and Joseph Santarromana. *Telegarden*. 1995. Collaborative garden with industrial robot arm. Ars Electronica Museum, Linz, Austria. http://ieor.berkeley.edu/~goldberg/garden/Ars.
-* Hawkins, Max. [*Call in the Night*](http://callinthenight.com/) (2013), "An experimental radio show and telephone network documenting the nighttime experience. Anyone with a phone can participate for free."
-* July, Miranda. *Somebody*. 2014. Messaging service. http://somebodyapp.com.
-* Lavigne, Sam, Joshua Cohen, Adrian Chen, and Alix Rule. *PCKWCK*. 2015. Digital novel written in real time. http://uselesspress.org/things/pckwck.
-* Lewis, John. *Intralocutor*. 2006. Interactive voice-activated installation. http://jasonlewis.org/category/artwork/ 
-* Mayer, Jillian. *The Sleep Site, A Place for Online Dreaming,* 2013, website, https://www.jillianmayer.net/a-place-for-online-dreaming.
-* McCarthy, Lauren. *Social Turkers*. 2013. System for crowdsourced relationship feedback. http://socialturkers.com.
-* McDonald, Kyle. *Exhausting a Crowd*. 2015. Video with crowdsourced annotations. https://www.exhaustingacrowd.com.
-* Mutiti, Nontsikelelo and Julia Novitch, *Braiding Braiding,* 2015, experimental publising project. http://nontsikelelomutiti.com/2017/01/24/braiding-braiding/.
-* Penadés, Soledad. [*Chat.meatspac.es*](https://chat.meatspac.es/). (2014), allows 'chatting' with small webcam GIFs.
-* Rohrer, Jason. *Sleep Is Death (Geisterfahrer)*. 2010. Two-player storytelling game. http://sleepisdeath.net/.
-* Sermon, Paul. *Telematic Dreaming*. 1992. Live telematic video installation. http://www.hgb-leipzig.de/~sermon/dream.
-* Sokpop Collective. *sok-worlds*. 2020. Multiplayer collage. https://sokpop.itch.io/sok-worlds.
-* Tale of Tales. *The Endless Forest*. 2005. Multiplayer online role-playing game. http://tale-of-tales.com/TheEndlessForest/.
-
-
-Kris Paulsen, *Here/There: Telepresence, Touch, and Art at the Interface*
+![Net Art Diagram](img/net_art.jpg)
