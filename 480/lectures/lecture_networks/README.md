@@ -95,10 +95,11 @@ In [*The Trace*](http://www.lozano-hemmer.com/the_trace.php) (1995), an interact
 ### Motion Phone (1995)
 [*Motion Phone*](https://www.snibbe.com/motionphone-app/) by Scott Snibbe (1995; iOS version 2012) "is a new form of communication and a creative game. It lets people make abstract animations together over a network in a unique combination of conversation and creation. In MotionPhone's shared infinite canvas, people can create unlimited variations of movement by recording the gestures from their fingertips. When connected to other players, MotionPhone lets you create, comment, play, and communicate visually with others." (Scott Snibbe)
 
-[![](https://img.youtube.com/vi/m2OVn4fUHPs/0.jpg)](https://youtu.be/m2OVn4fUHPs)
+[![](https://img.youtube.com/vi/gbyy5vSg8w8/0.jpg)](https://www.youtube.com/watch?v=gbyy5vSg8w8)
+
 
 ### Telegarden (1995)
-Ken Goldberg & Joseph Santarromana's [*TeleGarden*](http://queue.ieor.berkeley.edu/~goldberg/garden/Ars/) is an art installation that allows web users to view and interact with a remote garden filled with living plants. Members can plant, water, and monitor the progress of seedlings via the tender movements of an industrial robot arm. Arguable the first "social network", The Telegarden was developed at the University of Southern California and went online in June 1995. In its first year, over 9000 members helped cultivate. In September 1996, the Telegarden was moved to the lobby of the Ars Electronica Center in Austria, where it remained online until August 2004.
+Ken Goldberg & Joseph Santarromana's [*TeleGarden*](https://goldberg.berkeley.edu/garden/Ars/) is an art installation that allows web users to view and interact with a remote garden filled with living plants. Members can plant, water, and monitor the progress of seedlings via the tender movements of an industrial robot arm. Arguable the first "social network", The Telegarden was developed at the University of Southern California and went online in June 1995. In its first year, over 9000 members helped cultivate. In September 1996, the Telegarden was moved to the lobby of the Ars Electronica Center in Austria, where it remained online until August 2004.
 
 [![](img/telegarden-8x6-72dpi.jpg)](https://youtu.be/BCEC1tfc5Jc)
 
