@@ -87,111 +87,39 @@ Paul Sermon's [*Telematic Dreaming*](https://www.hgb-leipzig.de/~sermon/dream/) 
 [*ClearBoard*](http://tangible.media.mit.edu/project/clearboard/), a work of HCI design research by Hiroshi Ishii and Minoru Kobayashi, "is designed to integrate interpersonal space and shared workspace seamlessly. A design goal of ClearBoard is to allow a pair of users to shift easily between interpersonal space and shared workspace using familiar everyday cues such as the partner's gestures, head movements, eye contact, and gaze direction. The key metaphor of ClearBoard design is 'talking through and drawing on a big transparent glass board.' ClearBoard requires less eye and head movement to switch focus between the drawing surface and the partner's face than is needed in either the whiteboard or the desktop environment. We found ClearBoard provides the capability we call "gaze awareness": the ability to monitor the direction of a partner's gaze and thus his or her focus of attention. A ClearBoard user can tell which screen objects the partner is gazing at during a conversation more easily and precisely than is possible in an ordinary meeting environment with a whiteboard." (MIT Tangible Media Group)
 
 
-#### The Trace (1995)
+### The Trace (1995)
 In [*The Trace*](http://www.lozano-hemmer.com/the_trace.php) (1995), an interactive installation by Rafael Lozano-Hemmer, a participant encounters the moving, ghostlike "presence" of another person, who is located in an identical but separate room. Their presence is conveyed by a glowing spot created by a pair of intersecting beams of light.
 
 [![](https://img.youtube.com/vi/dIVEZYr6PDc/0.jpg)](https://youtu.be/dIVEZYr6PDc)
 
-#### Motion Phone (1995)
+### Motion Phone (1995)
 [*Motion Phone*](https://www.snibbe.com/motionphone-app/) by Scott Snibbe (1995; iOS version 2012) "is a new form of communication and a creative game. It lets people make abstract animations together over a network in a unique combination of conversation and creation. In MotionPhone's shared infinite canvas, people can create unlimited variations of movement by recording the gestures from their fingertips. When connected to other players, MotionPhone lets you create, comment, play, and communicate visually with others." (Scott Snibbe)
 
 [![](https://img.youtube.com/vi/m2OVn4fUHPs/0.jpg)](https://youtu.be/m2OVn4fUHPs)
 
-#### Telegarden (1995)
+### Telegarden (1995)
 Ken Goldberg & Joseph Santarromana's [*TeleGarden*](http://queue.ieor.berkeley.edu/~goldberg/garden/Ars/) is an art installation that allows web users to view and interact with a remote garden filled with living plants. Members can plant, water, and monitor the progress of seedlings via the tender movements of an industrial robot arm.  The Telegarden was developed at the University of Southern California and went online in June 1995. In its first year, over 9000 members helped cultivate. In September 1996, the Telegarden was moved to the lobby of the Ars Electronica Center in Austria, where it remained online until August 2004.
 
-[![](images/telegarden.jpg)](https://youtu.be/BCEC1tfc5Jc)
+[![](img/telegarden.jpg)](https://youtu.be/BCEC1tfc5Jc)
 
-#### inTouch (1998)
+### inTouch (1998)
 [*inTouch*](https://tangible.media.mit.edu/project/intouch/) (Scott Brave & Andy Dahley, 1998) -- an experiment in telepresent haptics, allowed two people to communicate through shared movements of a set of wooden rollers.
 
-[![inTouch](images/intouch.jpg)](https://vimeo.com/44537894)
+[![inTouch](img/intouch.jpg)](https://vimeo.com/44537894)
 
-#### BumpList (2003)
+### BumpList (2003)
 Jonah Brucker-Cohen's [*BumpList*](http://www.coin-operated.com/2010/05/13/bumplist-an-email-community-for-the-determined-2003/) (2003) is "an email community for the determined". BumpList "functions like a standard, public listserv, but adds the constraints of limited membership (only 6 people could subscribe at once) and the urgency of forcing people to re-subscribe if they get bumped and want to continue the conversations, discussions, arguments in which they are engaged." (Brucker-Cohen)
 
 [![Jonah Brucker-Cohen's *BumpList*](images/bumplist2.gif)](http://www.coin-operated.com/2010/05/13/bumplist-an-email-community-for-the-determined-2003/)
 
-#### Image Labeling Game (2004)
-In 2004, [Luis von Ahn and Laura Dabbish](http://ael.gatech.edu/cs6452f13/files/2013/08/labeling-images.pdf) developed the "[ESP Game](https://en.wikipedia.org/wiki/ESP_game)", which was later (2006) developed into the "Google Image Labeler". The foundational concept of gamifying the elicitation of intersubjectively valid labels for images, eventually would underpin a wide range of technologies, like [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA), for labeling images and (more importantly) creating terascale datasets for training machine learning algorithms.
-
-![Image Labeling Game](images/esp-game.png)
-
-[![](https://img.youtube.com/vi/tx082gDwGcM/0.jpg)](https://youtu.be/tx082gDwGcM)
-
-#### Can We Talk? (2011)
-Zach Gage's [*Can We Talk?*](https://vimeo.com/27421540)(2011) "is a chat program for having serious conversations. It attempts to disambiguate the reasons for silence in online conversation, while preserving the qualities that make text chatting a unique platform for communication." (Gage)
-
-[![Zach Gage's *Can We Talk?*](images/can_we_talk.png)](https://vimeo.com/27421540)
-
-#### The Smaller Picture (2002)
-
-The Smaller Picture (2002) by Kevan Davis is one of the first massively crowdsourced Internet artworks, and is still operational at [https://kevan.org/smaller.cgi](https://kevan.org/smaller.cgi), but the best part is no longer there — an emergent alphabet created by the hive mind:
-
-![](images/datavis_smaller_picture.jpg)
-
-#### Do Not Touch (2013)
-Studio Moniker's [*Do Not Touch*](http://donottouch.org/) (2013) [[live version here](http://donottouch.org/)] is a music video created from the crowdsourced movements of its viewers' cursors.
-
-[![Studio Moniker's *Do Not Touch*](images/do-not-touch.jpg)](https://youtu.be/W3ZjY8YD_NY)
-
-#### Social Turkers (2013)
+### Social Turkers (2013)
 Lauren McCarthy's [*Social Turkers*](http://socialturkers.com/) (2013) asks: "What if we could receive real-time feedback on our social interactions? Would unbiased third party monitors be better suited to interpret situations and make decisions for the parties involved? How might augmenting our experience help us become more aware in our relationships, shift us out of normal patterns, and open us to unexpected possibilities? I am developing a system like this for myself using Amazon Mechanical Turk. During a series of dates with new people I meet on the internet, I will stream the interaction to the web using an iPhone app. Turk workers will be paid to watch the stream, interpret what is happening, and offer feedback as to what I should do or say next. This feedback will be communicated to me via text message." (McCarthy)
 
-[![Social Turkers](images/social_turkers.jpg)](https://vimeo.com/66339316)
+[![Social Turkers](img/social_turkers.jpg)](https://vimeo.com/66339316)
 
-#### the space between us (2015)
-*the space between us* (2015) by David Horvitz is an iOS app which connects two people's phones. Once connected, the app displays the distance and direction to the other person.
+ideo kiss
 
-![](images/horvitz_app_01-1200x800.jpg)
-
-#### Thumbkiss / Couple (2018)
-
-Another network-for-two is "[Thumbkiss](https://www.youtube.com/watch?v=NkveWyiU4Go&t=1m47s)" (recently renamed "Couple"). Couples in remote locations align their thumbprints in a shared, 2D virtual screenspace. 
-
-[![](images/thumbkiss.gif)](https://www.youtube.com/watch?v=NkveWyiU4Go&t=1m47s)
-
-
-#### Die With Me (2018)
-Dries Depoorter and David Surprenant developed [Die With Me](http://diewithme.online/), a chat app you can only use when you have less than 5% battery. "Die together in a chatroom on your way to offline peace."
-
-[![](images/die_with_me.jpg)](https://vimeo.com/251322259)
-
-![](images/die_with_me_2.png)
-
-#### Exhausting a Crowd (2015)
-Kyle McDonald's [Exhausting a Crowd](http://www.exhaustingacrowd.com/london) (2015) is "a crowdsourced description of 12 hours in Piccadilly Circus, London, inspired by the classic 60-page piece of experimental literature from Georges Perec, 'An Attempt at Exhausting a Place in Paris', written from a bench over three days in 1974." (McDonald)
-
-[![](images/exhausting-a-crowd.jpg)](https://vimeo.com/129465015)
-
-#### Real Me
-Jingwen Zhu's [*Real Me*](http://www.jingwen-zhu.com/real-me/) (2015) "is a chatting app with BLE connected muscle sensor, pulse sensor and vibration sensor. It tracks the user's emotion while chatting and using system messages to tell the 'real emotion' of the user. Sensor readings also draw out geometric motion graphics as the background of the chatting room. The user's heart rate is mapped to the color of the speech bubble, their smile triggers the particles of the window, and leg shaking triggers the shaking of speech bubbles." (Zhu)
-
-![](images/real_me.png)
-
-![](images/real_me_leg.gif)
-
-#### Aram Bartholl, Dead Drops (2010)
-
-[![](images/dead_drop.jpg)](https://youtu.be/hwohadcUv4A)
-![](images/dead_drop2.jpg)
-
-#### Other collaborative drawing tools
-
-![](images/cui_SF_Moma-992x675.jpg)
-
-* [Communimage](https://omiotu.com/communimage/) (Johannes Gees, 1999)
-* [Net.Flag](https://vimeo.com/44329425) (Mark Napier, 2002)
-* [Drawball](http://www.drawball.com/) (2005)
-
-#### Chat spaces by Maddy Varner (CMU BFA '16)
-
-[![](images/poopchat_pro.png)](https://vimeo.com/166142275)
-
-* [Poopchat Pro](http://poopchat-pro.herokuapp.com/) - A chatroom in which participants communicate with small poops
-* [Pasties](http://pasties.maddy.zone/) - A chatroom in which participants communicate exclusively by copy-pasting.
-
-
+cybersm stahl stenslie
 ---
 
 ![Net Art Diagram](img/net_art.jpg)
