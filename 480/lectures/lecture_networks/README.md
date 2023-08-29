@@ -42,7 +42,7 @@ In the projects below, questions how each project resolves issues of:
 
 ---
 
-## Telematic Art
+## Telematics & Telepresence
 
 
 ### Telephone Picture (László Moholy-Nagy, 1923)
@@ -66,8 +66,14 @@ Hole in Space (1980) was a "communication sculpture" by Kit Galloway and Sherrie
 
 *"On a November evening in 1980 the unsuspecting public walking past the Lincoln Center for the Performing Arts in New York City, and «The Broadway» department store located in the open air Shopping Center in Century City (Los Angeles), had a surprising counter with each other. Suddenly head-to-toe, life-sized, television images of the people on the opposite coast appeared. They could now see, hear, and speak with each other as if encountering each other on the same sidewalk. No signs, sponsor logos, or credits were posted--no explanation at all was offered. No self-view video monitors to distract from the phenomena of this life-size encounter. [...] «Hole-In-Space» suddenly severed the distance between both cities and created an outrageous pedestrian intersection. There was the evening of discovery, followed by the evening of intentional word-of-mouth rendezvous, followed by a mass migration of families and trans-continental loved ones, some of which had not seen each other for over twenty years."*
 
-
 [![](https://img.youtube.com/vi/SyIJJr6Ldg8/0.jpg)](https://youtu.be/SyIJJr6Ldg8)
+
+### Telematic Dreaming (1992-1993)
+Paul Sermon's [*Telematic Dreaming*](https://www.hgb-leipzig.de/~sermon/dream/) (1992-1993) "is an installation that exists within the ISDN digital telephone network. Two separate interfaces are located in separate locations, these interfaces in themselves are dynamic installations that function as customized video-conferencing systems. A double bed is located within both locations, one in a blacked out space and the other in an illuminated space. The bed in the light location has a camera situated directly above it, sending a live video image of the bed, and a person ("A") lying on it, to a video projector located above the other bed in the blacked out location. The live video image is projected down on to the bed with another person ("B") on it. A second camera, next to the video projector, sends a live video image of the projection of person "A" with person "B" back to a series of monitors that surround the bed and person "A" in the illuminated location. The telepresent image functions like a mirror that reflects one person within another person's reflection." (Paul Sermon)
+
+[![](img/sermon-telematic-dreaming-620x412.jpg)](https://vimeo.com/44862244)
+
+
 
 #### Poietic Generator (1986+) 
 [*The Poietic Generator*](https://en.wikipedia.org/wiki/Poietic_Generator) is a social-network game designed by Olivier Auber in 1986. The game takes place within a two-dimensional matrix in the tradition of board games and its principle is similar to both Conway's Game of Life and the surrealists' Exquisite corpse.
@@ -97,10 +103,6 @@ The 547 unreachable links are attached to graphical elements that collectively t
 #### ClearBoard (1990)
 [*ClearBoard*](http://tangible.media.mit.edu/project/clearboard/), a work of HCI design research by Hiroshi Ishii and Minoru Kobayashi, "is designed to integrate interpersonal space and shared workspace seamlessly. A design goal of ClearBoard is to allow a pair of users to shift easily between interpersonal space and shared workspace using familiar everyday cues such as the partner's gestures, head movements, eye contact, and gaze direction. The key metaphor of ClearBoard design is 'talking through and drawing on a big transparent glass board.' ClearBoard requires less eye and head movement to switch focus between the drawing surface and the partner's face than is needed in either the whiteboard or the desktop environment. We found ClearBoard provides the capability we call "gaze awareness": the ability to monitor the direction of a partner's gaze and thus his or her focus of attention. A ClearBoard user can tell which screen objects the partner is gazing at during a conversation more easily and precisely than is possible in an ordinary meeting environment with a whiteboard." (MIT Tangible Media Group)
 
-#### Telematic Dreaming (1992-1993)
-Paul Sermon's [*Telematic Dreaming*](https://www.hgb-leipzig.de/~sermon/dream/) (1992-1993) "is an installation that exists within the ISDN digital telephone network. Two separate interfaces are located in separate locations, these interfaces in themselves are dynamic installations that function as customized video-conferencing systems. A double bed is located within both locations, one in a blacked out space and the other in an illuminated space. The bed in the light location has a camera situated directly above it, sending a live video image of the bed, and a person ("A") lying on it, to a video projector located above the other bed in the blacked out location. The live video image is projected down on to the bed with another person ("B") on it. A second camera, next to the video projector, sends a live video image of the projection of person "A" with person "B" back to a series of monitors that surround the bed and person "A" in the illuminated location. The telepresent image functions like a mirror that reflects one person within another person's reflection." (Paul Sermon)
-
-[![](images/sermon-telematic-dreaming-620x412.jpg)](https://vimeo.com/44862244)
 
 #### The Trace (1995)
 In [*The Trace*](http://www.lozano-hemmer.com/the_trace.php) (1995), an interactive installation by Rafael Lozano-Hemmer, a participant encounters the moving, ghostlike "presence" of another person, who is located in an identical but separate room. Their presence is conveyed by a glowing spot created by a pair of intersecting beams of light.
