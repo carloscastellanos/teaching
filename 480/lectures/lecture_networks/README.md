@@ -74,33 +74,16 @@ Paul Sermon's [*Telematic Dreaming*](https://www.hgb-leipzig.de/~sermon/dream/) 
 [![](img/sermon-telematic-dreaming-620x412.jpg)](https://vimeo.com/44862244)
 
 
-
-#### Poietic Generator (1986+) 
-[*The Poietic Generator*](https://en.wikipedia.org/wiki/Poietic_Generator) is a social-network game designed by Olivier Auber in 1986. The game takes place within a two-dimensional matrix in the tradition of board games and its principle is similar to both Conway's Game of Life and the surrealists' Exquisite corpse.
-
-![](images/poetique.gif)
-
-#### Million Dollar Homepage (2005) 
-[*Million Dollar Homepage*](http://milliondollarhomepage.com/) is a website "conceived by Alex Tew, a student from Wiltshire, England, to raise money for his university education. The home page consisted of a million pixels arranged in a 1000x1000 pixel grid; the image-based links on it were sold for $1 per pixel in 10x10 blocks. The purchasers of these pixel blocks provided tiny images to be displayed on them, a URL to which the images were linked, and a slogan to be displayed when hovering a cursor over the link. The aim of the website was to sell all of the pixels in the image, thus generating a million dollars of income for the creator." ([Wikipedia](https://en.wikipedia.org/wiki/The_Million_Dollar_Homepage))
-
-![](images/million_dollar_homepage.png)
-
-In the Harvard study, "[A Million Squandered: The “Million Dollar Homepage” as a Decaying Digital Artifact](https://lil.law.harvard.edu/blog/2017/07/21/a-million-squandered-the-million-dollar-homepage-as-a-decaying-digital-artifact/)", you can see which links still work after 12 years: 
-
-![](images/million_dollar_2017.png)
-
-The 547 unreachable links are attached to graphical elements that collectively take up 342,000 pixels (face value: $342,000).
-
-#### R/Place (2017)
+### R/Place (2017)
 [*R/Place*](https://en.wikipedia.org/wiki/Place_(Reddit)) "was a collaborative project and social experiment hosted on the social networking site Reddit that began on April Fools' Day 2017. The experiment involved an online canvas of one million (1000x1000) pixel squares, located at a subreddit called /r/place, which registered users could edit by changing the color of a single pixel from a 16-colour palette. After each pixel was placed, a timer prevented the user from placing any pixels for a period of time varying from 5 to 20 minutes." (Wikipedia)
 
-![](images/rplace.png)
+![](img/rplace.png)
 
 [![](https://img.youtube.com/vi/ljSnAd6omJ8/0.jpg)](https://youtu.be/ljSnAd6omJ8)
 
 [![](https://img.youtube.com/vi/XnRCZK3KjUY/0.jpg)](https://youtu.be/XnRCZK3KjUY)
 
-#### ClearBoard (1990)
+### ClearBoard (1990)
 [*ClearBoard*](http://tangible.media.mit.edu/project/clearboard/), a work of HCI design research by Hiroshi Ishii and Minoru Kobayashi, "is designed to integrate interpersonal space and shared workspace seamlessly. A design goal of ClearBoard is to allow a pair of users to shift easily between interpersonal space and shared workspace using familiar everyday cues such as the partner's gestures, head movements, eye contact, and gaze direction. The key metaphor of ClearBoard design is 'talking through and drawing on a big transparent glass board.' ClearBoard requires less eye and head movement to switch focus between the drawing surface and the partner's face than is needed in either the whiteboard or the desktop environment. We found ClearBoard provides the capability we call "gaze awareness": the ability to monitor the direction of a partner's gaze and thus his or her focus of attention. A ClearBoard user can tell which screen objects the partner is gazing at during a conversation more easily and precisely than is possible in an ordinary meeting environment with a whiteboard." (MIT Tangible Media Group)
 
 
