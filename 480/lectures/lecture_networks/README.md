@@ -15,7 +15,7 @@ Smoke signals, reflected lights, homing pigeons are all early examples of human 
 
 *Semaphore towers, such as the [Chappe Telegraph](https://en.wikipedia.org/wiki/Chappe_telegraph) shown here, were "[optical telegraphs](https://en.wikipedia.org/wiki/Optical_telegraph)" a line of towers (usually 5 to 15 kilometers apart) used for sending coded messages and other textual information. These telegraphs were our first data networks*
 
-![Telegraph Hill & Coit Tower, San Francisco](TelegraphHillbyJohnCurley.jpg "Telegraph Hill & Coit Tower, San Francisco")
+![Telegraph Hill & Coit Tower, San Francisco](img/TelegraphHillbyJohnCurley.jpg "Telegraph Hill & Coit Tower, San Francisco")
 
 *Telegraph Hill and Coit Tower, San Francisco*
 
