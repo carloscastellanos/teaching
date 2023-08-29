@@ -98,9 +98,9 @@ In [*The Trace*](http://www.lozano-hemmer.com/the_trace.php) (1995), an interact
 [![](https://img.youtube.com/vi/m2OVn4fUHPs/0.jpg)](https://youtu.be/m2OVn4fUHPs)
 
 ### Telegarden (1995)
-Ken Goldberg & Joseph Santarromana's [*TeleGarden*](http://queue.ieor.berkeley.edu/~goldberg/garden/Ars/) is an art installation that allows web users to view and interact with a remote garden filled with living plants. Members can plant, water, and monitor the progress of seedlings via the tender movements of an industrial robot arm.  The Telegarden was developed at the University of Southern California and went online in June 1995. In its first year, over 9000 members helped cultivate. In September 1996, the Telegarden was moved to the lobby of the Ars Electronica Center in Austria, where it remained online until August 2004.
+Ken Goldberg & Joseph Santarromana's [*TeleGarden*](http://queue.ieor.berkeley.edu/~goldberg/garden/Ars/) is an art installation that allows web users to view and interact with a remote garden filled with living plants. Members can plant, water, and monitor the progress of seedlings via the tender movements of an industrial robot arm. Arguable the first "social network", The Telegarden was developed at the University of Southern California and went online in June 1995. In its first year, over 9000 members helped cultivate. In September 1996, the Telegarden was moved to the lobby of the Ars Electronica Center in Austria, where it remained online until August 2004.
 
-[![](img/telegarden.jpg)](https://youtu.be/BCEC1tfc5Jc)
+[![](img/telegarden-8x6-72dpi.jpg)](https://youtu.be/BCEC1tfc5Jc)
 
 ### inTouch (1998)
 [*inTouch*](https://tangible.media.mit.edu/project/intouch/) (Scott Brave & Andy Dahley, 1998) -- an experiment in telepresent haptics, allowed two people to communicate through shared movements of a set of wooden rollers.
@@ -110,7 +110,7 @@ Ken Goldberg & Joseph Santarromana's [*TeleGarden*](http://queue.ieor.berkeley.e
 ### BumpList (2003)
 Jonah Brucker-Cohen's [*BumpList*](http://www.coin-operated.com/2010/05/13/bumplist-an-email-community-for-the-determined-2003/) (2003) is "an email community for the determined". BumpList "functions like a standard, public listserv, but adds the constraints of limited membership (only 6 people could subscribe at once) and the urgency of forcing people to re-subscribe if they get bumped and want to continue the conversations, discussions, arguments in which they are engaged." (Brucker-Cohen)
 
-[![Jonah Brucker-Cohen's *BumpList*](images/bumplist2.gif)](http://www.coin-operated.com/2010/05/13/bumplist-an-email-community-for-the-determined-2003/)
+[![Jonah Brucker-Cohen's *BumpList*](img/bumplist2.gif)](http://www.coin-operated.com/2010/05/13/bumplist-an-email-community-for-the-determined-2003/)
 
 ### Social Turkers (2013)
 Lauren McCarthy's [*Social Turkers*](http://socialturkers.com/) (2013) asks: "What if we could receive real-time feedback on our social interactions? Would unbiased third party monitors be better suited to interpret situations and make decisions for the parties involved? How might augmenting our experience help us become more aware in our relationships, shift us out of normal patterns, and open us to unexpected possibilities? I am developing a system like this for myself using Amazon Mechanical Turk. During a series of dates with new people I meet on the internet, I will stream the interaction to the web using an iPhone app. Turk workers will be paid to watch the stream, interpret what is happening, and offer feedback as to what I should do or say next. This feedback will be communicated to me via text message." (McCarthy)
