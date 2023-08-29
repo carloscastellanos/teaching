@@ -100,7 +100,7 @@ In [*The Trace*](http://www.lozano-hemmer.com/the_trace.php) (1995), an interact
 Ken Goldberg & Joseph Santarromana's [*TeleGarden*](https://goldberg.berkeley.edu/garden/Ars/) is an art installation that allows web users to view and interact with a remote garden filled with living plants. Members can plant, water, and monitor the progress of seedlings via the tender movements of an industrial robot arm. Arguable the first "social network", The Telegarden was developed at the University of Southern California and went online in June 1995. In its first year, over 9000 members helped cultivate. In September 1996, the Telegarden was moved to the lobby of the Ars Electronica Center in Austria, where it remained online until August 2004.
 
 [![](img/telegarden-8x6-72dpi.jpg)](https://youtu.be/BCEC1tfc5Jc)
-[![](https://img.youtube.com/vi/gbyy5vSg8w8/0.jpg)](https://www.youtube.com/watch?v=gbyy5vSg8w8)
+
 
 ### inTouch (1998)
 [*inTouch*](https://tangible.media.mit.edu/project/intouch/) (Scott Brave & Andy Dahley, 1998) -- an experiment in telepresent haptics, allowed two people to communicate through shared movements of a set of wooden rollers.
