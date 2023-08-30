@@ -119,7 +119,7 @@ interskin stahl stenslie
 
 ---
 
-## net.art & networked performance
+## net.art & Networked Performance
 
 ![Net Art Diagram](img/net_art.jpg)
 
