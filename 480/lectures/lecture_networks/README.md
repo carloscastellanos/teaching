@@ -92,9 +92,6 @@ In [*The Trace*](http://www.lozano-hemmer.com/the_trace.php) (1995), an interact
 
 [![](https://img.youtube.com/vi/dIVEZYr6PDc/0.jpg)](https://youtu.be/dIVEZYr6PDc)
 
-### Motion Phone (1995)
-[*Motion Phone*](https://www.snibbe.com/motionphone-app/) by Scott Snibbe (1995; iOS version 2012) "is a new form of communication and a creative game. It lets people make abstract animations together over a network in a unique combination of conversation and creation. In MotionPhone's shared infinite canvas, people can create unlimited variations of movement by recording the gestures from their fingertips. When connected to other players, MotionPhone lets you create, comment, play, and communicate visually with others." (Scott Snibbe)
-
 
 ### Telegarden (1995)
 Ken Goldberg & Joseph Santarromana's [*TeleGarden*](https://goldberg.berkeley.edu/garden/Ars/) is an art installation that allows web users to view and interact with a remote garden filled with living plants. Members can plant, water, and monitor the progress of seedlings via the tender movements of an industrial robot arm. Arguable the first "social network", The Telegarden was developed at the University of Southern California and went online in June 1995. In its first year, over 9000 members helped cultivate. In September 1996, the Telegarden was moved to the lobby of the Ars Electronica Center in Austria, where it remained online until August 2004.
@@ -107,19 +104,32 @@ Ken Goldberg & Joseph Santarromana's [*TeleGarden*](https://goldberg.berkeley.ed
 
 [![inTouch](img/intouch.jpg)](https://vimeo.com/44537894)
 
-### BumpList (2003)
-Jonah Brucker-Cohen's [*BumpList*](http://www.coin-operated.com/2010/05/13/bumplist-an-email-community-for-the-determined-2003/) (2003) is "an email community for the determined". BumpList "functions like a standard, public listserv, but adds the constraints of limited membership (only 6 people could subscribe at once) and the urgency of forcing people to re-subscribe if they get bumped and want to continue the conversations, discussions, arguments in which they are engaged." (Brucker-Cohen)
 
 [![Jonah Brucker-Cohen's *BumpList*](img/bumplist2.gif)](http://www.coin-operated.com/2010/05/13/bumplist-an-email-community-for-the-determined-2003/)
+
+ideo kiss
 
 ### Social Turkers (2013)
 Lauren McCarthy's [*Social Turkers*](http://socialturkers.com/) (2013) asks: "What if we could receive real-time feedback on our social interactions? Would unbiased third party monitors be better suited to interpret situations and make decisions for the parties involved? How might augmenting our experience help us become more aware in our relationships, shift us out of normal patterns, and open us to unexpected possibilities? I am developing a system like this for myself using Amazon Mechanical Turk. During a series of dates with new people I meet on the internet, I will stream the interaction to the web using an iPhone app. Turk workers will be paid to watch the stream, interpret what is happening, and offer feedback as to what I should do or say next. This feedback will be communicated to me via text message." (McCarthy)
 
 [![Social Turkers](img/social_turkers.jpg)](https://vimeo.com/66339316)
 
-ideo kiss
 
 cybersm stahl stenslie
+
 ---
 
+## net.art
+
 ![Net Art Diagram](img/net_art.jpg)
+
+### 1:1 (1999)
+Lisa Jevbratt's [*1:1*](http://rosebud.arts.ucsb.edu/~jevbratt/1_to_1/index_ng.html)
+
+[![1:1](img/Lisa_Jevbratt_1to1.jpg)](http://rosebud.arts.ucsb.edu/~jevbratt/1_to_1/index_ng.html)
+
+### police state
+
+
+### Toy War
+
