@@ -83,9 +83,6 @@ Paul Sermon's [*Telematic Dreaming*](https://www.hgb-leipzig.de/~sermon/dream/) 
 
 [![](https://img.youtube.com/vi/XnRCZK3KjUY/0.jpg)](https://youtu.be/XnRCZK3KjUY)
 
-### ClearBoard (1990)
-[*ClearBoard*](http://tangible.media.mit.edu/project/clearboard/), a work of HCI design research by Hiroshi Ishii and Minoru Kobayashi, "is designed to integrate interpersonal space and shared workspace seamlessly. A design goal of ClearBoard is to allow a pair of users to shift easily between interpersonal space and shared workspace using familiar everyday cues such as the partner's gestures, head movements, eye contact, and gaze direction. The key metaphor of ClearBoard design is 'talking through and drawing on a big transparent glass board.' ClearBoard requires less eye and head movement to switch focus between the drawing surface and the partner's face than is needed in either the whiteboard or the desktop environment. We found ClearBoard provides the capability we call "gaze awareness": the ability to monitor the direction of a partner's gaze and thus his or her focus of attention. A ClearBoard user can tell which screen objects the partner is gazing at during a conversation more easily and precisely than is possible in an ordinary meeting environment with a whiteboard." (MIT Tangible Media Group)
-
 
 ### The Trace (1995)
 In [*The Trace*](http://www.lozano-hemmer.com/the_trace.php) (1995), an interactive installation by Rafael Lozano-Hemmer, a participant encounters the moving, ghostlike "presence" of another person, who is located in an identical but separate room. Their presence is conveyed by a glowing spot created by a pair of intersecting beams of light.
@@ -94,7 +91,7 @@ In [*The Trace*](http://www.lozano-hemmer.com/the_trace.php) (1995), an interact
 
 
 ### Telegarden (1995)
-Ken Goldberg & Joseph Santarromana's [*TeleGarden*](https://goldberg.berkeley.edu/garden/Ars/) is an art installation that allows web users to view and interact with a remote garden filled with living plants. Members can plant, water, and monitor the progress of seedlings via the tender movements of an industrial robot arm. Arguable the first "social network", The Telegarden was developed at the University of Southern California and went online in June 1995. In its first year, over 9000 members helped cultivate. In September 1996, the Telegarden was moved to the lobby of the Ars Electronica Center in Austria, where it remained online until August 2004.
+[*TeleGarden*](https://goldberg.berkeley.edu/garden/Ars/) by Ken Goldberg & Joseph Santarromana, is an art installation that allows web users to view and interact with a remote garden filled with living plants. Members can plant, water, and monitor the progress of seedlings via the tender movements of an industrial robot arm. Arguably a "true" social network, The Telegarden is a space of social interaction and community, fostering dialogue and reflection on the nature of the commons and the environment (which we all have to share).
 
 [![](img/telegarden-8x6-72dpi.jpg)](https://youtu.be/BCEC1tfc5Jc)
 
@@ -104,8 +101,6 @@ Ken Goldberg & Joseph Santarromana's [*TeleGarden*](https://goldberg.berkeley.ed
 
 [![inTouch](img/intouch.jpg)](https://vimeo.com/44537894)
 
-
-[![Jonah Brucker-Cohen's *BumpList*](img/bumplist2.gif)](http://www.coin-operated.com/2010/05/13/bumplist-an-email-community-for-the-determined-2003/)
 
 ideo kiss
 
