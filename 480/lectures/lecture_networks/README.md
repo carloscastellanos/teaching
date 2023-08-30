@@ -126,7 +126,7 @@ cybersm stahl stenslie
 ### 1:1 (1999)
 Lisa Jevbratt's [*1:1*](http://rosebud.arts.ucsb.edu/~jevbratt/1_to_1/index_ng.html)
 
-[![1:1](img/Lisa_Jevbratt_1to1.jpg)](http://rosebud.arts.ucsb.edu/~jevbratt/1_to_1/index_ng.html)
+[![1:1](img/Lisa_Jevbratt_1to1.png)](http://rosebud.arts.ucsb.edu/~jevbratt/1_to_1/index_ng.html)
 
 ### police state
 
