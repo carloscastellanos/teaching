@@ -115,11 +115,11 @@ Lauren McCarthy's [*Social Turkers*](http://socialturkers.com/) (2013) asks: "Wh
 [![Social Turkers](img/social_turkers.jpg)](https://vimeo.com/66339316)
 
 
-cybersm stahl stenslie
+interskin stahl stenslie
 
 ---
 
-## net.art
+## net.art & networked performance
 
 ![Net Art Diagram](img/net_art.jpg)
 
@@ -133,3 +133,5 @@ Lisa Jevbratt's [*1:1*](http://rosebud.arts.ucsb.edu/~jevbratt/1_to_1/index_ng.h
 
 ### Toy War
 
+
+### Stelarc pingbody
