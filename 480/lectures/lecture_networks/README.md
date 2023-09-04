@@ -123,10 +123,15 @@ Lisa Jevbratt's [*1:1*](http://rosebud.arts.ucsb.edu/~jevbratt/1_to_1/index_ng.h
 
 [![1:1](img/Lisa_Jevbratt_1to1.png)](http://rosebud.arts.ucsb.edu/~jevbratt/1_to_1/index_ng.html)
 
-### police state
+### jodi (Joan Heemskerk and Dirk Paesmans)
+
+### police state (Johna Brucker-Cohen)
 
 
-### Toy War
+### Toy War (eToy)
+
+
+### Autonomy Cube (Trevor PAglen)
 
 
 ### Stelarc pingbody
