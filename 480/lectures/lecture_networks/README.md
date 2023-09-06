@@ -123,9 +123,17 @@ Lisa Jevbratt's [*1:1*](http://rosebud.arts.ucsb.edu/~jevbratt/1_to_1/index_ng.h
 
 [![1:1](img/Lisa_Jevbratt_1to1.png)](http://rosebud.arts.ucsb.edu/~jevbratt/1_to_1/index_ng.html)
 
+
 ### jodi (Joan Heemskerk and Dirk Paesmans)
 
-### police state (Johna Brucker-Cohen)
+
+### Police State (2003)
+
+Jonah Brucker-Cohen's [*Police State*](https://www.coin-operated.com/2010/05/03/policestate-2003/)
+
+[![Police State](img/policestate_final.jpg)](http://www.coin-operated.com/2010/05/03/policestate-2003/)
+
+[![](https://img.youtube.com/vi/B4cOJrgBYrg/0.jpg)](https://www.youtube.com/watch?v=B4cOJrgBYrg)
 
 
 ### Toy War (eToy)
