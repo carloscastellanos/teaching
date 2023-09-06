@@ -137,8 +137,18 @@ Jonah Brucker-Cohen's [*Police State*](https://www.coin-operated.com/2010/05/03/
 
 ### Toy War (eToy)
 
+eToy Corporation's [*Toy War*](https://etoy.com/projects/toywar/)
 
-### Autonomy Cube (Trevor PAglen)
+[![Toy War](img/toywar.jpg)](https://etoy.com/projects/toywar/)
+[![](https://img.youtube.com/vi/j9D9KGfHPwE/0.jpg)](https://www.youtube.com/watch?v=j9D9KGfHPwE)
+[![](https://img.youtube.com/vi/hwjIJtwOZnY/0.jpg)](https://www.youtube.com/watch?v=hwjIJtwOZnY)
+
+
+
+
+
+
+### Autonomy Cube (Trevor Paglen)
 
 
 ### Stelarc pingbody
