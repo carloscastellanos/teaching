@@ -119,35 +119,37 @@ interskin stahl stenslie
 ![Net Art Diagram](img/net_art.jpg)
 
 ### 1:1 (1999)
-Lisa Jevbratt's [*1:1*](http://rosebud.arts.ucsb.edu/~jevbratt/1_to_1/index_ng.html)
+[Lisa Jevbratt](http://jevbratt.com/)'s/[C5](http://c5corp.com)'s [*1:1*](http://rosebud.arts.ucsb.edu/~jevbratt/1_to_1/index_ng.html) is a series of data mappings of every ip address on the Internet (or more specifically the world wide web). It consists of a database of every IP address and several interfaces through which to view the web site (if there is one) for each IP in the database.
+
+This project is a very differnt experience of the Web to te one provide by corproate search engines, social media sites, etc. provided by search engines and portals. It turns out that most of teh web is acutall inacessible (behind firewalls, password protected, simply not having anythng available, etc) and/or undeveloped or not maintained. Jevbratt  states that the "[t]he interfaces/visualizations are not maps of the Web but are, in some sense, the Web. They are super-realistic and yet function in ways images could not function in any other environment or time. They are a new kind of image of the Web, and they are a new kind of image."
 
 [![1:1](img/Lisa_Jevbratt_1to1.png)](http://rosebud.arts.ucsb.edu/~jevbratt/1_to_1/index_ng.html)
 
 
-### jodi (Joan Heemskerk and Dirk Paesmans)
+### Stelarc pingbody
+
+
 
 
 ### Toy War (1999)
-
 eToy Corporation's [*Toy War*](https://etoy.com/projects/toywar/)
 
 [![Toy War](img/toywar.jpg)](https://etoy.com/projects/toywar/)
 [![](https://img.youtube.com/vi/j9D9KGfHPwE/0.jpg)](https://www.youtube.com/watch?v=j9D9KGfHPwE)
 [![](https://img.youtube.com/vi/hwjIJtwOZnY/0.jpg)](https://www.youtube.com/watch?v=hwjIJtwOZnY)
 
+[![eToy](img/etoycorp.jpg)](https://etoy.com)
+
 
 ### Police State (2003)
-
 Jonah Brucker-Cohen's [*Police State*](https://www.coin-operated.com/2010/05/03/policestate-2003/) [Carnivore](http://r-s-g.org/carnivore/)
 
 [![Police State](img/policestate_final.jpg)](http://www.coin-operated.com/2010/05/03/policestate-2003/)
 [![](https://img.youtube.com/vi/B4cOJrgBYrg/0.jpg)](https://www.youtube.com/watch?v=B4cOJrgBYrg)
 
 
-
-
-
 ### Autonomy Cube (Trevor Paglen)
+[Autonomy Cube](https://paglen.studio/2020/04/09/autonomy-cube/)) by Trevor Paglen, is a sculpture designed to be housed in art museums, galleries, and civic spaces. But this sculpture is also a provate wi-fi hotspot, with all traffic being routed over the [Tor network](https://www.torproject.org/As Paglen describes it "[t]he sculpture is meant to be both 'seen' and 'used'... [a]nyone can join this network and use it to [privately] browse the Internet." The scultpture is also a Tor relay, thus making the sculpture, the institution that hosts/exhibits and the end users part of a privacy‐oriented, volunteer run internet infrastructure.
 
+[![Autonomy Cube](img/autonomy_cube.jpg)](https://paglen.studio/2020/04/09/autonomy-cube/)
 
-### Stelarc pingbody
