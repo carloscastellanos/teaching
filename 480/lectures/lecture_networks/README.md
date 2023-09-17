@@ -109,7 +109,7 @@ In [*The Trace*](http://www.lozano-hemmer.com/the_trace.php) (1995), an interact
 
 
 ### inter_skin (1994-95)
-[*inter_skin*](http://www.stenslie.net/), by [Stahl Stenslie] is part of the artist's line of research into the body's relationship to networks and networked culture. The __inter_skin project__ features special sensor/stimulator suits worn by participants that is capable of both transmitting and receiving different sensory stimuli, particularly touch. Participants can send and receive tactile messages from one another. For example, by touching ones own body, that same touch is transmit across the network to the other participant. The strength of the touch is determined by the duration of the touch. Stenslie notes that the nature of the piece highlights certain phenomena such as autoerotic stimulation and "the conception of a shared virtual body."
+[*inter_skin*](http://www.stenslie.net/), by Stahl Stenslie is part of the artist's line of research into the body's relationship to networks and networked culture. The __inter_skin project__ features special sensor/stimulator suits worn by participants that is capable of both transmitting and receiving different sensory stimuli, particularly touch. Participants can send and receive tactile messages from one another. For example, by touching ones own body, that same touch is transmit across the network to the other participant. The strength of the touch is determined by the duration of the touch. Stenslie notes that the nature of the piece highlights certain phenomena such as autoerotic stimulation and "the conception of a shared virtual body."
 
 [![inter_skin](img/stahl_stenslie_interskin.png)](http://www.stenslie.net/)
 
