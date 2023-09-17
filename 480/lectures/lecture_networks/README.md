@@ -102,7 +102,16 @@ In [*The Trace*](http://www.lozano-hemmer.com/the_trace.php) (1995), an interact
 [![inTouch](img/intouch.jpg)](https://vimeo.com/44537894)
 
 
-ideo kiss
+### Kiss Communicator (1999)
+[*Kiss Communicator*](https://tangible.media.mit.edu/project/intouch/) (Heather Martin & Duncan Kerr) is a concept prototype that allows you to blow a kiss to your beloved when he/she/they are in another part of the world.
+
+[![Kiss Communicator](img/KissCommunicator.png)](https://we-make-money-not-art.com/kiss_communicat/)
+
+
+### Interskin (1994-95)
+[*inter_skin*](http://www.stenslie.net/), by [Stahl Stenslie] is part of the artist's line of research into the body's relationship to networks and networked culture. The __inter_skin project__ features special sensor/stimulator suits worn by participants that is capable of both transmitting and receiving different sensory stimuli, particularly touch. Participants can send and receive tactile messages from one another. For example, by touching ones own body, that same touch is transmit across the network to the other participant. The strength of the touch is determined by the duration of the touch. Stenslie notes that the nature of the piece highlights certain phenomena such as autoerotic stimulation and "the conception of a shared virtual body."
+
+[![inter_skin](img/stahl_stenslie_interskin.png)](http://www.stenslie.net/)
 
 ### Social Turkers (2013)
 Lauren McCarthy's [*Social Turkers*](http://socialturkers.com/) (2013) asks: "What if we could receive real-time feedback on our social interactions? Would unbiased third party monitors be better suited to interpret situations and make decisions for the parties involved? How might augmenting our experience help us become more aware in our relationships, shift us out of normal patterns, and open us to unexpected possibilities? I am developing a system like this for myself using Amazon Mechanical Turk. During a series of dates with new people I meet on the internet, I will stream the interaction to the web using an iPhone app. Turk workers will be paid to watch the stream, interpret what is happening, and offer feedback as to what I should do or say next. This feedback will be communicated to me via text message." (McCarthy)
@@ -110,7 +119,6 @@ Lauren McCarthy's [*Social Turkers*](http://socialturkers.com/) (2013) asks: "Wh
 [![Social Turkers](img/social_turkers.jpg)](https://vimeo.com/66339316)
 
 
-interskin stahl stenslie
 
 ---
 
