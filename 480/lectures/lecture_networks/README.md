@@ -161,7 +161,7 @@ Jonah Brucker-Cohen's [*Police State*](https://www.coin-operated.com/2010/05/03/
 
 
 ### Autonomy Cube (2014)
-[*Autonomy Cube*](https://paglen.studio/2020/04/09/autonomy-cube/)) by Trevor Paglen, is a sculpture designed to be housed in art museums, galleries, and civic spaces. But this sculpture is also a provate wi-fi hotspot, with all traffic being routed over the [Tor network](https://www.torproject.org/As Paglen describes it "[t]he sculpture is meant to be both 'seen' and 'used'... [a]nyone can join this network and use it to [privately] browse the Internet." The scultpture is also a Tor relay, thus making the sculpture, the institution that hosts/exhibits and the end users part of a privacy‐oriented, volunteer run internet infrastructure.
+[*Autonomy Cube*](https://paglen.studio/2020/04/09/autonomy-cube/) by Trevor Paglen, is a sculpture designed to be housed in art museums, galleries, and civic spaces. But this sculpture is also a provate wi-fi hotspot, with all traffic being routed over the [Tor network](https://www.torproject.org/As Paglen describes it "[t]he sculpture is meant to be both 'seen' and 'used'... [a]nyone can join this network and use it to [privately] browse the Internet." The scultpture is also a Tor relay, thus making the sculpture, the institution that hosts/exhibits and the end users part of a privacy‐oriented, volunteer run internet infrastructure.
 
 [![Autonomy Cube](img/autonomy_cube.jpg)](https://paglen.studio/2020/04/09/autonomy-cube/)
 
