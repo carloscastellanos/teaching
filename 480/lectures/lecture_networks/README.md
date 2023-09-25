@@ -170,10 +170,10 @@ Jonah Brucker-Cohen's [*Police State*](https://www.coin-operated.com/2010/05/03/
 
 ## Artists and the Blockchain
 
-Like network art, artists working with blockchain technology
+Like with network art, artists working with blockchain technology strive not to simply upload images or videos to the blockchain but create works that creatively leverage the underlying decentralized autonomous consensus-building that blockchain technologies make possible.
 
 ### terra0
 
 [![terra0](img/terra0.png)](https://terra0.org)
 
-[*terra0*](https://terra0.org) is an initiative to create technologically-augmented resilient ecosystems managed via blockchain technologies. A [2016 whitepaper](https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf) describes how one might create an autonmous forest that owns itself. Other terr0 projects are protoypes based on this idea. For instance [*Premna Daemon*](https://terra0.medium.com/premna-daemon-an-introduction-via-a-history-of-autonomy-in-the-cryptosphere-3cee15e92fe2) is "a Bonsai tree (__Premna Microphylla__), a web interface, several senors and cameras, and a Smart Contract on the Ethereum Mainnet". The tree essentually pays humans to care of it (water, prune it, etc) by sending Eth (the native currency of the Ethereum blockchain) to a wallet owned by the gallery.
+[*terra0*](https://terra0.org) is an initiative to create technologically-augmented resilient ecosystems managed via blockchain technologies. A [2016 whitepaper](https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf) describes how one might create an autonmous forest that owns itself. Other terr0 projects are protoypes based on this idea. For instance [*Premna Daemon*](https://terra0.medium.com/premna-daemon-an-introduction-via-a-history-of-autonomy-in-the-cryptosphere-3cee15e92fe2) is "a Bonsai tree (_Premna Microphylla_), a web interface, several senors and cameras, and a Smart Contract on the Ethereum Mainnet". The tree essentually pays humans to care of it (water, prune it, etc) by sending Eth (the native currency of the Ethereum blockchain) to a wallet owned by the gallery.
