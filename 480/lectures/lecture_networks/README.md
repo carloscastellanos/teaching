@@ -170,7 +170,7 @@ Jonah Brucker-Cohen's [*Police State*](https://www.coin-operated.com/2010/05/03/
 
 ## Artists and the Blockchain
 
-Like with network art, artists working with blockchain technology strive not to simply upload images or videos to the blockchain but create works that creatively leverage the underlying decentralized autonomous consensus-building that blockchain technologies make possible.
+Like with network art, artists working with blockchain technology strive not to simply upload images or videos to the blockchain but create works that creatively leverage the underlying decentralized, autonomous consensus-building that blockchain technologies make possible.
 
 ### terra0
 
