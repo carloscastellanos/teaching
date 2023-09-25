@@ -161,7 +161,17 @@ Jonah Brucker-Cohen's [*Police State*](https://www.coin-operated.com/2010/05/03/
 
 
 ### Autonomy Cube (2014)
-[*Autonomy Cube*](https://paglen.studio/2020/04/09/autonomy-cube/) by Trevor Paglen, is a sculpture designed to be housed in art museums, galleries, and civic spaces. But this sculpture is also a provate wi-fi hotspot, with all traffic being routed over the [Tor network](https://www.torproject.org/As Paglen describes it "[t]he sculpture is meant to be both 'seen' and 'used'... [a]nyone can join this network and use it to [privately] browse the Internet." The scultpture is also a Tor relay, thus making the sculpture, the institution that hosts/exhibits and the end users part of a privacy‐oriented, volunteer run internet infrastructure.
+[*Autonomy Cube*](https://paglen.studio/2020/04/09/autonomy-cube/) by Trevor Paglen, is a sculpture designed to be housed in art museums, galleries, and civic spaces. But this sculpture is also a provate wi-fi hotspot, with all traffic being routed over the [Tor network](https://www.torproject.org/). As Paglen describes it "the sculpture is meant to be both 'seen' and 'used'... anyone can join this network and use it to (privately) browse the Internet." The scultpture is also a Tor relay, thus making the sculpture, the institution that hosts/exhibits it and the end users part of a privacy‐oriented, volunteer-run internet infrastructure.
 
 [![Autonomy Cube](img/autonomy_cube.jpg)](https://paglen.studio/2020/04/09/autonomy-cube/)
 
+
+---
+
+## Artists and the Blockchain
+
+Like network art, artists working with blockchain technology
+
+### terra0
+
+[*terra0*](https://terra0.org) is an initiative to create technologically-augmented resilient ecosystems managed via blockchain technologies. A [2016 whitepaper](https://terra0.org/assets/pdf/terra0_white_paper_2016.pdf) describes how one might create an autonmous forest that owns itself. Other terr0 projects are protoyps based on this idea. For instance [*Premna Daemon*](https://terra0.medium.com/premna-daemon-an-introduction-via-a-history-of-autonomy-in-the-cryptosphere-3cee15e92fe2) is "a Bonsai tree (a Premna Microphylla), a web interface, several senors and cameras, and a Smart Contract on the Ethereum Mainnet". The tree essentually pays humans to care of it (water, prune it, etc) by sending Eth (the native currency of the Ethereum blockchain) to a wallet owned by the gallery.
