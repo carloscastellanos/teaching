@@ -1,0 +1,21 @@
+{
+  "name": "draw-sockets",
+  "version": "1.0.0",
+  "description": "draw live over web",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sockets",
+    "p5.js",
+    "node.js"
+  ],
+  "author": "Carlos Castellanos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
