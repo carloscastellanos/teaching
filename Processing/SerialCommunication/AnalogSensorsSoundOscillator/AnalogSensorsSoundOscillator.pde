@@ -23,12 +23,9 @@ Serial myPort;              // The serial port
 
 TriOsc tri;                 // Triangle wave oscillator
 
-Reverb reverb;              // Reverb
-float room=0.8;
-float damp=0.3;
-float wet=0.9;
-
 float sensor0, sensor1;     // Sensors
+
+int dotColor = 0;
  
 void setup() {
   size(800, 600);
@@ -41,23 +38,28 @@ void setup() {
   String portName = Serial.list()[2];
   myPort = new Serial(this, portName, 9600);
   
-  // don't generate a serialEvent() until you get an ASCII newline character
+  myPort.clear();
+  
+  // read bytes into a buffer until you get a linefeed (ASCII 10):
   myPort.bufferUntil('\n');
   
   tri = new TriOsc(this);
   tri.play();
+  
+  //reverb.wet(wet);
+  //reverb.process(tri);
 }
 
 void draw() {
   background(#2b9468); // green background
-  fill(0);
+  fill(dotColor);
    
   tri.freq(map(sensor0, 200, 800, 150, 880)); // frequency 
   tri.amp(map(sensor1, 0, 1023, 0.0, 1.0));  // amplitude
   
   // Draw the shape
   float xloc = map(sensor1, 0, 1023, 0, width);
-  float yloc = map(sensor0, 200, 800, height, 0);
+  float yloc = map(sensor0, 100, 1023, height, 0);
   ellipse(xloc, yloc, 40, 40);
 }
 
@@ -82,9 +84,9 @@ void serialEvent(Serial myPort) {
       sensor1 = sensors[1];
       // the button will send 0 or 1, which willturn the reverb on/off
       if(sensors[2] > 0) {
-        wet = 0.9;
+        dotColor=255;
       } else {
-        wet = 0.0;
+        dotColor=0;;
       }
     }
   }
