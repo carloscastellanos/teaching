@@ -16,7 +16,7 @@ void setup()
   // On my particular computer Serial.list()[1] returns 
   // the port that the Arduno is connected to.
   // Open whatever port is the one you're using.
-  String portName = Serial.list()[1];
+  String portName = Serial.list()[2];
   println(portName);
   myPort = new Serial(this, portName, 9600);
   myPort.clear(); // empty the serial buffer

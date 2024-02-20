@@ -34,11 +34,11 @@ void setup() {
   size(800, 600);
   
   // List all the available serial ports
-  println(Serial.list());
+  System.out.println(Serial.list());
   
   // Change the number in the Serial.list() array to the appropriate
   // number of the serial port that your microcontroller is attached to.
-  String portName = Serial.list()[4];
+  String portName = Serial.list()[2];
   myPort = new Serial(this, portName, 9600);
   
   // don't generate a serialEvent() until you get an ASCII newline character
