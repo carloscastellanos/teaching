@@ -43,11 +43,9 @@ void setup() {
   // read bytes into a buffer until you get a linefeed (ASCII 10):
   myPort.bufferUntil('\n');
   
+  // create a trinagle oscillator and play it
   tri = new TriOsc(this);
   tri.play();
-  
-  //reverb.wet(wet);
-  //reverb.process(tri);
 }
 
 void draw() {
