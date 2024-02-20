@@ -45,6 +45,7 @@ void setup() {
   
   // create a trinagle oscillator and play it
   tri = new TriOsc(this);
+  tri.amp(0.2);
   tri.play();
 }
 
