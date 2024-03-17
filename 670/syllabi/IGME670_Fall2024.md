@@ -1,3 +1,4 @@
+# IGME670
 **RIT IGM Digital Audio Production**
 
 <img src="../img/Ai4R-kdV_400x400.jpg" width="400" height="400" alt="RIT IGM Logo">
