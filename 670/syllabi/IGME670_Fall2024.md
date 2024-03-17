@@ -5,8 +5,6 @@
 
 ## Fall 2024 syllabus for Digital Audio Production & Sound Design course (IGME670) at the School of Interactive Games & Media ##
 
-**Fall 2024**
-
 # Course Information
 
 _This document exclusively covers the policies and procedures for IGME-670. This document does not include information about topic units, specific assignments, or readings. These can be found in the Content section on myCourses._
