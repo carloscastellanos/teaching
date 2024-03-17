@@ -26,7 +26,7 @@ Title</p>
 Meeting Times</p>
 
    </td>
-   <td>Tue/Thur 5 - 6:15pm
+   <td>Tue/Thur, 5 - 6:15pm
    </td>
   </tr>
   <tr>
@@ -51,6 +51,14 @@ Instructor</p>
 
    </td>
    <td>Carlos Castellanos
+   </td>
+  </tr>
+    <tr>
+   <td><p style="text-align: right">
+Instructor contact</p>
+
+   </td>
+   <td><a href="https://www.rit.edu/computing/directory/cxcigm-carlos-castellanos">see this page</a> (also on myCourses)
    </td>
   </tr>
 </table>
