@@ -10,7 +10,7 @@ Class meets on: _Tue/Thur, 5pm-6:15pm_
 
 Location: _MSS3110_ (MAGIC Center)
 
-Instructor: __Sam Tarakajian__
+Instructor: __Carlos Castellanos__
 
 Instructor e-mail: cxcigm@rit.edu
 
