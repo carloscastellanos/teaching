@@ -63,3 +63,27 @@ Instructor contact</p>
 
 ---
 
+Digital audio production (recording, mixing and mastering)
+
+sound synthesis
+
+audio signal processing (including filtering, delay, and reverb)
+
+sound art and sound design
+
+data flow, timing and interaction
+
+MIDI & OSC
+
+Integration of sonic and visual elements
+
+Web audio
+
+Sound for film and games
+
+
+
+
+Reaper
+WWise and/or FMOD
+Max/MSP
