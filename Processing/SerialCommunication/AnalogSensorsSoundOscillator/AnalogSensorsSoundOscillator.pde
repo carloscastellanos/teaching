@@ -85,7 +85,7 @@ void serialEvent(Serial myPort) {
       if(sensors[2] > 0) {
         dotColor=255;
       } else {
-        dotColor=0;;
+        dotColor=0;
       }
     }
   }
