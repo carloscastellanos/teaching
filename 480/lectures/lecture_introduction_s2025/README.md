@@ -17,7 +17,7 @@
 * What do you want to get out of this class?
 
 
-## What is Creative Coding?
+## What is Augmented Reality? What is Locative Media?
 
 "Creative coding" describes the growing set of cultural practices by which artists, designers, musicians architects, and poets employ computer programming and custom software as their chosen medium. This burgeoning, interdisciplinary field has been accelerated by the widespread adoption of open-source arts-engineering toolkits, such as [Processing](https://processing.org/), [p5.js](https://p5js.org/), and [openFrameworks](https://openframeworks.cc/), into the curricula of hundreds of art and design schools around the world. Other popular tools among artists include Max/MSP, Arduino, Cinder and TouchDesigner. All of these toolkits (most of which were created by artists for artists) are specifically oriented to meet the particular needs and working styles of both professionals and students with visual-spatial, musical-rhythmic, verbal-linguistic, and bodily-kinesthetic intelligences.
 
