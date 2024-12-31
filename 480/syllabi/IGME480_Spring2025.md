@@ -497,16 +497,18 @@ _(subject to change)_
 <h3>Week 1: Introduction to AR and Locative Media</h3>
 
 - Overview of AR and locative media technologies.
-
 - Case studies in arts and culture.
 
-Week 2: Theoretical Frameworks
+<h3>Week 2: Theoretical Frameworks in Locative Media and Mobile AR</h3>
 
-Locative media and space: Mapping and storytelling.
+- Theories of Space & Place
+- Theories of Media & Technology
+- Case studies in moile AR & locative media
+- Hands-on workshop: Mobile AR basics
 
 Key readings: Manovich, McGonigal, and others.
 
-Week 3: Tools and Platforms
+Week 3: AR Tools and Platforms
 
 Introduction to AR creation tools (Unity, Adobe Aero).
 
