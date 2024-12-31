@@ -160,7 +160,7 @@ Invention and creative experimentation are the overarching goals and ethos of th
 
 **Presentations:** Student presentations of their work
 
-**Final Public Project:** Final group projects integrating AR and locative media. ⚡️ **_These projects will be shared with the public_** ⚡️. Students will present their work to the community and exhibit their projects in conjunction with a local arts and culture organization. The projects will be live and running by the end of the semester.
+**Final Public Project:** Final group projects integrating AR and locative media. :zap: **_These projects will be shared with the public_** :zap:. Students will present their work to the community and exhibit their projects in conjunction with a local arts and culture organization. The projects will be live and running by the end of the semester.
 
 ## Required Texts
 
@@ -180,7 +180,7 @@ Available resources include books, articles, videos, web sites and GitHub reposi
 
 ## Assessment Structure
 
-There are approximately 6 main assignments (1 minor project, 3 workshops, midterm presentation and final project) on which students will receive critical feedback from the instructor and their peers. Critical feedback on the content or quality of projects will not factor into grades, ⚡️ **_except where such feedback concerns missing or incomplete components of the assignment or where the overall effort is determined by the instructor to be lacking._** ⚡️ In other words, if you do the work digently and assiduously, and don't just "phone it in", you shouldn't have to worry about your grades.
+There are approximately 6 main assignments (1 minor project, 3 workshops, midterm presentation and final project) on which students will receive critical feedback from the instructor and their peers. Critical feedback on the content or quality of projects will not factor into grades, :zap: **_except where such feedback concerns missing or incomplete components of the assignment or where the overall effort is determined by the instructor to be lacking._** :zap: In other words, if you do the work digently and assiduously, and don't just "phone it in", you shouldn't have to worry about your grades.
 
 # Philosophy
 
@@ -208,7 +208,7 @@ Regarding your mental presence in the classroom: physical presence means nothing
 
 ## A Word About Unexcused Absences in Critiques
 
-Sometimes, students who haven’t completed their projects skip class during critiques, because they are too embarrassed to come to class empty-handed. This type of absence is particularly self-destructive, and is one of the most objectionable things you can do in this class. Please have courage. Your participation on critique days is essential, even if your own project is incomplete or missing, because these sessions and conversations help you understand our class standards, expectations, and criteria for good work. ⚡️ **_Even if your own project is unfinished, you are still expected to contribute productively to the class discussion_** ⚡️ .
+Sometimes, students who haven’t completed their projects skip class during critiques, because they are too embarrassed to come to class empty-handed. This type of absence is particularly self-destructive, and is one of the most objectionable things you can do in this class. Please have courage. Your participation on critique days is essential, even if your own project is incomplete or missing, because these sessions and conversations help you understand our class standards, expectations, and criteria for good work. :zap: **_Even if your own project is unfinished, you are still expected to contribute productively to the class discussion_** :zap: .
 
 ## Attendance Policy Summary
 
@@ -250,9 +250,9 @@ Assignments are not simply about writing code. Every assignment will have associ
 
 ## Journal & Documentation
 
-Every assignment requires that you document your process. ⚡️ **You will be expected to keep an online journal/blog** ⚡️ of your work in this class. Project updates, research process, readings, interesting links – all of these go in your journal. Specific requirements will be provided for each assignment. Part of these requirements will entail the submission of a ["Field Report"](https://github.com/carloscastellanos/teaching/blob/master/480/syllabi/field-report.md). You will periodically be asked to "survey the field". That is, browse various blogs, web sites, academic journals or other resources in order to deepen your knowledge of the field and familiarize yourself with the current state of the art. You will then be expected to report on your findings — hopefully with a critical perspective. Some weeks, the "Field Report" deliverables may be thematically oriented. There is no restriction on the sources of information you may use.
+Every assignment requires that you document your process. :zap: **You will be expected to keep an online journal/blog** :zap: of your work in this class. Project updates, research process, readings, interesting links – all of these go in your journal. Specific requirements will be provided for each assignment. Part of these requirements will entail the submission of a ["Field Report"](https://github.com/carloscastellanos/teaching/blob/master/480/syllabi/field-report.md). You will periodically be asked to "survey the field". That is, browse various blogs, web sites, academic journals or other resources in order to deepen your knowledge of the field and familiarize yourself with the current state of the art. You will then be expected to report on your findings — hopefully with a critical perspective. Some weeks, the "Field Report" deliverables may be thematically oriented. There is no restriction on the sources of information you may use.
 
-The journal is a reflection of yourself as a professional and should demonstrate that. Therefore, even if you do have a website/blog already, ⚡️ **_this course requires that you create a website/blog unique to this course_** ⚡️ . This will be a website that you will continue to use throughout this course and perhaps your duration in the program. For this semester I am asking everyone to create an account on the free blogging platform [WordPress.com](https://wordpress.com).
+The journal is a reflection of yourself as a professional and should demonstrate that. Therefore, even if you do have a website/blog already, :zap: **_this course requires that you create a website/blog unique to this course_** :zap: . This will be a website that you will continue to use throughout this course and perhaps your duration in the program. For this semester I am asking everyone to create an account on the free blogging platform [WordPress.com](https://wordpress.com).
 
 In addition to the journal, you will also upload your programming assignments (with some possible exceptions) to GitHub. This will make it easier for all of us to see your programming assignments. You will simply need to post a link to the GutHub repository in your assignment submission.
 
@@ -266,7 +266,7 @@ Make sure to cite sources from which you get your ideas, code, and construction 
 
 ## Readings & Response
 
-Readings, videos, and other supplementary materials will be included as part of every assignment. These might include excerpts from academic texts, academic papers, recorded conference talks, blog posts, or any other relevant material. ⚡️ **_You will be expected to write a short 1-page response for each in your journal._** ⚡️ Remember that this is essentially a curated collection of material. You could do your own research (and will, especially for your final project), but I am helping you by sharing what I think is most important. Part of learning is knowing where to look and conducting your own research. This is why it is important to do the readings, and come to class with thoughts and questions for discussion. It helps you gain confidence in these "meta-skills" of researching, questioning, generating ideas, etc. As always, if you're struggling to keep up with the readings, do not hesitate to ask for help.
+Readings, videos, and other supplementary materials will be included as part of every assignment. These might include excerpts from academic texts, academic papers, recorded conference talks, blog posts, or any other relevant material. :zap: **_You will be expected to write a short 1-page response for each in your journal._** :zap: Remember that this is essentially a curated collection of material. You could do your own research (and will, especially for your final project), but I am helping you by sharing what I think is most important. Part of learning is knowing where to look and conducting your own research. This is why it is important to do the readings, and come to class with thoughts and questions for discussion. It helps you gain confidence in these "meta-skills" of researching, questioning, generating ideas, etc. As always, if you're struggling to keep up with the readings, do not hesitate to ask for help.
 
 # Grading
 
@@ -278,7 +278,7 @@ Your work will be evaluated according to three different schemes, which are deco
 
 ## Rubrics for Creative Projects
 
-The purpose of our open-ended projects is to provide well-circumscribed opportunities for you to make creative work with AR, code and technology moreboradly. Generally, the prompts will invite you to explore a specific conceptual theme or set of programming techniques. As such - and since there is no "correct" or "best" or "optimal" artwork or cultural artifact - there is no correct solution to these assignments and no specific requirement for how to implement your idea (unless otherwise specified). A prompt also asks not just for a creative solution, but also for some ⚡️ **_creativity in defining and approaching the problem_**. ⚡️ It is expected that your projects will be documented and published to your online journal.
+The purpose of our open-ended projects is to provide well-circumscribed opportunities for you to make creative work with AR, code and technology moreboradly. Generally, the prompts will invite you to explore a specific conceptual theme or set of programming techniques. As such - and since there is no "correct" or "best" or "optimal" artwork or cultural artifact - there is no correct solution to these assignments and no specific requirement for how to implement your idea (unless otherwise specified). A prompt also asks not just for a creative solution, but also for some :zap: **_creativity in defining and approaching the problem_**. :zap: It is expected that your projects will be documented and published to your online journal.
 
 With creative projects, it may not matter how much time a student spent making it. You may sometimes observe a very quickly-executed solution which succeeds because of its strong concept. Usually, however, the quality of a project is rewarded by extra attention to its craft.
 
@@ -425,7 +425,7 @@ Assignments are due at the announced date and time (usually the due date posted 
 
 ## Follow Your Passion
 
-I will assume that most of you are here (that is, in this class and/or at IGM) because you are passionate about media arts, games or otherwise combining technology and creativity. With very rare exceptions (I'll be clear), I will almost always prefer that you ⚡️ **_make the assignment interesting to you_** ⚡️ — if necessary, by creatively bending the rules or re-interpreting the assignment. My assignments are starting-points, prompts and propositions. Think beyond them.
+I will assume that most of you are here (that is, in this class and/or at IGM) because you are passionate about media arts, games or otherwise combining technology and creativity. With very rare exceptions (I'll be clear), I will almost always prefer that you :zap: **_make the assignment interesting to you_** :zap: — if necessary, by creatively bending the rules or re-interpreting the assignment. My assignments are starting-points, prompts and propositions. Think beyond them.
 
 Notwithstanding the above, you will always be expected to conform to certain supporting requirements (described above) in regard to deliverables and documentation. Did you include an image of your project? Did you write the requested narrative? Such requirements are non-negotiable.
 
@@ -449,7 +449,7 @@ Credit is perhaps the most important form of currency in the economies of common
 
 **Use Libraries.** In your projects, the use of general, reusable libraries is strongly encouraged. The people who developed and contributed these components to the community worked hard, often for no pay; acknowledge them by citing their name and linking to their repository.
 
-**Be Careful.** It sometimes happens that an artist or developer places the entire source code for their artwork online, as a resource from which others can learn. The assignments professors give in new-media arts courses are often similar; you may discover the work of a student in some other class or school, who has posted code for a project which responds to a similar assignment. You should probably avoid this code. At the very least, you should be very, very careful about approaching such code for possible re-use. If it is necessary to do so, it is best to extract components that solve a specific technical problem, rather than those parts which operate to create a unique creative experience. Your challenge, if and/or when you work with others’ code, is to ⚡️ **_make it your own_** ⚡️ . It should be clear that forking an artwork from someone’s page on GitHub, OpenProcessing, etc., and simply changing the colors would be disgracefully lazy. Doing so without proper citation would be plagiarism.
+**Be Careful.** It sometimes happens that an artist or developer places the entire source code for their artwork online, as a resource from which others can learn. The assignments professors give in new-media arts courses are often similar; you may discover the work of a student in some other class or school, who has posted code for a project which responds to a similar assignment. You should probably avoid this code. At the very least, you should be very, very careful about approaching such code for possible re-use. If it is necessary to do so, it is best to extract components that solve a specific technical problem, rather than those parts which operate to create a unique creative experience. Your challenge, if and/or when you work with others’ code, is to :zap: **_make it your own_** :zap: . It should be clear that forking an artwork from someone’s page on GitHub, OpenProcessing, etc., and simply changing the colors would be disgracefully lazy. Doing so without proper citation would be plagiarism.
 
 ## Informal Collaboration
 
