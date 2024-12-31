@@ -494,7 +494,7 @@ Any and all of the previous information is subject to change or modification dur
 
 _(subject to change)_
 
-**Week 1: Introduction to AR and Locative Media**
+<h3>Week 1: Introduction to AR and Locative Media</h3>
 
 - Overview of AR and locative media technologies.
 
