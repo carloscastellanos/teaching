@@ -160,7 +160,7 @@ Invention and creative experimentation are the overarching goals and ethos of th
 
 **Presentations:** Student presentations of their work
 
-**Final Public Project:** Final group projects integrating AR and locative media. ⚡️ <mark style="background-color: #0066FF; font-style: italic;font-weight: bold">These projects will be shared with the public</mark> ⚡️. Students will present their work to the community and exhibit their projects in conjunction with a local arts and culture organization. The projects will be live and running by the end of the semester.
+**Final Public Project:** Final group projects integrating AR and locative media. ⚡️ <mark style="background-color: lightblue; font-style: italic;font-weight: bold">These projects will be shared with the public</mark> ⚡️. Students will present their work to the community and exhibit their projects in conjunction with a local arts and culture organization. The projects will be live and running by the end of the semester.
 
 ## Required Texts
 
@@ -171,7 +171,7 @@ There are no required text purchases for this course. There are however learning
 - Computer: Students should have access to a desktop or laptop computer with a webcam. A reliable internet connection will also be very important.
 - Mobile phone or tablet: Students should have access to a mobile phone or tablet with a camera, GPS and internt connectivity
 - Sketchbook: It is wise to plan your projects on paper before writing any code. In support of this, you are required to maintain a paper sketchbook for this course. Most assignments will require you to post images of your project sketches.
-- Programming Environments: the programming language used for sample code and workshops will be JavaScript. For the purposes of simplicity, accesibility and easy cross-plattform compabitibility we will use [AR.js] (https://ar-js-org.github.io/AR.js-Docs/) and [A-Frame](https://aframe.io/)
+- Programming Environments: the programming language used for sample code and workshops will be JavaScript. For the purposes of simplicity, accesibility and easy cross-plattform compabitibility we will use [AR.js](https://ar-js-org.github.io/AR.js-Docs/) and [A-Frame](https://aframe.io/)
 - Camera: Students should have access to a digital camera to document certain projects. A smartphone with a camera is acceptable.
 
 ## Learning Resources
