@@ -575,6 +575,6 @@ _(subject to change)_
 - Students showcase their projects at Rochester Contemporary Art Center
 - Reflection on learning outcomes and feedback.
 
-# ===
+# 
 >[!NOTE]
 > This syllabus borrows ideas and content from numerous colleagues in the Arts & Technology community. In the spirit of the course itself, it is a combination of material from the course designer/instructor Carlos Castellanos and colleagues [Golan Levin](https://flong.com), [Ali Momeni](https://alimomeni.net/), the late [Stephen Wilson](https://www.legacy.com/us/obituaries/sfgate/name/stephen-wilson-obituary?id=21055905), [Travis Stodter](https://www.rit.edu/directory/tmsigm-travis-stodter) and many others.
