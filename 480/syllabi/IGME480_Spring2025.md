@@ -159,7 +159,7 @@ Invention and creative experimentation are the overarching goals and ethos of th
 
 **Presentations:** Student presentations of their work
 
-**Final Public Project:** Final group projects integrating AR and locative media. ⚡️**_These projects will be shared with the public_**⚡️. Students will present their work to the community and exhibit their projects in conjunction with a local arts and culture organization. The projects will be live and running by the end of the semester.
+**Final Public Project:** Final group projects integrating AR and locative media. ⚡️ **_These projects will be shared with the public_** ⚡️. Students will present their work to the community and exhibit their projects in conjunction with a local arts and culture organization. The projects will be live and running by the end of the semester.
 
 ## Required Texts
 
