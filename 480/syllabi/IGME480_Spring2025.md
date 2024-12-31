@@ -510,7 +510,7 @@ _(subject to change)_
 
 - Overview of AR creation tools & platforms
 - Hands-on workshop: Creating your first AR experience.
-- Fieldwork: downtown Rochester
+- Fieldwork: exploring Rochester
 
 <h3>Week 4: History and Cultural Heritage</h3>
 
