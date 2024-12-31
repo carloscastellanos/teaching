@@ -171,7 +171,7 @@ There are no required text purchases for this course. There are however learning
 ## Required Materials
 
 - Computer: Students should have access to a desktop or laptop computer with a webcam. A reliable internet connection will also be very important.
-- Mobile phone or tablet: Students should have access to a mobile phone or tablet with a camera, GPS and internt connectivity
+- Mobile phone or tablet: Students should have access to a mobile phone or tablet with a camera, GPS and internet connectivity
 - Sketchbook: It is wise to plan your projects on paper before writing any code. In support of this, you are required to maintain a paper sketchbook for this course. Most assignments will require you to post images of your project sketches.
 - Programming Environments: the programming language used for sample code and workshops will be JavaScript. For the purposes of simplicity, accesibility and easy cross-plattform compabitibility we will use [AR.js](https://ar-js-org.github.io/AR.js-Docs/) and [A-Frame](https://aframe.io/)
 - Camera: Students should have access to a digital camera to document certain projects. A smartphone with a camera is acceptable.
