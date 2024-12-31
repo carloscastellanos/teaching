@@ -113,6 +113,8 @@ E-mail: [cxcigm@rit.edu](mailto:cxcigm@rit.edu)
     * [Communication](#communication)
     * [Statement on Well-Being & Success](#statement-on-well-being--success)
     * [Statement on the Use of Generative AI](#statement-on-the-use-of-generative-ai)
+* [**Final Note**](#final-note)
+* [**Weekly Schedule**](#weekly-schedule)
 
 ---
 
@@ -482,9 +484,95 @@ Success in this course depends heavily on your personal health and wellbeing. Re
 
 ## Statement on the Use of Generative AI
 
-I will not forbid the use of Generative AI in this course. In fact, the nature of the course may compel us to explore it. Thus in lieu of a more formal or specific policy, we will follow a similar policy for generative AI as we use for open source code. You will need to clearly spell out what tool(s) you use, what your prompts were (if applicable), link to any GitHub repositories, CoLab Notebooks or any generative AI software tools you used. As with the use of someone else's code, simply taking something and tweaking it slightly will be considered a form of plagiarism, or at least laziness. As with code and computation more generally, you will be asked to be creative and inventive with the use of generative AI. AI can't do that for you.
+I will not forbid the use of Generative AI in this course. In fact, the nature of the course may compel us to explore it. Thus in lieu of a more formal or specific policy, we will follow a similar policy for generative AI as we use for open source code. You will need to clearly spell out what tool(s) you use, what your prompts were (if applicable), link to any GitHub repositories, Google CoLab Notebooks or any generative AI software tools you used. As with the use of someone else's code, simply taking something and tweaking it slightly will be considered a form of plagiarism, or at least laziness. As with code and computation more generally, you will be asked to be creative and inventive with the use of generative AI. AI can't do that for you.
 
 # Final Note
 
 Any and all of the previous information is subject to change or modification during the semester, but always with notice. Any changes will be announced in class and communicated electronically.
+
+# Weekly Schedule
+
+_(subject to change)_
+
+**Week 1: Introduction to AR and Locative Media**
+
+- Overview of AR and locative media technologies.
+
+- Case studies in arts and culture.
+
+Week 2: Theoretical Frameworks
+
+Locative media and space: Mapping and storytelling.
+
+Key readings: Manovich, McGonigal, and others.
+
+Week 3: Tools and Platforms
+
+Introduction to AR creation tools (Unity, Adobe Aero).
+
+Hands-on workshop: Creating your first AR experience.
+
+Week 4: Interactive Storytelling
+
+Narrative techniques for AR and locative media.
+
+Workshop: Designing interactive cultural experiences.
+
+Week 5: AR in Museums and Galleries
+
+Examining AR applications in art institutions.
+
+Guest speaker: AR curator or artist.
+
+Week 6: Locative Media for Public Art
+
+Exploration of locative media in public and urban spaces.
+
+Fieldwork: Conceptualizing site-specific works.
+
+Week 7: Midterm Presentations
+
+Students present project concepts for feedback.
+
+Week 8: Technical Deep Dive
+
+Advanced AR techniques and troubleshooting.
+
+Workshop: Integrating audio, video, and 3D objects.
+
+Week 9: Ethics and Accessibility
+
+Discussions on inclusivity, privacy, and data ethics.
+
+Case study: AR projects addressing social issues.
+
+Week 10: Collaborative Creation
+
+Group work on final projects.
+
+In-class critique and iteration.
+
+Week 11: Testing and Deployment
+
+Testing AR and locative media experiences in real-world settings.
+
+Peer feedback and refinement.
+
+Week 12: Future of AR and Locative Media
+
+Emerging trends and technologies.
+
+Preparing for final presentations.
+
+Week 13: Final Project Presentations
+
+Students showcase their projects.
+
+Group critique and discussion.
+
+Week 14: Reflection and Course Wrap-Up
+
+Reflection on learning outcomes and feedback.
+
+Course survey and closing remarks.
 
