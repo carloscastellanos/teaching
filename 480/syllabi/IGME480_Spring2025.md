@@ -7,7 +7,7 @@
 # Course Information
 
 >[!NOTE]
->_This document exclusively covers the policies and procedures for IGME-480. This document does not include information about topic units, specific assignments, or readings. These can be found in the Content section on myCourses._
+>_This document covers the policies and procedures for IGME-480. This document does not include information about topic units, specific assignments, or readings. These can be found in the Content section on myCourses._
 
 
 <table>
@@ -160,7 +160,7 @@ Invention and creative experimentation are the overarching goals and ethos of th
 
 **Presentations:** Student presentations of their work
 
-**Final Public Project:** Final group projects integrating AR and locative media. ⚡️ **_These projects will be shared with the public_** ⚡️. Students will present their work to the community and exhibit their projects in conjunction with a local arts and culture organization. The projects will be live and running by the end of the semester.
+**Final Public Project:** Final group projects integrating AR and locative media. ⚡️ **_<span style="background-color: #FFFF00">These projects will be shared with the public</span>_** ⚡️. Students will present their work to the community and exhibit their projects in conjunction with a local arts and culture organization. The projects will be live and running by the end of the semester.
 
 ## Required Texts
 
