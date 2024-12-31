@@ -291,11 +291,9 @@ In our critiques, we will evaluate your open-ended projects according to the fol
 
 ## Grade Calculation
 
-Grades will be calculated via a [labor-based grading contract](https://en.wikipedia.org/wiki/Contract_grading#Labor-based_contract_grading), which will be negotiated with students at the beginning of the semester, and re-evaluated at mid-semester. This contract will be based on objective factors that include the number of projects you complete, your fulfillment of the project requirements, and your attendance.
+In this course, your grades boil down to fulfillment. Assignments always have a list of supporting requirements. These are very straightforward to fulfill, but if you fail to meet these, you will have points deducted. Nearly every project assignment will ask you to do the following:
 
-In this course, your grades boil down to fulfillment. Projects always have a list of supporting requirements. These are very straightforward to fulfill, but if you fail to meet these, you will have points deducted. Nearly every project assignment will ask you to do the following:
-
-- Create a unique blog post for your project, on our course website.
+- Create a unique blog post for your project.
 - Title and Categorize your blog post in a specified manner.
 - Embed a photo of your notebook sketches for the project, if applicable.
 - Embed a static image of your project, such as a screenshot or photograph.
