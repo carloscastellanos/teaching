@@ -123,7 +123,7 @@ Interactive media development is a rapidly evolving field. This course provides 
 
 ## Detailed Description
 
-This semester's domain area for IGME 480 is **Augmented Reality and Locative Media for Arts & Culture**. We will explore the intersection of augmented reality (AR) and locative media, and their applications in arts and culture. Students will work as members of _Rochester City Arts Lab_. _RCAL_ is a participatory arts and technology initiative to collaboratively share hidden histories of the city of Rochester by combining media arts, mobile augmented reality (AR) and locative media. The vision is to create public digital artworks and experiences featuring three of Rochester's most historic city neighborhoods: Canal St (in the Susan B. Anthony neighborhood), the Vacuum Oil brownfield site (in the Plymouth Exchange neighborhood), and East Ave (in Downtown/East End). Students’ creations will be virtually installed, geo-located, visually and sonically superimposed on the real world through mobile devices. Students will practice a unique blend of technology, art, and community engagement grounded in site work, walks, research, art and experimentation. Within this context, students will learn the theoretical foundations of AR and locative media, examine case studies, and develop creative projects that integrate these technologies into artistic and cultural contexts. By the end of the course, students will have practical experience in designing and implementing AR and locative media projects.
+This semester's domain area for IGME 480 is **_Augmented Reality and Locative Media for Arts & Culture_**. We will explore the intersection of augmented reality (AR) and locative media, and their applications in arts and culture. Students will work as members of _Rochester City Arts Lab_. _RCAL_ is a participatory arts and technology initiative to collaboratively share hidden histories of the city of Rochester by combining media arts, mobile augmented reality (AR) and locative media. The vision is to create public digital artworks and experiences featuring three of Rochester's most historic city neighborhoods: Canal St (in the Susan B. Anthony neighborhood), the Vacuum Oil brownfield site (in the Plymouth Exchange neighborhood), and East Ave (in Downtown/East End). Students’ creations will be virtually installed, geo-located, visually and sonically superimposed on the real world through mobile devices. Students will practice a unique blend of technology, art, and community engagement grounded in site work, walks, research, art and experimentation. Within this context, students will learn the theoretical foundations of AR and locative media, examine case studies, and develop creative projects that integrate these technologies into artistic and cultural contexts. By the end of the course, students will have practical experience in designing and implementing AR and locative media projects.
 
 # Course Overview
 
@@ -159,7 +159,7 @@ Invention and creative experimentation are the overarching goals and ethos of th
 
 **Presentations:** Student presentations of their work
 
-**Final Public Project:** Final group projects integrating AR and locative media. **These projects will be shared with the public.** Students will present their work to the community and exhibit their projects in conjunction with a local arts and culture organization. The projects will be live and running by the end of the semester.
+**Final Public Project:** Final group projects integrating AR and locative media. ⚡️**_These projects will be shared with the public_**⚡️. Students will present their work to the community and exhibit their projects in conjunction with a local arts and culture organization. The projects will be live and running by the end of the semester.
 
 ## Required Texts
 
@@ -170,7 +170,7 @@ There are no required text purchases for this course. There are however learning
 - Computer: Students should have access to a desktop or laptop computer with a webcam. A reliable internet connection will also be very important.
 - Mobile phone or tablet: Students should have access to a mobile phone or tablet with a camera, GPS and internt connectivity
 - Sketchbook: It is wise to plan your projects on paper before writing any code. In support of this, you are required to maintain a paper sketchbook for this course. Most assignments will require you to post images of your project sketches.
-- Programming Environments: the programming environments used for sample code and workshops will be a mixture of p5.js (JavaScript, optionally with Visual Studio Code and the p5.vscode extension), Processing (Java), Python and possibly openFrameworks (C++) and Max/MSP/Jitter (visual programming environment). Depending on the assignment, you may also use any other media development environment or programming language you are comfortable with (e.g., Unity (C#), Swift, etc.).
+- Programming Environments: the programming language used for sample code and workshops will be JavaScript. For the purposes of simplicity, accesibility and easy cross-plattform compabitibility we will use [AR.js] (https://ar-js-org.github.io/AR.js-Docs/) and [A-Frame](https://aframe.io/)
 - Camera: Students should have access to a digital camera to document certain projects. A smartphone with a camera is acceptable.
 
 ## Learning Resources
@@ -179,7 +179,7 @@ Available resources include books, articles, videos, web sites and GitHub reposi
 
 ## Assessment Structure
 
-There are approximately 6 main assignments (1 minor project, 3 workshops, midterm presentation and final project) on which students will receive critical feedback from the instructor and their peers. Critical feedback on the content or quality of projects will not factor into grades, **except where such feedback concerns missing or incomplete components of the assignment or where the overall effort is determined by the instructor to be lacking.** In other words, if you do the work digently and assiduously, and don't just "phone it in", you shouldn't have to worry about your grades.
+There are approximately 6 main assignments (1 minor project, 3 workshops, midterm presentation and final project) on which students will receive critical feedback from the instructor and their peers. Critical feedback on the content or quality of projects will not factor into grades, **_except where such feedback concerns missing or incomplete components of the assignment or where the overall effort is determined by the instructor to be lacking._** In other words, if you do the work digently and assiduously, and don't just "phone it in", you shouldn't have to worry about your grades.
 
 # Philosophy
 
@@ -240,36 +240,32 @@ The three least forgivable violations of our course attendance policy are:
 
 ## Overview
 
-Assignments are not simply about writing code. Every assignment will have associated readings, research and reflective writing components (discussed below). In addition, your instructor will provide important historical context, show examples and provide other notes and resources relevant to the assignment topic/theme. Tentatively, there are 8 main assignments (software art programming projects):
+Assignments are not simply about writing code. Every assignment will have associated readings, research and reflective writing components (discussed below). In addition, your instructor will provide important historical context, show examples and provide other notes and resources relevant to the assignment topic/theme. Tentatively, there are 6 assignments:
 
-1. Training Camp (skill-building)
-2. Representing Time
-3. Chance, Indeterminacy & Rule-based Systems
-4. Un-Drawing Machine
-5. Networks & Telematics
-6. Augmented Body
-7. AI/Machine Learning
-8. Self-Directed Final Project
+- one minor project
+- approximately 3 workshop assignments
+- midterm presentation
+- final project and public presentation
 
 ## Journal & Documentation
 
 Every assignment requires that you document your process. **You will be expected to keep an online journal/blog** of your work in this class. Project updates, research process, readings, interesting links – all of these go in your journal. Specific requirements will be provided for each assignment. Part of these requirements will entail the submission of a ["Field Report"](https://github.com/carloscastellanos/teaching/blob/master/480/syllabi/field-report.md). You will periodically be asked to "survey the field". That is, browse various blogs, web sites, academic journals or other resources in order to deepen your knowledge of the field and familiarize yourself with the current state of the art. You will then be expected to report on your findings — hopefully with a critical perspective. Some weeks, the "Field Report" deliverables may be thematically oriented. There is no restriction on the sources of information you may use.
 
-The journal is a reflection of yourself as a professional and should demonstrate that. Therefore, even if you do have a website/blog already, **this course requires that you create a website/blog unique to this course**. This will be a website that you will continue to use throughout this course and perhaps your duration in the program. For this semester I am asking everyone to create an account on the free blogging platform [WordPress.com](https://wordpress.com).
+The journal is a reflection of yourself as a professional and should demonstrate that. Therefore, even if you do have a website/blog already, **_this course requires that you create a website/blog unique to this course_**. This will be a website that you will continue to use throughout this course and perhaps your duration in the program. For this semester I am asking everyone to create an account on the free blogging platform [WordPress.com](https://wordpress.com).
 
-In addition to the journal, you will also upload your programming assignments (with some possible exceptions) to the OpenProcessing web site. This will make it easier for all of us to see your programming assignments. You will simply need to post a link to the Processing or P5.js sketch in your assignment submission.
+In addition to the journal, you will also upload your programming assignments (with some possible exceptions) to GitHub. This will make it easier for all of us to see your programming assignments. You will simply need to post a link to the GutHub repository in your assignment submission.
 
 **Good documentation habits:**
 
 Document your projects thoroughly as you go, do not put it off until the end. Plan in advance to have what you need to document. Photos, video, sketches, schematics, code and notes are all possible forms of documentation. More specific instructions will be given for each assignment but in general you will need to include general description (what it is, does), the goal(s) of the project, add the ideas/inspirations and results/experience (i.e. a narrative reflection). Your explanation should give enough information that someone who’s never seen the project can understand it. In addition (as mentioned below), you will also write a reflection on the readings and your overall research process.
 
-Make sure the code is well-commented, so you and others can understand what it does. You may post your code (and other relevant files) to a code repository site like GitHub.
+Make sure the code is well-commented, so you and others can understand what it does.
 
 Make sure to cite sources from which you get your ideas, code, and construction techniques. When you base your work on someone else’s, cite the original author and link to their work, just as you would when quoting another author in a paper. Very few ideas come out of nowhere, and your readers can learn a lot from the sources from which you learned and by which you were inspired. This is how knowledge and innovation work. So please be generous in sharing your sources.
 
 ## Readings & Response
 
-Readings, videos, and other supplementary materials will be included as part of every assignment. These might include excerpts from academic texts, academic papers, recorded conference talks, blog posts, or any other relevant material. **You will be expected to write a short 1-page response for each in your journal.** Remember that this is essentially a curated collection of material. You could do your own research (and will, especially for your final project), but I am helping you by sharing what I think is most important. Part of learning is knowing where to look and conducting your own research. This is why it is important to do the readings, and come to class with thoughts and questions for discussion. It helps you gain confidence in these "meta-skills" of researching, questioning, generating ideas, etc. As always, if you're struggling to keep up with the readings, do not hesitate to ask for help.
+Readings, videos, and other supplementary materials will be included as part of every assignment. These might include excerpts from academic texts, academic papers, recorded conference talks, blog posts, or any other relevant material. **_You will be expected to write a short 1-page response for each in your journal._** Remember that this is essentially a curated collection of material. You could do your own research (and will, especially for your final project), but I am helping you by sharing what I think is most important. Part of learning is knowing where to look and conducting your own research. This is why it is important to do the readings, and come to class with thoughts and questions for discussion. It helps you gain confidence in these "meta-skills" of researching, questioning, generating ideas, etc. As always, if you're struggling to keep up with the readings, do not hesitate to ask for help.
 
 # Grading
 
@@ -281,7 +277,7 @@ Your work will be evaluated according to three different schemes, which are deco
 
 ## Rubrics for Creative Projects
 
-The purpose of our open-ended projects is to provide well-circumscribed opportunities for you to make creative work with AR, code and technology moreboradly. Generally, the prompts will invite you to explore a specific conceptual theme or set of programming techniques. As such - and since there is no "correct" or "best" or "optimal" artwork or cultural artifact - there is no correct solution to these assignments and no specific requirement for how to implement your idea (unless otherwise specified). A prompt also asks not just for a creative solution, but also for some **creativity in defining and approaching the problem**. It is expected that your projects will be documented and published to your online journal.
+The purpose of our open-ended projects is to provide well-circumscribed opportunities for you to make creative work with AR, code and technology moreboradly. Generally, the prompts will invite you to explore a specific conceptual theme or set of programming techniques. As such - and since there is no "correct" or "best" or "optimal" artwork or cultural artifact - there is no correct solution to these assignments and no specific requirement for how to implement your idea (unless otherwise specified). A prompt also asks not just for a creative solution, but also for some **_creativity in defining and approaching the problem_**. It is expected that your projects will be documented and published to your online journal.
 
 With creative projects, it may not matter how much time a student spent making it. You may sometimes observe a very quickly-executed solution which succeeds because of its strong concept. Usually, however, the quality of a project is rewarded by extra attention to its craft.
 
@@ -308,7 +304,7 @@ In this course, your grades boil down to fulfillment. Projects always have a lis
 - Embed or link to your code, if requested.
 - As per our course policies on Academic Integrity, you must also:
   - Name any other students from whom you received advice or help. If you had collaborators, explain how the work was distributed among the collaborators.
-  - Cite and link to the sources for any code, external libraries, or other media (e.g. photographs, soundtracks, source images) which you used in your Project. **Citing your sources is very important**. If in doubt, err on the side of generosity.
+  - Cite and link to the sources for any code, external libraries, or other media (e.g. photographs, soundtracks, source images) which you used in your Project. **_Citing your sources is very important_**. If in doubt, err on the side of generosity.
 
 ## Grade Components
 
@@ -418,7 +414,7 @@ Assignments are due at the announced date and time (usually the due date posted 
 
 ## Follow Your Passion
 
-I will assume that most of you are here (that is, in this class and/or at IGM) because you are passionate about media arts, games or otherwise combining technology and creativity. With very rare exceptions (I'll be clear), I will almost always prefer that you **make the assignment interesting to you** — if necessary, by creatively bending the rules or re-interpreting the assignment. My assignments are starting-points, prompts and propositions. Think beyond them.
+I will assume that most of you are here (that is, in this class and/or at IGM) because you are passionate about media arts, games or otherwise combining technology and creativity. With very rare exceptions (I'll be clear), I will almost always prefer that you **_make the assignment interesting to you_** — if necessary, by creatively bending the rules or re-interpreting the assignment. My assignments are starting-points, prompts and propositions. Think beyond them.
 
 Notwithstanding the above, you will always be expected to conform to certain supporting requirements (described above) in regard to deliverables and documentation. Did you include an image of your project? Did you write the requested narrative? Such requirements are non-negotiable.
 
@@ -430,7 +426,7 @@ The RIT policy on academic integrity is available at: [http://www.rit.edu/~w-pol
 
 For your open-ended, public-facing projects, which will be presented and hosted online on myCourses, GitHub or elsewhere, there are no “correct answers”. Your curiosity, creativity, ingenuity and originality are what's important.
 
-You may borrow code or ideas from other sources, within the limits of “reasonable person” principles described below, provided you **attribute your sources**. Your work will appear, publicly, on the open Internet. Your projects will likely be discussed and critiqued in front of (and with the assistance of) your peers.
+You may borrow code or ideas from other sources, within the limits of "reasonable person" principles described below, provided you **_attribute your sources_**. Your work will appear, publicly, on the open Internet. Your projects will likely be discussed and critiqued in front of (and with the assistance of) your peers.
 
 You are expected or invited to make extensive use of open-source libraries and tutorials. When working in this way, much like a knitting circle, our classroom is structured around peer instruction, in which students are expected to help each other learn.
 
@@ -442,15 +438,15 @@ Credit is perhaps the most important form of currency in the economies of common
 
 **Use Libraries.** In your projects, the use of general, reusable libraries is strongly encouraged. The people who developed and contributed these components to the community worked hard, often for no pay; acknowledge them by citing their name and linking to their repository.
 
-**Be Careful.** It sometimes happens that an artist or developer places the entire source code for their artwork online, as a resource from which others can learn. The assignments professors give in new-media arts courses are often similar; you may discover the work of a student in some other class or school, who has posted code for a project which responds to a similar assignment. You should probably avoid this code. At the very least, you should be very, very careful about approaching such code for possible re-use. If it is necessary to do so, it is best to extract components that solve a specific technical problem, rather than those parts which operate to create a unique creative experience. Your challenge, if and/or when you work with others’ code, is to **make it your own**. It should be clear that forking an artwork from someone’s page on GitHub, OpenProcessing, etc., and simply changing the colors would be disgracefully lazy. Doing so without proper citation would be plagiarism.
+**Be Careful.** It sometimes happens that an artist or developer places the entire source code for their artwork online, as a resource from which others can learn. The assignments professors give in new-media arts courses are often similar; you may discover the work of a student in some other class or school, who has posted code for a project which responds to a similar assignment. You should probably avoid this code. At the very least, you should be very, very careful about approaching such code for possible re-use. If it is necessary to do so, it is best to extract components that solve a specific technical problem, rather than those parts which operate to create a unique creative experience. Your challenge, if and/or when you work with others’ code, is to **_make it your own_**. It should be clear that forking an artwork from someone’s page on GitHub, OpenProcessing, etc., and simply changing the colors would be disgracefully lazy. Doing so without proper citation would be plagiarism.
 
 ## Informal Collaboration
 
 This course places a very high value on civic responsibility that includes, but is not limited to, helping others learn. In this course, we strongly encourage you to give help (or ask others for help) in using various toolkits, algorithms, libraries, or other facilities. Please note the following expectations:
 
-- In this class, **it’s OK to give and receive help.** In fact, it’s better than OK! But students who receive help from someone else are obliged to acknowledge that person in their project report, clarifying the nature of the help that was received.
-- **We are all teachers.** Students with advanced skills are expected to help others, yet refrain from doing another’s work for them. You can usually tell when you’re about to cross the line: Ask yourself whether you are teaching someone to fish, or merely giving them the fish.
-- When in doubt: **give credit** to the people who have helped you.
+- In this class, **_it’s OK to give and receive help._** In fact, it’s better than OK! But students who receive help from someone else are obliged to acknowledge that person in their project report, clarifying the nature of the help that was received.
+- **_We are all teachers._** Students with advanced skills are expected to help others, yet refrain from doing another’s work for them. You can usually tell when you’re about to cross the line: Ask yourself whether you are teaching someone to fish, or merely giving them the fish.
+- When in doubt: **_give credit_** to the people who have helped you.
 
 ## Formal Collaboration
 
