@@ -225,7 +225,7 @@ Sometimes, students who haven’t completed their projects skip class during cri
 **Policies:**
 
 * Students should contact the professor before class to alert him to their absence.
-* Our labor-based grading contract (to be negotiated) will assign grades that factor in a count of unexcused absences, but not excused absences.
+* Grades may factor in a count of unexcused absences, but not excused absences.
 * You are permitted one unexcused absence.
 * A post-hoc excuse for an unexcused absence may or may not be accepted, at the professor's discretion.
 * The first incidence of unexcused tardiness will be noted, but excused.
@@ -280,7 +280,7 @@ Your work will be evaluated according to three different schemes, which are deco
 
 ## Rubrics for Creative Projects
 
-The purpose of our open-ended projects is to provide well-circumscribed opportunities for you to make creative work with AR, code and technology moreboradly. Generally, the prompts will invite you to explore a specific conceptual theme or set of programming techniques. As such - and since there is no "correct" or "best" or "optimal" artwork or cultural artifact - there is no correct solution to these assignments and no specific requirement for how to implement your idea (unless otherwise specified). A prompt also asks not just for a creative solution, but also for some :zap: **_creativity in defining and approaching the problem_**. :zap: It is expected that your projects will be documented and published to your online journal.
+The purpose of our open-ended projects is to provide well-circumscribed opportunities for you to make creative work with AR, code and technology more broadly. Generally, the prompts will invite you to explore a specific conceptual theme or set of programming techniques. As such - and since there is no "correct" or "best" or "optimal" artwork or cultural artifact - there is no correct solution to these assignments and no specific requirement for how to implement your idea (unless otherwise specified). A prompt also asks not just for a creative solution, but also for some :zap: **_creativity in defining and approaching the problem_**. :zap: It is expected that your projects will be documented and published to your online journal.
 
 With creative projects, it may not matter how much time a student spent making it. You may sometimes observe a very quickly-executed solution which succeeds because of its strong concept. Usually, however, the quality of a project is rewarded by extra attention to its craft.
 
@@ -423,7 +423,7 @@ Beyond this, I would love it if you could:
 
 ## Late Policy
 
-Assignments are due at the announced date and time (usually the due date posted with the assignment on myCourses). When you submit work late, you will miss an important opportunity to share, show off, discuss and get critical feedback on your work. To receive this important feedback, your work must be available for evaluation during the critical review period. Thus, to receive full credit towards your grade, projects should be uploaded and completed by the time that I get around to checking them and/or by the time we have class discussion and critiques on them (which is usually on the stated due date or a few days after). If not, I reserve the right to assign partial or zero credit to them. If you know you're going to be a little late with a project, contact me to arrange an accommodation.
+Assignments are due at the announced date and time (usually the due date posted with the assignment on myCourses). When you submit work late, you will miss an important opportunity to share, show off, discuss and get critical feedback on your work. To receive this important feedback, your work must be available for evaluation during the critical review period. Thus, to receive :zap: full credit :zap: towards your grade, projects should be uploaded and completed by the time that I get around to checking them and/or by the time we have class discussion and critiques on them (which is usually on the stated due date or a few days after). If not, I reserve the right to assign partial or zero credit to them. If you know you're going to be a little late with a project, contact me to arrange an accommodation.
 
 ## Follow Your Passion
 
