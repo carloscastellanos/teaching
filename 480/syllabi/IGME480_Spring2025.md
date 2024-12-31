@@ -433,7 +433,7 @@ Notwithstanding the above, you will always be expected to conform to certain sup
 
 # Academic Integrity
 
-The RIT policy on academic integrity is available at: [http://www.rit.edu/~w-policy/sectionD/D8.html](http://www.rit.edu/~w-policy/sectionD/D8.html). Please read them to understand the penalties associated with academic dishonesty. I reserve the right to determine an appropriate penalty based on the violation of academic dishonesty that occurs. The penalty for plagiarizing may range from failure on the specific plagiarized assignment to failure in the class. If you have any questions about this policy as it relates to work you are doing in the course, please feel free to contact the professor.
+The RIT policy on academic integrity is available at: [https://www.rit.edu/policies/d080](https://www.rit.edu/policies/d080). Please read them to understand the penalties associated with academic dishonesty. I reserve the right to determine an appropriate penalty based on the violation of academic dishonesty that occurs. The penalty for plagiarizing may range from failure on the specific plagiarized assignment to failure in the class. If you have any questions about this policy as it relates to work you are doing in the course, please feel free to contact the professor.
 
 ## Policies for Open-Ended Creative Projects
 
