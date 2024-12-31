@@ -244,7 +244,7 @@ Assignments are not simply about writing code. Every assignment will have associ
 
 - one minor project
 - approximately 3 workshop assignments
-- midterm presentation
+- midterm project proposal & presentation
 - final project and public presentation
 
 ## Journal & Documentation
@@ -322,21 +322,33 @@ Grading procedure for the course follows [University Policy D05.0](https://www.r
    </td>
   </tr>
   <tr>
-   <td>Attendance & In-class activities
+   <td>Attendance & Participation
+   </td>
+   <td>10%
+   </td>
+  </tr>
+  <tr>
+   <td>Workshop Assignments
+   </td>
+   <td>15%
+   </td>
+  </tr>
+  <tr>
+   <td>Minor Project
    </td>
    <td>20%
    </td>
   </tr>
   <tr>
-   <td>Assignments (except final)
+   <td>Mid-term Project Proposal & Presentation
    </td>
-   <td>60%
+   <td>15%
    </td>
   </tr>
   <tr>
-   <td>Final Assignment
+   <td>Final Project and Presentation
    </td>
-   <td>20%
+   <td>40%
    </td>
   </tr>
 </table>
