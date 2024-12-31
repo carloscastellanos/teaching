@@ -503,78 +503,74 @@ _(subject to change)_
 
 - Theories of Space & Place
 - Theories of Media & Technology
-- Case studies in moile AR & locative media
+- Case studies in mobile AR & locative media
 - Hands-on workshop: Mobile AR basics
 
-Key readings: Manovich, McGonigal, and others.
+<h3>Week 3: AR Tools and Platforms</h3>
 
-Week 3: AR Tools and Platforms
+- Overview of AR creation tools & platforms
+- Hands-on workshop: Creating your first AR experience.
+- Fieldwork: downtown Rochester
 
-Introduction to AR creation tools (Unity, Adobe Aero).
+<h3>Week 4: History and Cultural Heritage</h3>
 
-Hands-on workshop: Creating your first AR experience.
+- AR and locative media for history and cultural heritage
+- Guest speaker: Rochester history
+- Workshop: Designing interactive cultural experiences.
 
-Week 4: Interactive Storytelling
+<h3>Week 5: Minor Project</h3>
 
-Narrative techniques for AR and locative media.
+- Critique and discussion of Minor Projects
+- Group brainstorming for final project
 
-Workshop: Designing interactive cultural experiences.
+<h3>Week 6: AR and Locative Media for Public Art</h3>
 
-Week 5: AR in Museums and Galleries
+- Exploration of AR & locative media in public and urban spaces.
+- Fieldwork: Conceptualizing site-specific works.
 
-Examining AR applications in art institutions.
+<h3>Week 7: Midterm Presentations</h3>
 
-Guest speaker: AR curator or artist.
+- Students present final project concepts
 
-Week 6: Locative Media for Public Art
+<h3>Week 8: AR in Museums and Galleries</h3>
 
-Exploration of locative media in public and urban spaces.
+- Examining AR applications in arts and culture institutions.
 
-Fieldwork: Conceptualizing site-specific works.
+<h3>Week 9: Technical Deep Dive</h3>
 
-Week 7: Midterm Presentations
+- Advanced AR techniques and troubleshooting.
+- Workshop: Integrating audio, video, and 3D objects.
 
-Students present project concepts for feedback.
+<h3>Week 10: Ethics and Accessibility</h3>
 
-Week 8: Technical Deep Dive
+- Discussions on inclusivity, privacy, and data ethics.
+- Case study: AR projects addressing social issues.
 
-Advanced AR techniques and troubleshooting.
+<h3>Week 11: Collaborative Creation</h3>
 
-Workshop: Integrating audio, video, and 3D objects.
+- Group work on final projects.
+- In-class critique and iteration.
 
-Week 9: Ethics and Accessibility
+<h3>Week 12: Testing and Deployment</h3>
 
-Discussions on inclusivity, privacy, and data ethics.
+- Testing AR and locative media experiences in real-world settings
+- Fieldwork: Testing group projects in the field
+- Peer feedback and refinement.
 
-Case study: AR projects addressing social issues.
+<h3>Week 13: Future of AR and Locative Media</h3>
 
-Week 10: Collaborative Creation
+- Emerging trends and technologies.
+- Preparing for final presentations
+- Fieldwork: Testing group projects in the field
+- Peer feedback and refinement.
 
-Group work on final projects.
+<h3>Week 14: Final Project Presentations</h3>
 
-In-class critique and iteration.
+- Students showcase their projects at ImagineRIT
+- Peer feedback and refinement.
+- Group critique and discussion.
 
-Week 11: Testing and Deployment
+<h3>Week 15: Reflection and Course Wrap-Up</h3>
 
-Testing AR and locative media experiences in real-world settings.
-
-Peer feedback and refinement.
-
-Week 12: Future of AR and Locative Media
-
-Emerging trends and technologies.
-
-Preparing for final presentations.
-
-Week 13: Final Project Presentations
-
-Students showcase their projects.
-
-Group critique and discussion.
-
-Week 14: Reflection and Course Wrap-Up
-
-Reflection on learning outcomes and feedback.
-
-Course survey and closing remarks.
-
+- Students showcase their projects at Rochester Contemporary Art Center
+- Reflection on learning outcomes and feedback.
