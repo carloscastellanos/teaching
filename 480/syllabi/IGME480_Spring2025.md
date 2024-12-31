@@ -82,6 +82,7 @@ E-mail: [cxcigm@rit.edu](mailto:cxcigm@rit.edu)
 * [**Course Overview**](#course-overview)
     * [Topics](#topics)
     * [Course Goals & Learning Objectives](#course-goals--learning-objectives)
+    * [Course Format](#course-format)
     * [Required Texts](#required-texts)
     * [Required Materials](#required-materials)
     * [Learning Resources](#learning-resources)
@@ -212,7 +213,6 @@ Sometimes, students who haven’t completed their projects skip class during cri
 
 **Terms:**
 
-
 * A **class event** is an in-class activity, such as a lecture or critique, in which your presence and participation is expected.
 * An **excused absence** is one in which you've communicated responsibly with the professor prior to class. For example, if you've sent an email to the professor because you're not feeling well, or if you know in advance that you're going to be observing a religious holiday or traveling to a job interview. Contacting the professor beforehand can make it possible to provide you with accommodations—such as recording a class event, or providing a Zoom connection for a remote participant.
 * An **unexcused absence** is one in which you've _ghosted_ a class event, without communicating beforehand with the professor.
@@ -220,7 +220,6 @@ Sometimes, students who haven’t completed their projects skip class during cri
 * **Tardiness** is a form of partial absence in which you are more than 20 minutes late to a class event. Tardiness may be excused or unexcused.
 
 **Policies:**
-
 
 * Students should contact the professor before class to alert him to their absence.
 * Our labor-based grading contract (to be negotiated) will assign grades that factor in a count of unexcused absences, but not excused absences.
