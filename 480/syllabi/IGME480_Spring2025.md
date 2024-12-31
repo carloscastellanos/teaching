@@ -414,7 +414,7 @@ There are a few elementary things you can do to ensure that you retain my highes
 Beyond this, I would love it if you could:
 
 - **Be helpful.** Help your classmates when they’re stuck.
-- **Be fearless.** Take risks. Work outside your comfort zone. ⚡️ **Give yourself permission to be weird.** ⚡️
+- **Be fearless.** Take risks. Work outside your comfort zone. :zap: **Give yourself permission to be weird.** :zap:
 - **Be conscientious.** Pay attention to details of craft and execution. Put your heart in the work.
 - **Be persevering.** Become resourceful about getting the assistance you need.
 - **Be generous.** Participate in the life of the course. Make helpful contributions to lectures, discussions and critiques.
