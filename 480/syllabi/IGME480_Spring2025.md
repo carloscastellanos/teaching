@@ -512,21 +512,21 @@ _(subject to change)_
 - Hands-on workshop: Creating your first AR experience.
 - Fieldwork: exploring Rochester
 
-<h3>Week 4: History and Cultural Heritage</h3>
+<h3>Week 4: AR and Locative Media for Public Art</h3>
 
-- AR and locative media for history and cultural heritage
-- Guest speaker: Rochester history
-- Workshop: Designing interactive cultural experiences.
+- Exploration of AR & locative media in public and urban spaces.
+- Fieldwork: Conceptualizing site-specific works.
 
 <h3>Week 5: Minor Project</h3>
 
 - Critique and discussion of Minor Projects
 - Group brainstorming for final project
 
-<h3>Week 6: AR and Locative Media for Public Art</h3>
+<h3>Week 6: History and Cultural Heritage</h3>
 
-- Exploration of AR & locative media in public and urban spaces.
-- Fieldwork: Conceptualizing site-specific works.
+- AR and locative media for history and cultural heritage
+- Guest speaker: Rochester history
+- Workshop: Designing interactive cultural experiences.
 
 <h3>Week 7: Midterm Presentations</h3>
 
