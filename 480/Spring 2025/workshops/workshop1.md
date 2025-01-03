@@ -31,11 +31,5 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 
 ## Step 1: Introduction to AR.js and A-Frame
 - What is AR.js?<br />A lightweight JavaScript library for creating marker-based and location-based AR experiences using web technologies.
-
-- What is A-Frame?
-A web framework for building 3D and VR/AR experiences using HTML-like syntax.
-
-- Why AR.js with A-Frame?
-No app installation required; runs in a browser.
-Compatibility
-Simple and accessible for beginners.
+- What is A-Frame?<br />A web framework for building 3D and VR/AR experiences using HTML-like syntax.
+- Why AR.js with A-Frame?<br >No app installation required; runs in a browser.<br />Compatibility<br />Simple and accessible for beginners.
