@@ -4,10 +4,9 @@
 
 ### Spring 2025
 
-*Workshop 1: Create a Simple AR Scene Using AR.js and A-Frame*
-
 # Workshop 1: Create a Simple AR Scene Using AR.js and A-Frame
 
+![AR.js](../img/arjs.png "AR.js")
 
 
 Objective:
