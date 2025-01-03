@@ -44,7 +44,7 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 
 ## Building your AR Scene
 1. Create your HTML page:
-`
+```
 <!DOCTYPE html>
 <html>
   <head>
@@ -62,5 +62,5 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
     </a-scene>
   </body>
 </html>
-`
+```
 2.Explnation of code
