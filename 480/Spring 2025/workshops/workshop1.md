@@ -44,7 +44,8 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 
 ## Building your AR Scene
 1. Create your HTML page:
-`<!DOCTYPE html>
+`
+<!DOCTYPE html>
 <html>
   <head>
     <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
@@ -60,5 +61,6 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
       <a-entity camera></a-entity>
     </a-scene>
   </body>
-</html>`
+</html>
+`
 2.Explnation of code
