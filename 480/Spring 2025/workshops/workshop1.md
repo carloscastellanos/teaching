@@ -8,7 +8,6 @@
 
 [![AR.js](img/arjs.png "AR.js")](https://ar-js-org.github.io/AR.js-Docs) [![A-Frame](img/aframe.png "A-Frame")](https://aframe.io)
 
-
-Objective:
-Participants will learn how to create a basic AR experience using AR.js and A-Frame, two web-based frameworks for building augmented reality scenes that work seamlessly on mobile devices and browsers.
+## Objective
+We will learn how to create a basic AR experience using [AR.js](https://ar-js-org.github.io/AR.js-Docs) and [A-Frame](https://aframe.io), two web-based frameworks for building augmented reality scenes that work seamlessly on mobile devices and browsers.
 
