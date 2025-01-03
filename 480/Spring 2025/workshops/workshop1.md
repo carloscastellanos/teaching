@@ -6,7 +6,7 @@
 
 # Workshop 1: Create a Simple AR Scene Using AR.js and A-Frame
 
-![https://ar-js-org.github.io/AR.js-Docs](img/arjs.png "AR.js")
+[![AR.js](img/arjs.png "AR.js")](https://ar-js-org.github.io/AR.js-Docs)
 
 
 Objective:
