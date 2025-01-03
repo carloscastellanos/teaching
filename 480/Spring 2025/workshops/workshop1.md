@@ -37,7 +37,28 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 ## Step 2: Setting up your Development Environment
 1. Install Necessary Tools: ensure that your code editor (e.g., VS Code) is ready.
 2. Have your basic web server set up and ready to use (e.g. Glitch, GitHub Pages, your RIT web web account).
-3. Create a Project Folder:
+3. Create a project folder:
 - Name it `simple-ar-scene`.
-4. Add Necessary Files:
+4. Add necessary files:
 - Create an `index.html` file in the folder.
+
+## Building your AR Scene
+1. Create your HTML page:
+`<!DOCTYPE html>
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
+    <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+    <title>Simple AR Scene</title>
+  </head>
+  <body style="margin: 0; overflow: hidden;">
+    <a-scene embedded arjs>
+      <!-- Marker -->
+      <a-marker preset="hiro">
+        <a-box position="0 0.5 0" color="blue"></a-box>
+      </a-marker>
+      <a-entity camera></a-entity>
+    </a-scene>
+  </body>
+</html>`
+2.Explnation of code
