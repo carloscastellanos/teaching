@@ -24,7 +24,7 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 > **Workshop Prerequsites**
 - Basic familiarity with HTML and JavaScript.
 - A text editor (e.g., VS Code).
-- A smartphone with a modern web browser (e.g., Chrome, Safari).
+- A smartphone or tablet with a modern web browser (e.g., Chrome, Safari).
 - Access to a web server to host files. You can use sites like [Glitch.com](https://glitch.com), [GitHub Pages](https://pages.github.com/) or your RIT student account.
 
 ---
@@ -33,3 +33,11 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 - What is AR.js?<br />A lightweight JavaScript library for creating marker-based and location-based AR experiences using web technologies.
 - What is A-Frame?<br />A web framework for building 3D and VR/AR experiences using HTML-like syntax.
 - Why AR.js with A-Frame?<br >No app installation required; runs in a browser.<br />Compatibility<br />Simple and accessible for beginners.
+
+## Step 2: Setting up your Development Environment
+1. Install Necessary Tools: ensure that your code editor (e.g., VS Code) is ready.
+2. Have your basic web server set up and ready to use (e.g. Glitch, GitHub Pages, your RIT web web account).
+3. Create a Project Folder:
+- Name it `simple-ar-scene`.
+4. Add Necessary Files:
+- Create an `index.html` file in the folder.
