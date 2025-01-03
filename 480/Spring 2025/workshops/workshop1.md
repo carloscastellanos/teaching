@@ -63,4 +63,4 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
   </body>
 </html>
 ```
-2.Explnation of code
+2.Explanation of code

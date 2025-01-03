@@ -243,10 +243,10 @@ The three least forgivable violations of our course attendance policy are:
 
 ## Overview
 
-Assignments are not simply about writing code. Every assignment will have associated readings, research and reflective writing components (discussed below). In addition, your instructor will provide important historical context, show examples and provide other notes and resources relevant to the assignment topic/theme. Tentatively, there are 6 assignments:
+Assignments are not simply about writing code. Every assignment will have associated readings, research and reflective writing components (discussed below). In addition, your instructor will provide important historical context, show examples and provide other notes and resources relevant to the assignment topic/theme. Tentatively, there are 6-8 assignments:
 
 - one minor project
-- approximately 3 workshop assignments
+- approximately 3-5 workshop assignments
 - midterm project proposal & presentation
 - final project and public presentation
 
@@ -423,7 +423,7 @@ Beyond this, I would love it if you could:
 
 ## Late Policy
 
-Assignments are due at the announced date and time (usually the due date posted with the assignment on myCourses). When you submit work late, you will miss an important opportunity to share, show off, discuss and get critical feedback on your work. To receive this important feedback, your work must be available for evaluation during the critical review period. Thus, to receive :zap: ***full credit*** :zap: towards your grade, projects should be uploaded and completed by the time that I get around to checking them and/or by the time we have class discussion and critiques on them (which is usually on the stated due date or a few days after). If not, I reserve the right to assign partial or zero credit to them. If you know you're going to be a little late with a project, contact me to arrange an accommodation.
+Assignments are due at the announced date and time (usually the due date posted with the assignment on myCourses). When you submit work late, you will miss an important opportunity to share, show off, discuss and get critical feedback on your work. To receive this important feedback, your work must be available for evaluation during the critical review period. Thus, to receive :zap: ***full credit*** :zap: towards your grade, assignments should be uploaded and completed by the time that I get around to checking them and/or by the time we have class discussion and critiques on them (which is usually on the stated due date or a few days after). If not, I reserve the right to assign partial or zero credit to them. If you know you're going to be a little late with a project, contact me to arrange an accommodation.
 
 ## Follow Your Passion
 
