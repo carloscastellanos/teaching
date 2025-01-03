@@ -21,7 +21,7 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 ---
 
 >[!NOTE]
-> *Workshop Prerequsites*
+> **Workshop Prerequsites**
 - Basic familiarity with HTML and JavaScript.
 - A text editor (e.g., VS Code).
 - A smartphone with a modern web browser (e.g., Chrome, Safari).
