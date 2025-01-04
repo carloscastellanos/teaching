@@ -112,7 +112,11 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
       });
   </script>
   ```
-- Replace with a 3D model and the added "clicker" component
+- Replace your `<a-scene>` tag with this:
+```
+<a-scene embedded arjs vr-mode-ui="enabled: false" raycaster cursor="rayOrigin: mouse" renderer="antialias: true; alpha: true">
+```
+- Replace with a 3D model and the added "clicker" component:
 ```
 <a-entity
           position="0 0 0"
