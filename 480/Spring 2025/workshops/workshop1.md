@@ -125,5 +125,17 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 ## Step 5: Testing and Troubleshooting
 - Test on your smartphone or tablet:
 - Common Issues:
-    - Marker Not Detected: Ensure good lighting and visibility.
-    - Scene Not Loading: Check browser compatibility or console errors.
+    - Marker not detected: Ensure good lighting and visibility.
+    - Scene Not Loading: Check browser compatibility (e.g. allow use of camera, etc) or console errors
+
+## Step 6: Wrap-Up and Q&A
+- Discuss potential applications of AR.js and A-Frame in arts and culture.
+- Technical questions
+- [AR.js Documentation](https://ar-js-org.github.io/AR.js-Docs)
+- [A-Frame Documentation](https://aframe.io)
+- More resources available on myCourses
+
+## Assignment Submission
+Modify the above code to make it location-based, using AR.js’s geolocation features. Explore the documentation and integrate geospatial data into your scene. For example, instead of using the Hiro marker, make the 3d box appear at a particular geographic location.
+
+Submit all your work on myCourses (details available there).
