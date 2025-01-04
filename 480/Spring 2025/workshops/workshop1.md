@@ -53,7 +53,7 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
     <title>Simple AR Scene</title>
   </head>
   <body style="margin: 0; overflow: hidden;">
-    <a-scene embedded arjs>
+    <a-scene embedded arjs vr-mode-ui="enabled: false">
       <!-- Marker -->
       <a-marker preset="hiro">
         <a-box position="0 0.5 0" color="blue"></a-box>
@@ -79,9 +79,20 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 ```
 <a-sphere position="0 0.5 0" radius="0.5" color="red"></a-sphere>
 ```
+- Replace with a 3D model ([download this model](https://coemergencelab.com/ar/scene.zip), unzip and upload to your server; or get one from [Sketchfab](https://sketchfab.com))
+```
+<a-entity
+          position="0 0 0"
+          scale="0.05 0.05 0.05"
+          rotation="0 45 0"
+          gltf-model="https:/link.to/your/model.gltf"
+        ></a-entity>
+```
 
-2. Adding Animation:
-- Example: Rotating the object.
+2. Adding animation:
+- Example: Rotating a box.
 ```
 <a-box position="0 0.5 0" color="#4CC3D9" rotation="0 45 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 5000"></a-box>
 ```
+
+3. Make the marker clickable:
