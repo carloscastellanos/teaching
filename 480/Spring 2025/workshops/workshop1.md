@@ -123,7 +123,7 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 ```
 
 ## Step 5: Testing and Troubleshooting
-* Test on your smartphone or tablet:
-* Common Issues:
-- Marker Not Detected: Ensure good lighting and visibility.
-- Scene Not Loading: Check browser compatibility or console errors.
+- Test on your smartphone or tablet:
+- Common Issues:
+    - Marker Not Detected: Ensure good lighting and visibility.
+    - Scene Not Loading: Check browser compatibility or console errors.
