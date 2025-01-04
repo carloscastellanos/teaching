@@ -96,3 +96,34 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 ```
 
 3. Make the marker clickable:
+- Replace all the code between the `<html>` and `<body>` tags (not including the `<title>` tag)
+```
+  <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
+    <!-- we use three.js to handle raycasting -->
+  <script src="https://raw.githack.com/AR-js-org/AR.js/master/three.js/build/ar-threex.js"></script>
+  <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+  <script>
+    AFRAME.registerComponent('clicker', {
+          init: function() {
+              this.el.addEventListener('click', e => {
+                  alert('Model clicked!');
+              });
+          }
+      });
+  </script>
+  ```
+- Replace with a 3D model and the added "clicker" component
+```
+<a-entity
+          position="0 0 0"
+          scale="0.05 0.05 0.05"
+          gltf-model="https:/link.to/your/model.gltf"
+          clicker
+        ></a-entity>
+```
+
+## Step 5: Testing and Troubleshooting
+* Test on your smartphone or tablet:
+* Common Issues:
+- Marker Not Detected: Ensure good lighting and visibility.
+- Scene Not Loading: Check browser compatibility or console errors.
