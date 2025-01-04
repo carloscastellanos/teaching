@@ -42,7 +42,7 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 4. Add necessary files:
 - Create an `index.html` file in the folder.
 
-## Building your AR Scene
+## Step 3: Building your AR Scene
 1. Create your HTML page:
 ```
 <!DOCTYPE html>
@@ -63,7 +63,16 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
   </body>
 </html>
 ```
+
 2. Explanation of code
 - `a-scene embedded arjs`: Embeds an AR.js-powered scene in the browser.
 - `a-marker preset="hiro"`: Uses the default ["hiro" marker](https://raw.githubusercontent.com/AR-js-org/AR.js/master/data/images/hiro.png) for tracking.
 - `a-box`: A 3D object (blue box) added to the marker.
+
+3. Save and open the file:
+- Open the index.html in a browser on phone or tablet.
+- Point the camera at Hiro marker (open hiro.png file on a desktop browser and point your phone or tablet's camera at the computer screen).
+
+## Step 4: Adding Interactivity and Custom Features
+1. Customizing the scene:
+- Replace the box with other 3D shapes, models, or animations. Example:
