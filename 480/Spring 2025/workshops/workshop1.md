@@ -65,5 +65,5 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 ```
 2. Explanation of code
 - `a-scene embedded arjs`: Embeds an AR.js-powered scene in the browser.
-- `a-marker preset="hiro"`: Uses the default "hiro" marker for tracking.
+- `a-marker preset="hiro"`: Uses the default ["hiro" marker](https://raw.githubusercontent.com/AR-js-org/AR.js/master/data/images/hiro.png) for tracking.
 - `a-box`: A 3D object (blue box) added to the marker.
