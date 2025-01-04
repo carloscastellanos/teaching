@@ -76,3 +76,12 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 ## Step 4: Adding Interactivity and Custom Features
 1. Customizing the scene:
 - Replace the box with other 3D shapes, models, or animations. Example:
+```
+<a-sphere position="0 0.5 0" radius="0.5" color="red"></a-sphere>
+```
+
+2. Adding Animation:
+- Example: Rotating the object.
+```
+<a-box position="0 0.5 0" color="#4CC3D9" rotation="0 45 0" animation="property: rotation; to: 0 360 0; loop: true; dur: 5000"></a-box>
+```
