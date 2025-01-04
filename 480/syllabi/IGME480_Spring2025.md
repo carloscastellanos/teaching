@@ -503,7 +503,7 @@ _(subject to change)_
 
 - Theories of Space & Place
 - Theories of Media & Technology
-- Case studies in mobile AR & locative media
+- Case studies
 - Hands-on workshop: Mobile AR basics
 
 <h3>Week 3: AR Tools and Platforms</h3>
