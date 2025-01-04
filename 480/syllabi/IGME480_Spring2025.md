@@ -427,7 +427,7 @@ Assignments are due at the announced date and time (usually the due date posted 
 
 ## Follow Your Passion
 
-I will assume that most of you are here (that is, in this class and/or at IGM) because you are passionate about media arts, games or otherwise combining technology and creativity. With very rare exceptions (I'll be clear), I will almost always prefer that you :zap: **_make the assignment interesting to you_** :zap: — if necessary, by creatively bending the rules or re-interpreting the assignment. My assignments are starting-points, prompts and propositions. Think beyond them.
+I will assume that most of you are here (that is, in this class and/or at IGM) because you are passionate about media arts, games or otherwise combining technology and creativity. With very rare exceptions (I'll be clear), I will almost always prefer that you :zap: **_make the assignment interesting to you_** :zap: — if necessary, by creatively bending the rules or re-interpreting the assignment. The assignments are starting-points, prompts and propositions. They are inteded to make space for diverse and personalized work, to preserve the student dignity, curiosity, whimsy, and critical reflection. Think beyond them.
 
 Notwithstanding the above, you will always be expected to conform to certain supporting requirements (described above) in regard to deliverables and documentation. Did you include an image of your project? Did you write the requested narrative? Such requirements are non-negotiable.
 
