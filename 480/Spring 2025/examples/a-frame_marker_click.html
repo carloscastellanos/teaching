@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <!-- Point your camera at a hiro marker, then cloick the model -->
+  <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
+  <script src="https://raw.githack.com/AR-js-org/AR.js/master/three.js/build/ar-threex.js"></script>
+  <!-- we import arjs version without NFT but with marker + location based support -->
+  <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+  <script>
+    AFRAME.registerComponent('clicker', {
+          init: function() {
+              this.el.addEventListener('click', e => {
+                  alert('Model clicked!');
+              });
+          },
+          tick: function(){ // called every frame
+            let t = document.querySelector('#trex');
+            //let rot = t.getAttribute('rotation');
+            t.object3D.rotation.z += 0.01
+            //t.setAttribute('rotation',{x: rot.x, y: rot.y , z: rot.z + 1});
+        }
+      });
+  </script>
+
+  <body style="margin : 0px; overflow: hidden;">
+    <a-scene embedded arjs vr-mode-ui="enabled: false" raycaster cursor="rayOrigin: mouse" renderer="antialias: true; alpha: true">
+      <a-marker preset="hiro">
+        <a-entity
+          id="trex"
+          position="0 0 0"
+          scale="5 5 5"
+          gltf-model="https://cdn.jsdelivr.net/gh/KhronosGroup/glTF-Sample-Models/2.0/Duck/glTF/Duck.gltf"
+          clicker
+        ></a-entity>
+      </a-marker>
+      <a-entity camera></a-entity>
+    </a-scene>
+  </body>
+</html>
