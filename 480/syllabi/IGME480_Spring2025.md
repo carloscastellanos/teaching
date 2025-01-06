@@ -543,7 +543,7 @@ _(subject to change)_
 <h3>Week 10: Ethics and Accessibility</h3>
 
 - Discussions on inclusivity, privacy, and data ethics.
-- Case study: AR projects addressing social issues.
+- Case studies
 
 <h3>Week 11: Collaborative Creation</h3>
 
