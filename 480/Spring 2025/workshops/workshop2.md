@@ -26,12 +26,12 @@ Below is a step-by-step explanation and the corresponding code.
 ## Key Steps
 1. Generate the NFT Marker:
 - To do this, you will use the [NFT Marker Generator](https://carnaux.github.io/NFT-Marker-Creator/).
-- Use the AR.js marker generator tools to convert the Starbucks logo into a NFT marker files (.fset, .fset3, .iset)
+- Use the AR.js marker generator tools to convert the [Starbucks logo](https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/2022px-Starbucks_Corporation_Logo_2011.svg.png) into a NFT marker files (.fset, .fset3, .iset). Feel free to use any logo you like.
 - This part may take a while, just be patient.
 2. Host the marker files and assets:
 - Ensure the marker files are hosted on a web server or accessible via a relative/absolute URL.
 - The url to the marker files should point to folder contianing the maker files thmeselves.
-- Host the 3D model (GLTF/GLB) and other assets needed for the animation.
+- Host the 3D model (GLTF/GLB) and other assets needed for the animation. (You can use any 3d animated model you like or simply use the one already linked in the code below)
 3. Code the Implmentation:
 - Use AR.js in and A-Frame to link the NFT marker to the 3D model.
 >[!NOTE]
@@ -54,7 +54,7 @@ Below is a step-by-step explanation and the corresponding code.
       <!-- NFT Marker Setup -->
       <a-nft 
         type="nft" 
-        url="https://coemergencelab.com/ar/imagetrack-animation/nft/starbucks/starbucks-image/starbucks" <!-- change this to the url of your logo -->
+        url="https://coemergencelab.com/ar/imagetrack-animation/nft/starbucks/starbucks-image/starbucks"
         smooth="true" 
         smoothCount="10" 
         smoothTolerance="0.01" 
@@ -62,7 +62,7 @@ Below is a step-by-step explanation and the corresponding code.
         
         <!-- 3D Animation -->
         <a-entity 
-          gltf-model="https://coemergencelab.com/ar/imagetrack-animation/tiger.glb" <!-- change this to the url of your 3d model/animation -->
+          gltf-model="https://coemergencelab.com/ar/imagetrack-animation/tiger.glb"
           scale="1 1 1" 
           animation-mixer="clip: *;">
         </a-entity>
