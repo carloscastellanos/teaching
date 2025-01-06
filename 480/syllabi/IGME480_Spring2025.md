@@ -246,7 +246,7 @@ The three least forgivable violations of our course attendance policy are:
 Assignments are not simply about writing code. Every assignment will have associated readings, research and reflective writing components (discussed below). In addition, your instructor will provide important historical context, show examples and provide other notes and resources relevant to the assignment topic/theme. Tentatively, there are 6-8 assignments:
 
 - one minor project
-- approximately 3-5 workshop assignments
+- approximately 3-5 workshop assignments (some graded, some not)
 - midterm project proposal & presentation
 - final project and public presentation
 
