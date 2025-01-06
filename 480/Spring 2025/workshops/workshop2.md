@@ -1,0 +1,111 @@
+# IGME 480
+
+# Current Topics in Interactive Development
+
+### Spring 2025
+
+# Workshop 2: Natural Feature Tracking (NFT)
+[![AR.js](img/arjs.png "AR.js")](https://ar-js-org.github.io/AR.js-Docs) [![A-Frame](img/aframe.png "A-Frame")](https://aframe.io)
+
+## Objective
+We will create an AR experience with  using [AR.js](https://ar-js-org.github.io/AR.js-Docs) and [A-Frame](https://aframe.io), where a 3D animation is triggered by detecting a specific brand logo (like the Starbucks logo). To do this we will use [Image Tracking](https://ar-js-org.github.io/AR.js-Docs/image-tracking/), or more specifically, Natural Feature Tracking (NFT) to identify the specific logo. Natural Feature Tracking or NFT is a technology that enables the use of images instead of markers like QR Codes or the Hiro marker.
+
+Below is a step-by-step explanation and the corresponding code.
+
+---
+
+>[!NOTE]
+> **Workshop Prerequsites**
+- Basic familiarity with HTML and JavaScript.
+- A text editor (e.g., VS Code).
+- A smartphone or tablet with a modern web browser (e.g., Chrome, Safari).
+- Access to a web server to host files. You can use sites like [Glitch.com](https://glitch.com), [GitHub Pages](https://pages.github.com/) or your RIT student account.
+
+---
+
+## Key Steps
+1. Generate the NFT Marker:
+- To do this, you will use the [NFT Marker Generator](https://carnaux.github.io/NFT-Marker-Creator/).
+- Use the AR.js marker generator tools to convert the Starbucks logo into a NFT marker files (.fset, .fset3, .iset)
+- This part may take a while, just be patient.
+2. Host the marker files and assets:
+- Ensure the marker files are hosted on a web server or accessible via a relative/absolute URL.
+- The url to the marker files should point to folder contianing the maker files thmeselves.
+- Host the 3D model (GLTF/GLB) and other assets needed for the animation.
+3. Code the Implmentation:
+- Use AR.js in and A-Frame to link the NFT marker to the 3D model.
+- >[!NOTE]
+> This example uses 3rd party library called [A-Frame extras](https://github.com/c-frame/aframe-extras) to handle the 3d animation.
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>AR.js - NFT Logo Detection</title>
+    <script src="https://aframe.io/releases/1.4.1/aframe.min.js"></script>
+    <script src="https://raw.githack.com/AR-js-org/AR.js/3.4.5/aframe/build/aframe-ar.js'></script>"></script>
+    <script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.2/dist/aframe-extras.min.js"></script>
+  </head>
+  <body style="margin: 0; overflow: hidden;">
+    <a-scene
+      embedded
+      arjs="sourceType: webcam; debugUIEnabled: false;">
+      
+      <!-- NFT Marker Setup -->
+      <a-nft 
+        type="nft" 
+        url="./marker/exxonmobil" <!-- change this to the url of your logo -->
+        smooth="true" 
+        smoothCount="10" 
+        smoothTolerance="0.01" 
+        smoothThreshold="5">
+        
+        <!-- 3D Animation -->
+        <a-entity 
+          gltf-model="./models/animated-object.glb" <!-- change this to the url of your 3d model/animation -->
+          scale="1 1 1" 
+          animation-mixer="clip: *;">
+        </a-entity>
+      </a-nft>
+      
+      <!-- Camera -->
+      <a-entity camera></a-entity>
+    </a-scene>
+  </body>
+</html>
+
+```
+
+## Code Explanation:
+1. A-Frame & AR.js:
+- The `<a-scene>` tag initializes the AR scene.
+- `a-scene embedded arjs`: Embeds an AR.js-powered scene in the browser.
+2. NFT Marker:
+- The `<a-nft>` tag defines the marker type as nft and links it to the marker files.
+- The url attribute points to the marker's base path (excluding file extensions like .iset, .fset).
+3. 3D Model:
+- A 3D model is specified using the `<a-entity>` tag with gltf-model pointing to the GLTF/GLB file URL.
+4. Including the animation-mixer (from the [A-Frame extras](https://github.com/c-frame/aframe-extras) library):
+- The `animation-mixer="clip: *;"` component plays all animations embedded in the GLTF/GLB model.
+- If you want to play a specific animation, replace * with the animation's name, such as Walk or Run.
+5. Camera:
+- An `<a-entity camera>` tag is required for AR.js to handle the user's device camera.
+
+## Testing and Troubleshooting
+- Test on your smartphone or tablet:
+- Common Issues:
+    - Marker not detected: Ensure good lighting and visibility.
+    - Scene not loading: Check browser compatibility (e.g. allow use of camera, etc) or console errors
+    - Make sure all parts of the NFT are included (i.e. the .iset, .fset and fset3 files).
+
+## Wrap-Up and Q&A
+- Technical questions
+- [AR.js Image Tracking info](https://ar-js-org.github.io/AR.js-Docs/image-tracking/)
+- [Tips on creating good markers](https://github.com/Carnaux/NFT-Marker-Creator/wiki/Creating-good-markers)
+- More resources available on myCourses
+
+
+
+
+
+

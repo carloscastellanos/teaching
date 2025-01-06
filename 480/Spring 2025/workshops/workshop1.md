@@ -65,9 +65,11 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 ```
 
 2. Explanation of code
+- The `<a-scene>` tag initializes the AR scene.
 - `a-scene embedded arjs`: Embeds an AR.js-powered scene in the browser.
 - `a-marker preset="hiro"`: Uses the default ["hiro" marker](https://raw.githubusercontent.com/AR-js-org/AR.js/master/data/images/hiro.png) for tracking.
-- `a-box`: A 3D object (blue box) added to the marker.
+- `<a-box>`: A 3D object (blue box) added to the marker.
+- An `<a-entity camera>` tag is required for AR.js to handle the user's device camera.
 
 3. Save and open the file:
 - Open the index.html in a browser on phone or tablet.
