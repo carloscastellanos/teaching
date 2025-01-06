@@ -34,7 +34,7 @@ Below is a step-by-step explanation and the corresponding code.
 - Host the 3D model (GLTF/GLB) and other assets needed for the animation.
 3. Code the Implmentation:
 - Use AR.js in and A-Frame to link the NFT marker to the 3D model.
-- >[!NOTE]
+>[!NOTE]
 > This example uses 3rd party library called [A-Frame extras](https://github.com/c-frame/aframe-extras) to handle the 3d animation.
 
 ```
