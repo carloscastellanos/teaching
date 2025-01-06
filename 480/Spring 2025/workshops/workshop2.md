@@ -42,15 +42,14 @@ Below is a step-by-step explanation and the corresponding code.
 <html>
   <head>
     <title>AR.js - NFT Logo Detection</title>
+    <!-- import aframe and then ar.js with image tracking / location based features -->
+    <!-- then import aframe-extras -->
     <script src="https://aframe.io/releases/1.4.1/aframe.min.js"></script>
-    <script src="https://raw.githack.com/AR-js-org/AR.js/3.4.5/aframe/build/aframe-ar.js'></script>"></script>
+    <script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar-nft.js"></script>
     <script src="https://cdn.jsdelivr.net/gh/c-frame/aframe-extras@7.5.2/dist/aframe-extras.min.js"></script>
   </head>
   <body style="margin: 0; overflow: hidden;">
-    <a-scene
-      embedded
-      arjs="sourceType: webcam; debugUIEnabled: false;">
-      
+    <a-scene embedded arjs="sourceType: webcam; debugUIEnabled: false; trackingMethod: best;" renderer="logarithmicDepthBuffer: true;" vr-mode-ui="enabled: false;">
       <!-- NFT Marker Setup -->
       <a-nft 
         type="nft" 
@@ -63,7 +62,8 @@ Below is a step-by-step explanation and the corresponding code.
         <!-- 3D Animation -->
         <a-entity 
           gltf-model="https://coemergencelab.com/ar/imagetrack-animation/tiger.glb"
-          scale="1 1 1" 
+          scale="150 150 150" 
+          position="100 0 0"
           animation-mixer="clip: *;">
         </a-entity>
       </a-nft>
@@ -73,8 +73,6 @@ Below is a step-by-step explanation and the corresponding code.
     </a-scene>
   </body>
 </html>
-
-
 ```
 
 ## Code Explanation:
@@ -96,6 +94,7 @@ Below is a step-by-step explanation and the corresponding code.
 - Test on your smartphone or tablet:
 - Common Issues:
     - Marker not detected: Ensure good lighting and visibility.
+    - Play with scale and position of model
     - Scene not loading: Check browser compatibility (e.g. allow use of camera, etc) or console errors
     - Make sure all parts of the NFT are included (i.e. the .iset, .fset and fset3 files).
 
