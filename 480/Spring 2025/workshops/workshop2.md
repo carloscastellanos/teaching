@@ -54,7 +54,7 @@ Below is a step-by-step explanation and the corresponding code.
       <!-- NFT Marker Setup -->
       <a-nft 
         type="nft" 
-        url="./marker/exxonmobil" <!-- change this to the url of your logo -->
+        url="https://coemergencelab.com/ar/imagetrack-animation/nft/starbucks/starbucks-image/starbucks" <!-- change this to the url of your logo -->
         smooth="true" 
         smoothCount="10" 
         smoothTolerance="0.01" 
@@ -62,7 +62,7 @@ Below is a step-by-step explanation and the corresponding code.
         
         <!-- 3D Animation -->
         <a-entity 
-          gltf-model="./models/animated-object.glb" <!-- change this to the url of your 3d model/animation -->
+          gltf-model="https://coemergencelab.com/ar/imagetrack-animation/tiger.glb" <!-- change this to the url of your 3d model/animation -->
           scale="1 1 1" 
           animation-mixer="clip: *;">
         </a-entity>
@@ -73,6 +73,7 @@ Below is a step-by-step explanation and the corresponding code.
     </a-scene>
   </body>
 </html>
+
 
 ```
 
