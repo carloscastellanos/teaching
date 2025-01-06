@@ -504,12 +504,13 @@ _(subject to change)_
 - Theories of Space & Place
 - Theories of Media & Technology
 - Case studies
-- Hands-on workshop: Mobile AR basics
+- Workshop: Mobile AR basics
 
 <h3>Week 3: AR Tools and Platforms</h3>
 
 - Overview of AR creation tools & platforms
 - Exploring Rochester
+- Workshop: NFT (Natural Feature Tracking)
 
 <h3>Week 4: AR and Locative Media for Public Art</h3>
 
