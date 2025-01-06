@@ -509,7 +509,7 @@ _(subject to change)_
 <h3>Week 3: AR Tools and Platforms</h3>
 
 - Overview of AR creation tools & platforms
-- Fieldwork: exploring Rochester
+- Exploring Rochester
 
 <h3>Week 4: AR and Locative Media for Public Art</h3>
 
