@@ -7,7 +7,7 @@
 # Course Information
 
 >[!NOTE]
->_This document covers the policies and procedures for IGME-480. This document includes only limited information about topic units, specific assignments and readings. More details on these can be found in the Content section on myCourses._
+>_This document covers the policies and procedures for IGME-480. This document includes only limited information about topic units, specific assignments and readings. More details on these can be found on myCourses._
 
 
 <table>
