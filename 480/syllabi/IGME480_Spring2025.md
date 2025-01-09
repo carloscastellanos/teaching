@@ -513,6 +513,7 @@ _(subject to change)_
 - Workshop: NFT (Natural Feature Tracking)
 
 <h3>Week 4: AR and Locative Media for Public Art</h3>
+
 - Exploration of AR & locative media in public and urban spaces
 - Case studies
 - Fieldwork: Conceptualizing site-specific works.
