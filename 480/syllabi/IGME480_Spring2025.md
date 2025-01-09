@@ -523,19 +523,19 @@ _(subject to change)_
 - Critique and discussion of Minor Projects
 - Group brainstorming for final project
 
-<h3>Week 6: History and Cultural Heritage</h3>
+<h3>Week 6: AR in Museums and Galleries</h3>
+
+- Examining AR applications in arts and culture institutions.
+- Workshop: Designing interactive cultural experiences.
+
+<h3>Week 7: History and Cultural Heritage</h3>
 
 - AR and locative media for history and cultural heritage
 - Guest speaker: Rochester history
-- Workshop: Designing interactive cultural experiences.
 
-<h3>Week 7: Midterm Presentations</h3>
+<h3>Week 8: Midterm Presentations</h3>
 
 - Students present final project concepts
-
-<h3>Week 8: AR in Museums and Galleries</h3>
-
-- Examining AR applications in arts and culture institutions.
 
 <h3>Week 9: Technical Deep Dive</h3>
 
