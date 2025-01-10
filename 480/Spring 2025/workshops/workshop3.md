@@ -12,4 +12,4 @@ By the end of this workshop, students will:
 
 - Understand the basic principles of interactive experiences using AR and locative media.
 - Explore tools and techniques for designing engaging, site-specific AR experiences.
-- Create a small prototype AR experience of your ***final project*** that tells a story or highlights cultural significance in a specific location in Rochester.
+- Create a small prototype AR experience of your :zap:***final project***:zap: that tells a story or highlights cultural significance in a specific location in Rochester.
