@@ -531,6 +531,7 @@ _(subject to change)_
 <h3>Week 7: History and Cultural Heritage</h3>
 
 - AR and locative media for history and cultural heritage
+- Workshop: Developing a Mobile AR Points of Interest Application Using AR.js & A-Frame.
 - Guest speaker: Rochester history
 
 <h3>Week 8: Midterm Presentations</h3>
