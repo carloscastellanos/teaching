@@ -32,6 +32,13 @@ By the end of this workshop, students will:
 - Select some questions for discussion (see lecture slides, or come up with your own).
 
 2. Conceptualizing Your Project
+- Brainstorming:
+    - Identify a cultural story, landmark, or event you want to highlight.
+    - Define the target audience and desired interaction (e.g., education, exploration, entertainment).
+    - Define the overall experience (discovering a lost history, inspiring community action, critical lens...).
+- Storyboard:
+    - Sketch out the user journey: What do participants see, hear, and do?
+    - Define key points of interaction or storytelling.
 
-
+3. Prototyping the Experience
 
