@@ -41,4 +41,16 @@ By the end of this workshop, students will:
     - Define key points of interaction or storytelling.
 
 3. Prototyping the Experience
+- Tools and Assets
+    - Use AR.js & A-Frame or explore another tool if you feel comfortable with it (e.g. Unity with AR Foundation)
+    - Determine assets you will need (3D models, video, etc)
+- Group Work:
+    - Create a basic AR scene based on your storyboard (create the assets and code it).
+    - Incorporate at least one interactive or locative element.
+    - Test the experience on mobile devices.
+- Feedback Session:
+    - Share prototypes with peers for feedback.
+    - Identify strengths and areas for improvement.
+
+4. Discussion and Reflection
 
