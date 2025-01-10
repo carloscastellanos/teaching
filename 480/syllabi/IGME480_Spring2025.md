@@ -546,7 +546,8 @@ _(subject to change)_
 <h3>Week 10: Ethics and Accessibility</h3>
 
 - Discussions on inclusivity, privacy, and data ethics.
-- Case studies
+- Group work on final projects.
+- Workshop (TBA)
 
 <h3>Week 11: Collaborative Creation</h3>
 
