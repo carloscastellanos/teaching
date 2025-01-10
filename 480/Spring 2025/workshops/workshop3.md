@@ -26,9 +26,12 @@ By the end of this workshop, students will:
 
 ## Workshop Outline
 
-Interactive Cultural Experiences Using AR & Locative Media
-
+1. Interactive Cultural Experiences Using AR & Locative Media
 - Organize into your final project groups
 - As a group, review examples of AR and locative media we've discussed in class (e.g., _Lapse_, _Portal to an Alternative Reality_, _Night Walk for Edinburgh_), and others if you like.
-- Discuss
+- Select some questions for discussion (see lecture slides, or come up with your own).
+
+2. Conceptualizing Your Project
+
+
 
