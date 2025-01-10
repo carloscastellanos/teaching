@@ -33,7 +33,7 @@ By the end of this workshop, students will:
 
 2. Conceptualizing Your Project
 - Brainstorming:
-    - Identify a cultural story, landmark, or event you want to highlight.
+    - Identify a cultural story, landmark, or event from Rochester that you want to highlight.
     - Define the target audience and desired interaction (e.g., education, exploration, entertainment).
     - Define the overall experience (discovering a lost history, inspiring community action, critical lens...).
 - Storyboard:
@@ -53,4 +53,8 @@ By the end of this workshop, students will:
     - Identify strengths and areas for improvement.
 
 4. Discussion and Reflection
-
+- Group Discussion:
+    - What challenges did you face in designing/developing your AR experience?
+    - How did the locative elements contribute to the storytelling?
+- Future Applications:
+    - How could you expand or adapt your project?
