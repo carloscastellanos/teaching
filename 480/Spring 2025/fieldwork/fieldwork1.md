@@ -8,7 +8,7 @@
 ![Rochester, NY Broad Street Bridge Subway](img/800px-Rochester_NY_Broad_Street_Bridge_Subway_2001.jpg "Rochester, NY Broad Street Bridge Subway")
 
 ## Overview
-This fieldwork guide will help us explore and analyze real-world locations to develop site-specific AR/Locative Media projects. It focuses on observing spatial, cultural, and historical elements of the site and brainstorming creative ways to integrate AR into the chosen environment. You will draw from your fieldwork over the next couple of weeks and when you begin to brainstorm your final group projects.
+This fieldwork guide will help us explore and analyze real-world locations to develop site-specific AR/Locative Media projects. It focuses on observing spatial, cultural, and historical elements of sites in Rochester, NY and brainstorming creative ways to integrate AR into the chosen environment. You will draw from your fieldwork over the next couple of weeks and when you begin to brainstorm your final group projects.
 
 ## Objectives
 - Develop an understanding of site-specificity in the context of AR and locative media.
@@ -27,8 +27,16 @@ This fieldwork guide will help us explore and analyze real-world locations to de
 - Consider accessibility, safety, and any permissions needed to use the space.
 2. Research the Site:
 - Investigate the history, purpose, and community associations with the site.
-- Identify any existing narratives, symbols, or cultural practices linked to the location.
+- Identify any existing narratives, symbols, historical figures or cultural practices linked to the location.
 3. Define Your Focus:
 - Decide if your project will emphasize storytelling, interaction, play, education, or artistic expression (this is optional, you can decide this later).
 
 ## Fieldwork Steps
+### Step 1: Observation and Documentation
+- Spend time exploring the site. Use all your senses to understand the space.
+- Document the following:
+    - Physical Characteristics: Shapes, colors, textures, and structures.
+    - Soundscape: Ambient sounds, conversations, or music.
+    - Light and Shadow: How light interacts with the environment during different times of the day.
+    - Human Activity: How people interact with the space—patterns of movement, social behaviors, and use of the area.
+- Capture photos, videos, and audio recordings to refer back to later.
