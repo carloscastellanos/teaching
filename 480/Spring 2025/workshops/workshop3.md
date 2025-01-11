@@ -33,8 +33,8 @@ By the end of this workshop, students will:
 
 2. Conceptualizing Your Project
 - Brainstorming:
-    - **Drawing from your fieldwork notes, lectures slides and other resources:**
-        - Identify a cultural story, landmark, or event from Rochester that you want to highlight.
+    - **Drawing from your fieldwork notes and documentaton (photos, sound recordings,etc), lectures slides and other resources:**
+        - Identify/discuss a cultural story, landmark, or event from Rochester that you encountered in your fieldwork that you want to highlight.
         - Define the target audience and desired interaction (e.g., education, exploration, entertainment).
         - Define the overall experience (discovering a lost history, inspiring community action, critical lens...).
 - Storyboard:

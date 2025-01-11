@@ -40,3 +40,20 @@ This fieldwork guide will help us explore and analyze real-world locations to de
     - Light and Shadow: How light interacts with the environment during different times of the day.
     - Human Activity: How people interact with the space—patterns of movement, social behaviors, and use of the area.
 - Capture photos, videos, and audio recordings to refer back to later.
+
+### Step 2: Contextual Analysis
+- Analyze the cultural and historical significance of the site.
+- Reflect on questions like:
+    - What stories or histories might be tied to this location?
+    - What is the role of this site in the local community?
+    - Are there overlooked or untold narratives or hidden information that AR could bring to light?
+
+### Step 3: Brainstorming AR Concepts
+- Begin generating ideas for your AR experience:
+    - Being by simply listing ideas, no matter how strange, non-sensical or dumb they may seem. Just list them, you can organize them into categories later
+    - Pick one or two and think about and discuss with your classmates how it can be turned into AR experience.
+    - Some questions you may want to ask:
+        - How can AR interact with the physical environment?
+        - What digital elements (e.g., 3D models, soundscapes, animations) would enhance this space, landmark, etc?
+        - How can your project prompt users to explore, reflect, or engage more deeply with the site?
+- Sketch your ideas in your notebook or on-site photos, marking potential AR content placements.
