@@ -67,7 +67,7 @@ Instructor</p>
 
 Professor: [Carlos Castellanos](https://www.rit.edu/computing/directory/cxcigm-carlos-castellanos)
 
-Office Hours: 2:30-3:30pm, M/W
+Office Hours: 5-6pm, M/W
 
 Office Location: GAN-2220 or online (via Zoom): [https://rit.zoom.us/my/cxcigm](https://rit.zoom.us/my/cxcigm)
 
