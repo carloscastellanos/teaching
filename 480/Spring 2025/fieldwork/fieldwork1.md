@@ -5,7 +5,7 @@
 ### Spring 2025
 
 # Fieldwork Guide: Conceptualizing Site-Specific Works Using Augmented Reality
-!["Rochester, NY Broad Street Bridge Subway"](img/800px-Rochester_NY_Broad_Street_Bridge_Subway_2001.jpg "Rochester, NY Broad Street Bridge Subway")
+![Rochester, NY Broad Street Bridge Subway](img/800px-Rochester_NY_Broad_Street_Bridge_Subway_2001.jpg "Rochester, NY Broad Street Bridge Subway")
 
 ## Overview
 This fieldwork guide will help us explore and analyze real-world locations to develop site-specific AR/Locative Media projects. It focuses on observing spatial, cultural, and historical elements of the site and brainstorming creative ways to integrate AR into the chosen environment. You will draw from your fieldwork over the next couple of weeks and when you begin to brainstorm your final group projects.
