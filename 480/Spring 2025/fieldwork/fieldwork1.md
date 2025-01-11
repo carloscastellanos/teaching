@@ -14,3 +14,20 @@ This fieldwork guide will help us explore and analyze real-world locations to de
 - Analyze the spatial, cultural, and social aspects of a location.
 - Generate initial concepts for AR experiences tailored to the site.
 
+## Materials Needed
+- Smartphone or tablet with a camera.
+- Notebooks or sketchpads for notes and drawings.
+- Map of the area.
+- GPS app (optional, for spatial measurements).
+
+## Preparation
+1. Select a Location:
+- Choose a site with cultural, historical, or social significance (e.g., a park, historic building, a bridge, etc).
+- Consider accessibility, safety, and any permissions needed to use the space.
+2. Research the Site:
+- Investigate the history, purpose, and community associations with the site.
+- Identify any existing narratives, symbols, or cultural practices linked to the location.
+3. Define Your Focus:
+- Decide if your project will emphasize storytelling, interaction, play, education, or artistic expression (this is optional, you can decide this later).
+
+## Fieldwork Steps
