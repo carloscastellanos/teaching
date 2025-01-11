@@ -50,7 +50,7 @@ This fieldwork guide will help us explore and analyze real-world locations to de
 
 ### Step 3: Brainstorming AR Concepts
 - Begin generating ideas for your AR experience:
-    - Being by simply listing ideas, no matter how strange, non-sensical or dumb they may seem. Just list them, you can organize them into categories later
+    - Begin by simply listing ideas, no matter how strange, non-sensical or dumb they may seem. Just list them, you can organize them into categories later.
     - Pick one or two and think about and discuss with your classmates how it can be turned into AR experience.
     - Some questions you may want to ask:
         - How can AR interact with the physical environment?
