@@ -88,4 +88,4 @@ This guide provides a structured approach for developing thoughtful, site-specif
 ---
 
 >[!NOTE]
->_If you  didn't finish everything today, just come back later this week and finish up (this process requires repetion/fine-tuning).
+>_If you  didn't finish everything today, just come back later this week and finish up (this process requires repetion/fine-tuning)._
