@@ -10,6 +10,8 @@
 ## Overview
 This fieldwork guide will help us explore and analyze real-world locations to develop site-specific AR/Locative Media projects. It focuses on observing spatial, cultural, and historical elements of sites in Rochester, NY and brainstorming creative ways to integrate AR into the chosen environment. You will draw from your fieldwork over the next couple of weeks and when you begin to brainstorm your final group projects.
 
+This guide provides a structured approach for developing thoughtful, site-specific AR projects while encouraging you to :zap:**_critically engage_**:zap: with your chosen environment/location.
+
 ## Objectives
 - Develop an understanding of site-specificity in the context of AR and locative media.
 - Analyze the spatial, cultural, and social aspects of a location.
@@ -64,3 +66,26 @@ This fieldwork guide will help us explore and analyze real-world locations to de
     - Place virtual objects to test scale and placement.
     - Record how virtual elements look in different lighting conditions or angles.
     - Test geolocation features for triggering AR content based on user position.
+
+### Step 5: Reflection and Refinement
+- Reflect on the feasibility and impact of your AR concept:
+    - Does your idea align with the character and context of the site?
+    - Is the AR content accessible and engaging for the intended audience?
+    - Are there potential challenges, such as technical limitations or safety concerns?
+- Refine your concept, incorporating feedback from peers and your instructor.
+
+## Post-Fieldwork
+- After you get home:
+    1. Write a Site Analysis Report: this is a report summarizing your observations, contextual analysis, and initial concepts (you will need to do this for your final project, so  est to get some practice at  now).
+    2. Concept Sketch or Prototype: Create a basic visual or interactive prototype of your AR experience (we will do this in class as part of a workshop, but best to get started now).
+    3. Peer Review: Share your ideas and prototype with classmates for constructive feedback.
+
+## Discussion Questions for next Class
+- What unique qualities of your chosen site inspired your AR concept?
+- How does your AR project enhance or transform the user’s experience of the site?
+- What challenges did you encounter during the conceptualization process?
+
+---
+
+>[!NOTE]
+>_If you  didn't finish everything today, just come back later this week and finish up (this process requires repetion/fine-tuning).
