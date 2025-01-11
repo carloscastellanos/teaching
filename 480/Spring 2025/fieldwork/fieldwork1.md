@@ -15,9 +15,10 @@ This fieldwork guide will help us explore and analyze real-world locations to de
 - Analyze the spatial, cultural, and social aspects of a location.
 - Generate initial concepts for AR experiences tailored to the site.
 
-## Materials Needed
+## Materials/Resources Needed
 - Smartphone or tablet with a camera.
 - Notebooks or sketchpads for notes and drawings.
+- Location-based AR app (e.g., Adobe Aero, Apple Reality Composer).
 - Map of the area.
 - GPS app (optional, for spatial measurements).
 
@@ -57,3 +58,9 @@ This fieldwork guide will help us explore and analyze real-world locations to de
         - What digital elements (e.g., 3D models, soundscapes, animations) would enhance this space, landmark, etc?
         - How can your project prompt users to explore, reflect, or engage more deeply with the site?
 - Sketch your ideas in your notebook or on-site photos, marking potential AR content placements.
+
+### Step 4: Experiment with AR Tools
+- Use an AR creation app like Apple Reality Composer to quickly experiment with basic concepts on-site:
+    - Place virtual objects to test scale and placement.
+    - Record how virtual elements look in different lighting conditions or angles.
+    - Test geolocation features for triggering AR content based on user position.
