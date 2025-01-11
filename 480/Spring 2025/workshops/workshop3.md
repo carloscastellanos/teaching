@@ -62,7 +62,5 @@ By the end of this workshop, students will:
 
 ## Assignment Submission
 
-Document this whole process submit to my courses
-code and the steps questions, discussion, etc
-
-Submit all your work on myCourses (details available there).
+- Document this whole process: code and the steps, questions, discussion, etc.
+- Submit all your work on myCourses (details available there).
