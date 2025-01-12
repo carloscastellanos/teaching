@@ -116,3 +116,6 @@ window.onload = loadPlaces;
 - Appends the created entities to the A-Frame scene (`<a-scene>`) using `scene.appendChild(entity)`.
 
 ### Step 2: Testing
+
+1. Upload everything to your web server
+2. Open the server URL on your mobile device's web browser and view the AR app.
