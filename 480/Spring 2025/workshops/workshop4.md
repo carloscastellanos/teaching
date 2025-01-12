@@ -196,7 +196,7 @@ window.onload = () => {
 ### Code Explanation
 
 1. Overpass API Query:
-- Queries OSM for POIs tagged as tourism=attraction within a 1 km radius.
+- Queries OSM for POIs tagged as `"historic"="monument"` within a 1 km radius.
 - The query is constructed dynamically based on the user's location (latitude, longitude).
 
 2. `fetchPlacesFromOSM` Function:
