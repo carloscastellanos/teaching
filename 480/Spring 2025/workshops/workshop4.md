@@ -23,6 +23,11 @@ This workshop will guide participants through building a mobile AR application f
 
 ---
 
+>[!IMPORTANT]
+> ***You may have to change the GPS coordintes and/or API queries used in the example code below.***
+
+---
+
 ## Part 1: Static POIs
 
 ### Step 1: Setting up the Project
@@ -104,6 +109,8 @@ const loadPlaces = () => {
 window.onload = loadPlaces;
 ```
 
+4. Upload everything to your server
+
 ### Code Explanation
 
 1. POI Array: The `places` array contains static POIs with their `name`, `latitude`, and `longitude`.
@@ -126,7 +133,7 @@ window.onload = loadPlaces;
 
 ### Step 1: Modify script.js for dynamic data
 
-Replace the static POIs with data fetched from OpenStreetMap's Overpass API.
+1. Replace the static POIs with data fetched from OpenStreetMap's Overpass API.
 ```
 const fetchPlacesFromOSM = async (latitude, longitude) => {
     const radius = 1000; // radius in meters
@@ -193,6 +200,8 @@ window.onload = () => {
 };
 ```
 
+2. Upload everything to your server
+
 ### Code Explanation
 
 1. Overpass API Query:
@@ -211,3 +220,10 @@ window.onload = () => {
 4. Geolocation:
 - Retrieves the user's current location using Javascript's `navigator.geolocation` property.
 - Passes the location to the `fetchPlacesFromOSM` function to fetch relevant POIs.
+
+### Step 2: Testing
+1. Open the app on your mobile device's browser.
+2. Grant location permissions (if you haven't done so already).
+3. Verify that POIs load dynamically from OpenStreetMap.
+
+## Wrap-Up and Q&A
