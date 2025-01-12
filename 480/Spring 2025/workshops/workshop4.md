@@ -47,7 +47,7 @@ This workshop will guide participants through building a mobile AR application f
     <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
     <!-- Pure three.js code that the A-Frame components use for location-based AR -->
     <script src='https://raw.githack.com/AR-js-org/AR.js/3.4.5/three.js/build/ar-threex-location-only.js'></script>
-    <!-- AR.js A-Frame components -->
+    <!-- AR.js A-Frame components (recommended to use version 3.4.5, rather than master) -->
     <script src='https://raw.githack.com/AR-js-org/AR.js/3.4.5/aframe/build/aframe-ar.js'></script>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -61,3 +61,45 @@ This workshop will guide participants through building a mobile AR application f
 ```
 
 3. Add some basic styling in `style.css`:
+```
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+```
+
+4. Create a script.js file and add the following code:
+```
+const places = [
+    { name: "Golden Gate Bridge", latitude: 37.8199, longitude: -122.4783 },
+    { name: "Alcatraz Island", latitude: 37.8267, longitude: -122.4230 },
+    { name: "Coit Tower", latitude: 37.8024, longitude: -122.4058 }
+];
+
+const loadPlaces = () => {
+    const scene = document.querySelector("a-scene");
+
+    places.forEach(place => {
+        const entity = document.createElement("a-entity");
+
+        entity.setAttribute("gps-entity-place", `latitude: ${place.latitude}; longitude: ${place.longitude}`);
+        entity.setAttribute("geometry", "primitive: sphere; radius: 1");
+        entity.setAttribute("material", "color: blue");
+
+        const text = document.createElement("a-text");
+        text.setAttribute("value", place.name);
+        text.setAttribute("align", "center");
+        text.setAttribute("position", "0 2 0");
+        entity.appendChild(text);
+
+        entity.addEventListener("click", () => alert(`You clicked on: ${place.name}`));
+
+        scene.appendChild(entity);
+    });
+};
+
+window.onload = loadPlaces;
+```
