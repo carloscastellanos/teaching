@@ -227,3 +227,22 @@ window.onload = () => {
 3. Verify that POIs load dynamically from OpenStreetMap.
 
 ## Wrap-Up and Q&A
+By the end of this workshop you should;
+- have a basic idea on to build both a static and dynamic POI-based mobile AR application.
+- have basic idea on how to use the OpenStreetMap Overpass API.
+
+Next Steps:
+- Add filtering options for different POI types (e.g., restaurants, parks).
+- Cache API results for offline use.
+
+Discussion:
+- Technical questions
+
+Resources:
+- [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API)
+- [https://wiki.openstreetmap.org/wiki/Overpass_API/Language_Guide](https://wiki.openstreetmap.org/wiki/Overpass_API/Language_Guide)
+- [Overpass API Query Language](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL)
+- [Overpass API by Example](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_API_by_Example)
+- [Overpass turbo](https://overpass-turbo.eu/) (to test out your API queries in the browser)
+    - [Overpass turbo guide](https://wiki.openstreetmap.org/wiki/Overpass_turbo)
+- More resources available on myCourses
