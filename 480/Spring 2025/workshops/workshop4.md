@@ -109,10 +109,10 @@ window.onload = loadPlaces;
 1. POI Array: The `places` array contains static POIs with their `name`, `latitude`, and `longitude`.
 
 2. The `loadPlaces` function:
-    - Creates a 3D entity for each POI using A-Frame's `<a-entity>` tag.
-    - Adds attributes for GPS location, geometry (a sphere), and material (color blue).
-    - Appends a text label displaying the POI's name above the sphere.
-    - Adds a click event to display an alert with the POI's name.
-    - Appends the created entities to the A-Frame scene (`<a-scene>`) using `scene.appendChild(entity)`.
+- Creates a 3D entity for each POI using A-Frame's `<a-entity>` tag.
+- Adds attributes for GPS location, geometry (a sphere), and material (color blue).
+- Appends a text label displaying the POI's name above the sphere.
+- Adds a click event to display an alert with the POI's name.
+- Appends the created entities to the A-Frame scene (`<a-scene>`) using `scene.appendChild(entity)`.
 
 ### Step 2: Testing
