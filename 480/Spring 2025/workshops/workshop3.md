@@ -18,7 +18,7 @@ By the end of this workshop, students will:
 
 - Smartphones or tablets (iOS or Android).
 - Laptop or Desktop computer with a code editor (e.g. VS Code)
-- Access to a web server to host files. You can use sites (i.e. Glitch.com, GitHub Pages or your RIT student account)
+- Access to a web server to host files (i.e. Glitch.com, GitHub Pages or your RIT student account)
 - Digital mapping tools (e.g., Google Maps) or printed maps (if that's how you roll))
 - Depending on your project you may also need:
     - software for creating assets (e.g. 3D models, sound files, etc) 
