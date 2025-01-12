@@ -192,3 +192,22 @@ window.onload = () => {
     );
 };
 ```
+
+### Code Explanation
+
+1. Overpass API Query:
+- Queries OSM for POIs tagged as tourism=attraction within a 1 km radius.
+- The query is constructed dynamically based on the user's location (latitude, longitude).
+
+2. `fetchPlacesFromOSM` Function:
+- Sends a request to the Overpass API with the constructed query.
+- Parses the response to extract POI names and GPS coordinates.
+- try/catch block handles errors and alerts the user if the fetch fails.
+
+3. Dynamic Loading:
+- The `loadPlaces` function dynamically creates entities (`<a-entity>`) for the fetched POIs and adds them to the scene (`<a-scene>`).
+- Works similarly to the static implementation but now uses dynamic data.
+
+4. Geolocation:
+- Retrieves the user's current location using Javascript's `navigator.geolocation` property.
+- Passes the location to the `fetchPlacesFromOSM` function to fetch relevant POIs.
