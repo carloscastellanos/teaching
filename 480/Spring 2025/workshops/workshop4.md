@@ -129,10 +129,10 @@ window.onload = loadPlaces;
 Replace the static POIs with data fetched from OpenStreetMap's Overpass API.
 ```
 const fetchPlacesFromOSM = async (latitude, longitude) => {
-    const radius = 1000; // Radius in meters
+    const radius = 1000; // radius in meters
     const query = `
         [out:json];
-        node["tourism"="attraction"](around:${radius},${latitude},${longitude});
+        node["historic"="monument"](around:${radius},${latitude},${longitude});
         out;
     `;
 
