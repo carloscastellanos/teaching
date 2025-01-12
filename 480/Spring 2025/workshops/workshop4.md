@@ -74,9 +74,9 @@ body, html {
 4. Create a script.js file and add the following code:
 ```
 const places = [
-    { name: "Golden Gate Bridge", latitude: 37.8199, longitude: -122.4783 },
-    { name: "Alcatraz Island", latitude: 37.8267, longitude: -122.4230 },
-    { name: "Coit Tower", latitude: 37.8024, longitude: -122.4058 }
+    { name: "Rochester Abandoned Subway", latitude: 43.154722, longitude: -77.609722 },
+    { name: "Washington Square Park", latitude: 43.1534, longitude: -77.6053 },
+    { name: "Rochester Contemporary Art Center", latitude: 43.156619, longitude: -77.600730 }
 ];
 
 const loadPlaces = () => {
