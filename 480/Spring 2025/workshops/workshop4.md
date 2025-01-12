@@ -232,7 +232,7 @@ By the end of this workshop you should;
 - have basic idea on how to use the OpenStreetMap Overpass API.
 
 Next Steps:
-- Add filtering options for different POI types (e.g., restaurants, parks).
+- Add filtering options for different POI types (e.g., artworks, playgrounds).
 - Cache API results for offline use.
 
 Discussion:
@@ -246,3 +246,6 @@ Resources:
 - [Overpass turbo](https://overpass-turbo.eu/) (to test out your API queries in the browser)
     - [Overpass turbo guide](https://wiki.openstreetmap.org/wiki/Overpass_turbo)
 - More resources available on myCourses
+
+## Assignment Submission
+- Document your work and submit on myCourses (more details available there).
