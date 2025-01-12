@@ -117,5 +117,9 @@ window.onload = loadPlaces;
 
 ### Step 2: Testing
 
-1. Upload everything to your web server
+1. Upload everything to your web server.
 2. Open the server URL on your mobile device's web browser and view the AR app.
+
+---
+
+## Part 2: Dynamic POIs Using Overpass API
