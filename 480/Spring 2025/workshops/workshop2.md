@@ -99,7 +99,7 @@ Below is a step-by-step explanation and the corresponding code.
     - Make sure all parts of the NFT are included (i.e. the .iset, .fset and fset3 files).
 
 ## Wrap-Up and Q&A
-- Technical questions
+- Try making another version of this app that uses custom fiducual markers (i.e. like the hiro marker). [Here is a tutorial](https://medium.com/@aschmelyun/so-you-want-to-get-started-with-ar-js-41dd4fba5f81) showing you how.
 - [AR.js Image Tracking info](https://ar-js-org.github.io/AR.js-Docs/image-tracking/)
 - [Tips on creating good markers](https://github.com/Carnaux/NFT-Marker-Creator/wiki/Creating-good-markers)
 - More resources available on myCourses
