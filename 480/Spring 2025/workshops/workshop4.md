@@ -78,6 +78,7 @@ body, html {
 
 4. Create a script.js file and add the following code:
 ```
+// For testing puroposes, you may need to change these places to something closer to you
 const places = [
     { name: "Rochester Abandoned Subway", latitude: 43.154722, longitude: -77.609722 },
     { name: "Washington Square Park", latitude: 43.1534, longitude: -77.6053 },
@@ -136,6 +137,8 @@ window.onload = loadPlaces;
 1. Replace the static POIs with data fetched from OpenStreetMap's Overpass API.
 ```
 const fetchPlacesFromOSM = async (latitude, longitude) => {
+    // For testing puroposes, you may need to increase the radius and/or change the API query
+    // For example, you can try "amenity"="cafe"
     const radius = 1000; // radius in meters
     const query = `
         [out:json];
@@ -240,8 +243,8 @@ Discussion:
 
 Resources:
 - [Overpass API](https://wiki.openstreetmap.org/wiki/Overpass_API)
-- [https://wiki.openstreetmap.org/wiki/Overpass_API/Language_Guide](https://wiki.openstreetmap.org/wiki/Overpass_API/Language_Guide)
 - [Overpass API Query Language](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL)
+- [Overpass API Language Guide](https://wiki.openstreetmap.org/wiki/Overpass_API/Language_Guide)
 - [Overpass API by Example](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_API_by_Example)
 - [Overpass turbo](https://overpass-turbo.eu/) (to test out your API queries in the browser)
     - [Overpass turbo guide](https://wiki.openstreetmap.org/wiki/Overpass_turbo)
