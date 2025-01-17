@@ -72,7 +72,7 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 - An `<a-entity camera>` tag is required for AR.js to handle the user's device camera.
 
 3. Save and open the file:
-- Open the index.html in a browser on phone or tablet.
+- Open the index.html in a browser on a mobile phone or tablet.
 - Point the camera at Hiro marker (open hiro.png file on a desktop browser and point your phone or tablet's camera at the computer screen).
 
 ## Step 4: Adding Interactivity and Custom Features
