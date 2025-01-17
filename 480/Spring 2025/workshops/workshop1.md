@@ -73,7 +73,7 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 
 3. Save and open the file:
 - Open the index.html in a browser on a mobile phone or tablet.
-- Point the camera at Hiro marker (open hiro.png file on a desktop browser and point your phone or tablet's camera at the computer screen).
+- Point the camera at the Hiro marker (open hiro.png file on a desktop browser and point your phone or tablet's camera at the computer screen).
 
 ## Step 4: Adding Interactivity and Custom Features
 1. Customizing the scene:
