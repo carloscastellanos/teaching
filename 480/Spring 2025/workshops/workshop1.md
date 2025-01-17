@@ -137,7 +137,6 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
     - Scene not loading: Check browser compatibility (e.g. allow use of camera, etc) or console errors
 
 ## Step 6: Wrap-Up and Q&A
-- Discuss potential applications of AR.js and A-Frame in arts and culture.
 - Technical questions
 - [AR.js Documentation](https://ar-js-org.github.io/AR.js-Docs)
 - [A-Frame Documentation](https://aframe.io)
