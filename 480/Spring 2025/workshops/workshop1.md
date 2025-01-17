@@ -143,6 +143,6 @@ We will learn how to create a basic AR experience using [AR.js](https://ar-js-or
 - More resources available on myCourses
 
 ## Assignment Submission
-Modify the above code to make it location-based, using AR.js’s geolocation features. Explore the documentation and integrate geospatial data into your scene. For example, instead of using the Hiro marker, make the 3d box appear at a specific geographic location. If you get stuck, try [this example](https://github.com/carloscastellanos/teaching/blob/master/480/Spring%202025/examples/a-frame_primitive_location.html) (you will need to chamnge the GPS corrdinates).
+Modify the above code to make it location-based, using AR.js’s geolocation features. Explore the documentation and integrate geospatial data into your scene. For example, instead of using the Hiro marker, make the 3d box appear at a specific geographic location. If you get stuck, try [this example](https://github.com/carloscastellanos/teaching/blob/master/480/Spring%202025/examples/a-frame_primitive_location.html) (you will need to change the GPS corrdinates).
 
 Submit all your work on myCourses (details available there).
