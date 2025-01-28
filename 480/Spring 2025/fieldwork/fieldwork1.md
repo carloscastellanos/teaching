@@ -76,7 +76,7 @@ This guide provides a structured approach for developing thoughtful, site-specif
 
 ## Post-Fieldwork
 - After you get home:
-    1. Write a Site Analysis Report: this is a report summarizing your observations, contextual analysis, and initial concepts (you will need to do this for your final project, so  est to get some practice at  now).
+    1. Write a Site Analysis Report: this is a report summarizing your observations, contextual analysis, and initial concepts (you will need to do this for your final project, so best to get some practice at it now).
     2. Concept Sketch or Prototype: Create a basic visual or interactive prototype of your AR experience (we will do this in class as part of a workshop, but best to get started now).
     3. Peer Review: Share your ideas and prototype with classmates for constructive feedback.
 
