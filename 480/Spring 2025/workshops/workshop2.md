@@ -30,7 +30,7 @@ Below is a step-by-step explanation and the corresponding code.
 - This part may take a while, just be patient.
 2. Host the marker files and assets:
 - Ensure the marker files are hosted on a web server or accessible via a relative/absolute URL.
-- The url to the marker files should point to folder contianing the maker files thmeselves.
+- The url to the marker files should point to folder contianing the marker files thmeselves.
 - Host the 3D model (GLTF/GLB) and other assets needed for the animation. (You can use any 3d animated model you like or simply use the one already linked in the code below)
 3. Code the Implmentation:
 - Use AR.js in and A-Frame to link the NFT marker to the 3D model.
