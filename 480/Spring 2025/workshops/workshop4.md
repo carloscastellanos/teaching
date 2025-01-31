@@ -230,9 +230,9 @@ window.onload = () => {
 3. Verify that POIs load dynamically from OpenStreetMap.
 
 ## Wrap-Up and Q&A
-By the end of this workshop you should;
-- have a basic idea on to build both a static and dynamic POI-based mobile AR application.
-- have basic idea on how to use the OpenStreetMap Overpass API.
+By the end of this workshop you should have:
+- a basic idea on to build both a static and dynamic POI-based mobile AR application.
+- a basic idea on how to use the OpenStreetMap Overpass API.
 
 Next Steps:
 - Add filtering options for different POI types (e.g., artworks, playgrounds).
