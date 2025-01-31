@@ -234,9 +234,9 @@ By the end of this workshop you should have:
 - a basic idea on to build both a static and dynamic POI-based mobile AR application.
 - a basic idea on how to use the OpenStreetMap Overpass API.
 
-Next Steps:
+Possible Next Steps:
 - Add filtering options for different POI types (e.g., artworks, playgrounds).
-- Cache API results for offline use.
+- Add other media elements (sound video, etc) at the desginated locations.
 
 Discussion:
 - Technical questions
