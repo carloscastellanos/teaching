@@ -236,7 +236,7 @@ By the end of this workshop you should have:
 
 Possible Next Steps:
 - Add filtering options for different POI types (e.g., artworks, playgrounds).
-- Add other media elements (sound video, etc) at the desginated locations.
+- Add other media elements (sound, video, etc) at the desginated locations.
 
 Discussion:
 - Technical questions
