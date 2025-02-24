@@ -49,7 +49,7 @@ This workshop will guide participants through building a mobile AR application f
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AR Points of Interest</title>
     <!-- A-Frame -->
-    <script src="https://aframe.io/releases/1.6.0/aframe.min.js"></script>
+    <script src="https://aframe.io/releases/1.4.0/aframe.min.js"></script>
     <!-- Pure three.js code that the A-Frame components use for location-based AR -->
     <script src='https://raw.githack.com/AR-js-org/AR.js/3.4.5/three.js/build/ar-threex-location-only.js'></script>
     <!-- AR.js A-Frame components (recommended to use version 3.4.5, rather than master) -->
@@ -174,7 +174,7 @@ const loadPlaces = (places) => {
         const entity = document.createElement("a-entity");
 
         entity.setAttribute("gps-entity-place", `latitude: ${place.latitude}; longitude: ${place.longitude}`);
-        entity.setAttribute("geometry", "primitive: sphere; radius: 1");
+        entity.setAttribute("geometry", "primitive: sphere);
         entity.setAttribute("material", "color: blue");
 
         const text = document.createElement("a-text");
