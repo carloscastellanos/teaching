@@ -174,7 +174,7 @@ const loadPlaces = (places) => {
         const entity = document.createElement("a-entity");
 
         entity.setAttribute("gps-entity-place", `latitude: ${place.latitude}; longitude: ${place.longitude}`);
-        entity.setAttribute("geometry", "primitive: sphere);
+        entity.setAttribute("geometry", "primitive: sphere");
         entity.setAttribute("material", "color: blue");
 
         const text = document.createElement("a-text");
