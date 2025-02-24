@@ -231,7 +231,7 @@ window.onload = () => {
 
 ## Wrap-Up and Q&A
 By the end of this workshop you should have:
-- a basic idea on to build both a static and dynamic POI-based mobile AR application.
+- a basic idea on how to build both a static and dynamic POI-based mobile AR application.
 - a basic idea on how to use the OpenStreetMap Overpass API.
 
 Possible Next Steps:
