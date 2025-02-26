@@ -57,7 +57,7 @@ This workshop will guide participants through building a mobile AR application f
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <a-scene embedded arjs>
+    <a-scene embedded arjs vr-mode-ui="enabled: false" raycaster cursor="rayOrigin: mouse" renderer="antialias: true; alpha: true">
         <a-camera gps-camera></a-camera>
     </a-scene>
     <script src="script.js"></script>
