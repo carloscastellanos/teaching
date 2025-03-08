@@ -548,7 +548,6 @@ _(subject to change)_
 
 - Discussions on inclusivity, privacy, and data ethics.
 - Group work on final projects.
-- Workshop (TBA)
 
 <h3>Week 11: Collaborative Creation</h3>
 
