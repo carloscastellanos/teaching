@@ -72,8 +72,9 @@ Another thing you can do is add a cursor to your camera that uses a raycaster to
 <a-scene>
   <!-- Define the camera with a cursor that uses the mouse as the ray's origin -->
   <a-entity camera>
-    <a-entity 
-      cursor="fuse: false; rayOrigin: mouse" 
+    <a-entity
+      geometry="primitive: ring; radiusInner: 0.02; radiusOuter: 0.03"
+      cursor="rayOrigin: entity" 
       raycaster="objects: .clickable">
     </a-entity>
   </a-entity>
