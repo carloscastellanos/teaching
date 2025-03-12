@@ -290,18 +290,20 @@ Develop a simple AR application where users interact with 3D objects. In this ex
       <!-- Marker that triggers AR content -->
       <a-marker preset="hiro">
         <!-- 3D object for color change -->
-        <a-box id="colorBox" position="0 0.5 0" color="red"></a-box>
+        <a-box id="colorBox" position="0 0 0" color="red" class="clickable"></a-box> 
         <!-- 3D object for playing media (sound/video) -->
-        <a-sphere id="mediaSphere" position="1 0.5 0" radius="0.5" color="blue"></a-sphere>
+        <a-sphere id="mediaSphere" position="1 0.5 0" radius="0.5" color="blue" class="clickable"></a-sphere>
       </a-marker>
-      <a-entity camera></a-entity>
+      <a-entity camera>
+        <a-entity cursor="rayOrigin: mouse" raycaster="objects: .clickable"></a-entity>
+      </a-entity>
     </a-scene>
     
     <!-- Audio element for playing sound -->
-    <audio id="myAudio" src="https://coemergencelab.com/ar/Eno_The_Secret_Place.mp3"></audio>
+    <audio id="myAudio" src="https://coemergencelab.com/ar/Eno_The_Secret_Place.mp3" type="audio/mpeg"></audio>
     
     <!-- Alternatively, you can add a video element if you prefer -->
-    <!-- <video id="myVideo" src="https://coemergencelab.com/ar/bigbuckbunny.mp4" preload="auto" style="display:none;"></video> -->
+    <!-- <video id="myVideo" src="https://coemergencelab.com/ar/bigbuckbunny.mp4" type="video/mp4" preload="auto" style="display:none;"></video> -->
     
     <script>
       // Change color of the box when clicked
