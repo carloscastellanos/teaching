@@ -286,7 +286,7 @@ Develop a simple AR application where users interact with 3D objects. In this ex
     <script src='https://raw.githack.com/AR-js-org/AR.js/3.4.5/aframe/build/aframe-ar.js'></script
   </head>
   <body style="margin: 0; overflow: hidden;">
-    <a-scene embedded arjs vr-mode-ui="enabled: false">
+    <a-scene embedded arjs vr-mode-ui="enabled: false" renderer="logarithmicDepthBuffer: true;">
       <!-- Marker that triggers AR content -->
       <a-marker preset="hiro">
         <!-- 3D object for color change -->
@@ -295,7 +295,7 @@ Develop a simple AR application where users interact with 3D objects. In this ex
         <a-sphere id="mediaSphere" position="1 0.5 0" radius="0.5" color="blue" class="clickable"></a-sphere>
       </a-marker>
       <a-entity camera>
-        <a-entity cursor="fuse: false; rayOrigin: entity" raycaster="objects: .clickable"></a-entity>
+        <a-entity cursor="fuse: false; rayOrigin: mouse" raycaster="objects: .clickable"></a-entity>
       </a-entity>
     </a-scene>
     
