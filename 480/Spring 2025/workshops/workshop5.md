@@ -284,22 +284,22 @@ Develop a simple AR application where users interact with a 3D object. In this e
     <script src='https://raw.githack.com/AR-js-org/AR.js/3.4.5/aframe/build/aframe-ar.js'></script
   </head>
   <body style="margin: 0; overflow: hidden;">
-    <a-scene embedded arjs vr-mode-ui="enabled: false" renderer="logarithmicDepthBuffer: true;">
+    <a-scene embedded arjs raycaster vr-mode-ui="enabled: false" renderer="logarithmicDepthBuffer: true;">
       <a-assets>
         <!-- Audio element for playing sound -->
-        <audio id="myAudio" src="https://coemergencelab.com/ar/Eno_The_Secret_Place.mp3" type="audio/mpeg" preload="auto" loop="true"></audio>
+        <audio id="myAudio" src="https://coemergencelab.com/ar/Eno_The_Secret_Place.mp3" type="audio/mpeg" preload="auto" loop="true" crossorigin="anonymous"></audio>
         <!-- Alternatively, you can add a video element if you prefer -->
-        <!-- <video id="myVideo" src="https://coemergencelab.com/ar/bigbuckbunny.mp4" type="video/mp4" preload="auto" loop="true"></video> -->
+        <!-- <video id="myVideo" src="https://coemergencelab.com/ar/bigbuckbunny.mp4" type="video/mp4" preload="auto" loop="true" crossorigin="anonymous" style="display:none;"></video> -->
       </a-assets>
       <!-- Marker that triggers AR content -->
       <a-marker preset="hiro">
         <!-- 3D object for playing media (sound/video) -->
-        <a-entity id="mediaSphere" position="0 -1 0" geometry="primitive: sphere; radius: 0.5" material="color: blue" class="clickable" sound="src: #myAudio"; on: click"></a-entity>
+        <a-entity id="mediaSphere" position="0 -1 0" geometry="primitive: sphere; radius: 0.5" material="color: blue" class="clickable" sound="src: #myAudio; on: click"></a-entity>
 
         <!-- 
         optional video
         <a-entity id="mediaSphere" position="0 -1 0" geometry="primitive: sphere; radius: 0.5" material="color: red" class="clickable">
-          <a-video class="clickable src="#myVideo" width="640" height="360" position="0 0 -2"></a-video>
+          <a-video class="clickable" src="#myVideo" width="16" height="9" position="0 0 -2"></a-video>
         </a-entity>
         -->
 
@@ -338,21 +338,21 @@ Develop a simple AR application where users interact with a 3D object. In this e
   </body>
 </html>
 ```
-https://aframe.io/docs/1.7.0/components/sound.html
-https://aframe.io/docs/1.7.0/primitives/a-video.html
+[Reference: A-Frame Documentation on Sound](https://aframe.io/docs/1.7.0/components/sound.html)
+[Reference: A-Frame Documentation on Video](https://aframe.io/docs/1.7.0/primitives/a-video.html)
+
 
 **Step 2: Testing and Debugging**
 - Run Your Project:
 Open your HTML file in a mobile browser
 Use a smartphone to view the AR scene. Point your camera at a Hiro marker ([download one from AR.js GitHub](https://raw.githubusercontent.com/AR-js-org/AR.js/master/data/images/hiro.png)).
 - Verify Interactivity:
-  - Color Change: Tap the box to see its color toggle between red and green.
   - Media Playback: Tap the sphere to start and pause the audio (or video if you choose that option).
 
 **Step 3: Discussion and Reflection**
 - Customization:
   - Experiment with different shapes, positions, and colors.
 - Extension Ideas:
-  - Add more complex UI interactions or multiple custom events (e.g., combine color change and media playback on a single object).
+  - Add more complex UI interactions or multiple custom events (e.g., combine color changes and media playback on a single object).
 - Debugging Tips:
   - Use browser developer tools to check for JavaScript errors and ensure that elements are correctly referenced.
