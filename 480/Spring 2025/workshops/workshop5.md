@@ -70,10 +70,11 @@ OR
 Another thing you can do is add a cursor to your camera that uses a raycaster to detect intersections with objects. For instance, you can tag interactive objects with a class (e.g., "clickable") and set up your camera as follows:
 ```
 <a-scene>
-  <!-- Define the camera with a cursor that uses the mouse as the ray's origin -->
+  <!-- Define the camera with a cursor that uses the entity as the ray's origin -->
   <a-entity camera>
     <a-entity
       geometry="primitive: ring; radiusInner: 0.02; radiusOuter: 0.03"
+      material="color: black; shader: flat"
       cursor="rayOrigin: entity" 
       raycaster="objects: .clickable">
     </a-entity>
