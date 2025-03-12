@@ -290,12 +290,12 @@ Develop a simple AR application where users interact with 3D objects. In this ex
       <!-- Marker that triggers AR content -->
       <a-marker preset="hiro">
         <!-- 3D object for color change -->
-        <a-box id="colorBox" position="0 0 0" color="red" class="clickable"></a-box> 
+        <a-box id="colorBox" position="-1 0 0" color="red" class="clickable"></a-box> 
         <!-- 3D object for playing media (sound/video) -->
         <a-sphere id="mediaSphere" position="1 0.5 0" radius="0.5" color="blue" class="clickable"></a-sphere>
       </a-marker>
       <a-entity camera>
-        <a-entity cursor="rayOrigin: mouse" raycaster="objects: .clickable"></a-entity>
+        <a-entity cursor="fuse: false; rayOrigin: entity" raycaster="objects: .clickable"></a-entity>
       </a-entity>
     </a-scene>
     
