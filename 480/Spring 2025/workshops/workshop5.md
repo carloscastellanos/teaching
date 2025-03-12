@@ -14,9 +14,10 @@ This workshop will guide participants in creating interactive AR applications us
 
 >[!NOTE]
 > **Workshop Prerequsites**
+- Basic familiarity with AR.js & A-Frame (& HTML, CSS & JS).
 - A text editor (e.g., VS Code).
 - A smartphone or tablet with a modern web browser (e.g., Chrome, Safari).
-- Access to a web server to host files (i.e. Glitch.com, GitHub Pages or your RIT student account)
+- Access to a web server to host files. You can use sites like [Glitch.com](https://glitch.com), [GitHub Pages](https://pages.github.com/) or your RIT student account.
 
 ---
 
@@ -28,16 +29,6 @@ This workshop will guide participants in creating interactive AR applications us
 5. Wrap-Up and Q&A
 
 ---
-
->[!NOTE]
-> **Workshop Prerequsites**
-- Basic familiarity with AR.js & A-Frame (& HTML, CSS & JS).
-- A text editor (e.g., VS Code).
-- A smartphone or tablet with a modern web browser (e.g., Chrome, Safari).
-- Access to a web server to host files. You can use sites like [Glitch.com](https://glitch.com), [GitHub Pages](https://pages.github.com/) or your RIT student account.
-
----
-
 
 ## Part 1: Handling Clicks & Detecting Intersections with AR Content
 First create a basic AR scene:
