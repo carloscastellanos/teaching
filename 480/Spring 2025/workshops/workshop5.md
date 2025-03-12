@@ -109,7 +109,7 @@ You can also use `AFRAME.registerComponent` to handle click events (and other ev
   <body style="margin: 0; overflow: hidden;">
     <a-scene embedded arjs vr-mode-ui="enabled: false">
       <a-entity camera>
-        <a-entity cursor="fuse: false; rayOrigin: mouse"></a-entity>
+        <a-entity cursor="fuse: true; rayOrigin: entity"></a-entity>
       </a-entity>
       <!-- Interactive object with our custom component -->
       <a-box position="0 1 -3" color="#4CC3D9" click-listener></a-box>
@@ -345,3 +345,11 @@ Use a smartphone to view the AR scene. Point your camera at a Hiro marker ([down
 - Verify Interactivity:
   - Color Change: Tap the box to see its color toggle between red and green.
   - Media Playback: Tap the sphere to start and pause the audio (or video if you choose that option).
+
+**Step 3: Discussion and Reflection**
+- Customization:
+  - Experiment with different shapes, positions, and colors.
+- Extension Ideas:
+  - Add more complex UI interactions or multiple custom events (e.g., combine color change and media playback on a single object).
+- Debugging Tips:
+  - Use browser developer tools to check for JavaScript errors and ensure that elements are correctly referenced.
