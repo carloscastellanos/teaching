@@ -171,7 +171,7 @@ Here is an example that demonstrates how to register a custom A-Frame component 
     <a-scene embedded arjs>
       <!-- Marker element with custom component -->
       <a-marker preset="hiro" custom-listener>
-        <a-box position="0 0 -3" color="#4CC3D9"></a-box>
+        <a-box position="0 0 0" color="#4CC3D9"></a-box>
       </a-marker>
       
       <!-- Example GPS entity using gps-entity-place -->
@@ -192,7 +192,7 @@ Here is an example that demonstrates how to register a custom A-Frame component 
           
           // Listen for the markerFound event (from AR.js)
           el.addEventListener('markerFound', function () {
-            alert('Marker found on element');
+            concole.log('Marker found on element', el);
             // For demonstration: Toggle the element's color
             var currentColor = el.getAttribute('color');
             el.setAttribute('color', currentColor === '#4CC3D9' ? '#EF2D5E' : '#4CC3D9');
