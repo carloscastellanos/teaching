@@ -69,19 +69,20 @@ OR
 
 Another thing you can do is add a cursor to your camera that uses a raycaster to detect intersections with objects. For instance, you can tag interactive objects with a class (e.g., "clickable") and set up your camera as follows:
 ```
-<a-scene>
+<a-scene embedded arjs>
   <!-- Define the camera with a cursor that uses the entity as the ray's origin -->
   <a-entity camera>
     <a-entity
       geometry="primitive: ring; radiusInner: 0.02; radiusOuter: 0.03"
       material="color: black; shader: flat"
       cursor="rayOrigin: entity" 
+      position="0 0 -1"
       raycaster="objects: .clickable">
     </a-entity>
   </a-entity>
 
   <!-- A sample interactive object -->
-  <a-box class="clickable" position="0 1 -3" color="red"></a-box>
+  <a-box class="clickable" position="0 0 -3" color="red"></a-box>
 </a-scene>
 ```
 
@@ -109,7 +110,7 @@ You can also use `AFRAME.registerComponent` to handle click events (and other ev
   <body style="margin: 0; overflow: hidden;">
     <a-scene embedded arjs vr-mode-ui="enabled: false">
       <a-entity camera>
-        <a-entity cursor="fuse: true; rayOrigin: entity"></a-entity>
+        <a-entity cursor="fuse: true; rayOrigin: mouse"></a-entity>
       </a-entity>
       <!-- Interactive object with our custom component -->
       <a-box position="0 1 -3" color="#4CC3D9" click-listener></a-box>
@@ -191,7 +192,7 @@ Here is an example that demonstrates how to register a custom A-Frame component 
           
           // Listen for the markerFound event (from AR.js)
           el.addEventListener('markerFound', function () {
-            console.log('Marker found on element:', el);
+            alert('Marker found on element');
             // For demonstration: Toggle the element's color
             var currentColor = el.getAttribute('color');
             el.setAttribute('color', currentColor === '#4CC3D9' ? '#EF2D5E' : '#4CC3D9');
@@ -200,7 +201,7 @@ Here is an example that demonstrates how to register a custom A-Frame component 
           // Listen for the gps-entity-place update event
           // (This event is fired when the entity's position is updated based on GPS data)
           el.addEventListener('gps-entity-place-update-position', function (evt) {
-            console.log('GPS entity updated position:', evt.detail);
+            alert('GPS entity updated position: ' + evt.detail);
             // You could update the UI or trigger additional actions based on the new position
           });
         }
