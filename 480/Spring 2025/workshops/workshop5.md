@@ -171,7 +171,7 @@ Here is an example that demonstrates how to register a custom A-Frame component 
     <a-scene embedded arjs>
       <!-- Marker element with custom component -->
       <a-marker preset="hiro" custom-listener>
-        <a-box position="0 0.5 0" color="#4CC3D9"></a-box>
+        <a-box position="0 0 -3" color="#4CC3D9"></a-box>
       </a-marker>
       
       <!-- Example GPS entity using gps-entity-place -->
