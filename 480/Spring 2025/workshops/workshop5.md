@@ -270,10 +270,7 @@ Listen for Marker Loss:
 ## Part 4: Hands-On Exercise
 
 Objective:
-Develop a simple AR application where users interact with 3D objects. In this exercise, you'll build two interactive elements:
-
-1. A 3D object that changes its color when clicked.
-2. A 3D object that plays a sound (or video) when clicked.
+Develop a simple AR application where users interact with a 3D object. In this exercise, a 3D object plays a sound (or video) when clicked.
 
 **Step 1: Create your HTML page:**
 ```
@@ -281,39 +278,40 @@ Develop a simple AR application where users interact with 3D objects. In this ex
 <html>
   <head>
     <meta charset="utf-8">
+    <meta name="apple-mobile-web-app-capable" content="yes">
     <title>Interactive AR Exercise</title>
     <script src="https://aframe.io/releases/1.4.0/aframe.min.js"></script>
     <script src='https://raw.githack.com/AR-js-org/AR.js/3.4.5/aframe/build/aframe-ar.js'></script
   </head>
   <body style="margin: 0; overflow: hidden;">
     <a-scene embedded arjs vr-mode-ui="enabled: false" renderer="logarithmicDepthBuffer: true;">
+      <a-assets>
+        <!-- Audio element for playing sound -->
+        <audio id="myAudio" src="https://coemergencelab.com/ar/Eno_The_Secret_Place.mp3" type="audio/mpeg" preload="auto" loop="true"></audio>
+        <!-- Alternatively, you can add a video element if you prefer -->
+        <!-- <video id="myVideo" src="https://coemergencelab.com/ar/bigbuckbunny.mp4" type="video/mp4" preload="auto" loop="true"></video> -->
+      </a-assets>
       <!-- Marker that triggers AR content -->
       <a-marker preset="hiro">
-        <!-- 3D object for color change -->
-        <a-box id="colorBox" position="-1 0 0" color="red" class="clickable"></a-box> 
         <!-- 3D object for playing media (sound/video) -->
-        <a-sphere id="mediaSphere" position="1 0.5 0" radius="0.5" color="blue" class="clickable"></a-sphere>
+        <a-entity id="mediaSphere" position="0 -1 0" geometry="primitive: sphere; radius: 0.5" material="color: blue" class="clickable" sound="src: #myAudio"; on: click"></a-entity>
+
+        <!-- 
+        optional video
+        <a-entity id="mediaSphere" position="0 -1 0" geometry="primitive: sphere; radius: 0.5" material="color: red" class="clickable">
+          <a-video class="clickable src="#myVideo" width="640" height="360" position="0 0 -2"></a-video>
+        </a-entity>
+        -->
+
       </a-marker>
+      <!-- camera with raycaster -->
       <a-entity camera>
         <a-entity cursor="fuse: false; rayOrigin: mouse" raycaster="objects: .clickable"></a-entity>
       </a-entity>
     </a-scene>
     
-    <!-- Audio element for playing sound -->
-    <audio id="myAudio" src="https://coemergencelab.com/ar/Eno_The_Secret_Place.mp3" type="audio/mpeg"></audio>
-    
-    <!-- Alternatively, you can add a video element if you prefer -->
-    <!-- <video id="myVideo" src="https://coemergencelab.com/ar/bigbuckbunny.mp4" type="video/mp4" preload="auto" style="display:none;"></video> -->
     
     <script>
-      // Change color of the box when clicked
-      document.querySelector('#colorBox').addEventListener('click', function () {
-        let currentColor = this.getAttribute('color');
-        // Toggle between red and green
-        let newColor = currentColor === 'red' ? 'green' : 'red';
-        this.setAttribute('color', newColor);
-      });
-
       // Play audio when the sphere is clicked
       document.querySelector('#mediaSphere').addEventListener('click', function () {
         let audioElement = document.querySelector('#myAudio');
@@ -340,6 +338,8 @@ Develop a simple AR application where users interact with 3D objects. In this ex
   </body>
 </html>
 ```
+https://aframe.io/docs/1.7.0/components/sound.html
+https://aframe.io/docs/1.7.0/primitives/a-video.html
 
 **Step 2: Testing and Debugging**
 - Run Your Project:
