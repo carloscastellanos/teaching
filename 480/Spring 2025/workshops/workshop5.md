@@ -192,7 +192,8 @@ Here is an example that demonstrates how to register a custom A-Frame component 
           
           // Listen for the markerFound event (from AR.js)
           el.addEventListener('markerFound', function () {
-            concole.log('Marker found on element', el);
+            //console.log('Marker found on element', el);
+            alert("Marker found on element");
             // For demonstration: Toggle the element's color
             var currentColor = el.getAttribute('color');
             el.setAttribute('color', currentColor === '#4CC3D9' ? '#EF2D5E' : '#4CC3D9');
@@ -281,7 +282,7 @@ Develop a simple AR application where users interact with a 3D object. In this e
     <meta name="apple-mobile-web-app-capable" content="yes">
     <title>Interactive AR Exercise</title>
     <script src="https://aframe.io/releases/1.4.0/aframe.min.js"></script>
-    <script src='https://raw.githack.com/AR-js-org/AR.js/3.4.5/aframe/build/aframe-ar.js'></script
+    <script src='https://raw.githack.com/AR-js-org/AR.js/3.4.5/aframe/build/aframe-ar.js'></script>
   </head>
   <body style="margin: 0; overflow: hidden;">
     <a-scene embedded arjs raycaster vr-mode-ui="enabled: false" renderer="logarithmicDepthBuffer: true;">
