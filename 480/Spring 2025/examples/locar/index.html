@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	a { text-decoration: none }
+}
+</style>
+<title>Examples</title>
+</head>
+<body>
+<div style='display: flex; justify-content: center'>
+<img src="https://ar-js-org.github.io/AR.js-Docs/logo.png" alt="AR.js logo" style='width: 20%; height: 20%'/>
+</div>
+<h1>LocAR.js examples and documentation</h1>
+<h2>Examples</h2>
+<ol>
+<li><a href='/teaching/01-helloworld/index.html'>Hello World</a>: Display a red cube just to the north of a fake GPS location. Can be tested on a desktop or laptop.</li>
+<li><a href='/teaching/02-gps-and-sensors/index.html'>GPS and Sensors</a>: Requires a mobile device wih GPS and sensors. Demonstrates use of the GPS and the device sensors to show real AR. Gets your initial location and displays four coloured boxes to the north (red), south (yellow), west (blue) and east (green) of your initial location. These are around 50 metres away and around 10x10x10 metres in size. Can be used as a test to check whether your device sensors are accurate; if the red box does not appear to the North, your device sensors may be mis-calibrated.</li>
+<li><a href='/teaching/03-api-communication/index.html'>API Communication</a>: shows how you can communicate with a live GeoJSON API (OpenStreetMap-based). The GeoJSON is parsed, and AR objects created from each GeoJSON feature in the feed. Uses your current real GPS location and the device sensors, so <strong>requires a real mobile device.</strong>. It also uses each object's OpenStreetMap ID to cache objects in memory as they are added, preventing the same object being added twice. Note that a new request to the server is performed if you move 100 metres; a better solution to minimise the number of server requests would be to implement a tiling system. This will hopefully appear soon! <strong>The live example only works in Europe and Turkey due to the coverage of the underlying API, but can easily be modified to work with any GeoJSON API covering other parts of the world.</strong></li>
+</ol>
+<h2>API documentation</h2>
+<p>Please see <a href='https://ar-js-org.github.io/locar.js/api'>here</a>.</p>
+<h2>Device Orientation Test</h2>
+<p>You can use <a href='/teaching/devorient/index.html'>this test page</a> to test your device orientation. The "alpha" value should match the bearing the device is facing, in degrees.</p>
+</body>
+</html>
