@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>three.js</title>
+<style>
+
+#gpsinput {
+	display: flex;
+	height: 100%;
+	width: 100%;
+	z-index: 1;
+    position: fixed;
+    top: 0px;
+    font-size: 200%;
+	justify-content: end; 
+	flex-direction: column;
+}
+
+#gpsinput > div {
+    background-color: #c0c0c0; 
+	display: flex;
+	justify-content: center
+}
+
+#gpsinput input, #gpsinput button {
+	font-size: 200%;
+	margin: 10px;
+}
+
+</style>
+  <script type="module" crossorigin src="/teaching/480/Spring 2025/examples/locar/assets/03-api-communication-BbFAHQhd.js"></script>
+  <link rel="modulepreload" crossorigin href="/teaching/480/Spring 2025/examples/locar/assets/modulepreload-polyfill-B5Qt9EMX.js">
+  <link rel="modulepreload" crossorigin href="/teaching/480/Spring 2025/examples/locar/assets/locar.es-DFgpSr83.js">
+</head>
+<body>
+<div id="gpsinput">
+<div><input id="fakeLat" placeholder="Fake Lat" /></div>
+<div><input id="fakeLon" placeholder="Fake Lon"/></div>
+<div><button id="setFakeLoc">Set Fake Location!</button></div>
+</div>
+</body>
+</html>
