@@ -7,7 +7,7 @@ const entries = { main: 'index.html' };
 });
 
 export default defineConfig({
-    base: '/teaching/480/Spring 2025/examples/locar',
+    base: '/teaching',
     build: {
         outDir: './docs',
         rollupOptions: {
