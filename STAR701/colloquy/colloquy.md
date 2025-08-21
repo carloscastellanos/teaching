@@ -127,10 +127,62 @@ Now, the webcam can be introduced as a way for the human (or anything else) to i
 
 1. Declare this variable at the top of our sketch (i.e. before the `setup()` function).
     - `let video; // declare video`
-2. Add this code to the `setup()` function, right after the call to `createCanvas()`
+2. Add this code to the `setup()` function, right after the call to `createCanvas()`:
   ```
   // Setup video for external input
   video = createCapture(VIDEO);
   video.size(64, 48); // Very small resolution for performance
   video.hide();
   ```
+3. Now here is your new draw() function (replace current one with this):
+```
+unction draw() {
+  background(0, 10); // Semi-transparent background for trails
+  
+  // --- NEW: SAMPLE THE ENVIRONMENT ---
+  // Get the overall brightness of the video scene
+  video.loadPixels(); // load the current value of each video pixel into the pixels array so we can analyze it
+  let totalBrightness = 0;
+  for (let i = 0; i < video.pixels.length; i += 4) {
+    // Calculate brightness of each pixel (average of R, G, B)
+    totalBrightness += (video.pixels[i] + video.pixels[i+1] + video.pixels[i+2]) / 3;
+  }
+  let avgBrightness = totalBrightness / (video.pixels.length / 4);
+  
+  // calculate distance
+  let d = dist(entityA.x, entityA.y, entityB.x, entityB.y);
+
+  // --- ENTITY A BEHAVIOR (NOW AFFECTED BY EXTERNAL WORLD) ---
+  // The beacon's signal is a combination of Seeker proximity AND external light
+  let proximityFactor = map(d, 0, width/2, 255, 50);
+  let lightFactor = map(avgBrightness, 0, 255, 0.2, 1.5); // Light amplifies signal
+  entityA.signalStrength = proximityFactor * lightFactor; // Combine the factors
+
+  fill(entityA.color[0], entityA.color[1], entityA.color[2], entityA.signalStrength);
+  noStroke();
+  ellipse(entityA.x, entityA.y, entityA.size);
+
+  // --- ENTITY B (The Seeker) BEHAVIOR ---
+  // 1. PERCEIVE: Can it "see" the beacon? (Is it within perception range?)
+  if (d < entityB.perception) {
+    // 2. THINK/ACT: If yes, change color and move towards the beacon
+    entityB.color = [255, 255, 0]; // Yellow = excitement
+    let angle = atan2(entityA.y - entityB.y, entityA.x - entityB.x);
+    entityB.x += cos(angle) * entityB.speed;
+    entityB.y += sin(angle) * entityB.speed;
+  } else {
+    // 3. THINK/ACT: If not, wander randomly
+    entityB.color = [0, 0, 255]; // Blue = searching
+    entityB.x += random(-entityB.speed, entityB.speed);
+    entityB.y += random(-entityB.speed, entityB.speed);
+  }
+
+  // Keep entities on screen
+  entityB.x = constrain(entityB.x, 0, width);
+  entityB.y = constrain(entityB.y, 0, height);
+
+  // Draw the seeker
+  fill(entityB.color[0], entityB.color[1], entityB.color[2]);
+  ellipse(entityB.x, entityB.y, entityB.size);
+}
+```
