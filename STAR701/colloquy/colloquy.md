@@ -107,7 +107,7 @@ Run the sketch and observe. Consider altering the entites' properties (e.g. sign
 ## Periodic Movement for the Beacon (Entity A)
 Now let's make some changes to make the system more dynamic (and perhaps closer to Pask's concept of active, communicative entities). We can give Entity A (The Beacon) its own agency by periodically changing its location. Here is one simple approach.
 
-Add this to the `draw()` function (below the call to background()):
+Add this to the `draw()` function (below the call to `background()`):
 
 ```
   // Periodically move the beacon
