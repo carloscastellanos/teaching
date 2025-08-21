@@ -14,7 +14,7 @@
 
 Gordon Pask's *Colloquy of Mobiles* wasn't about pretty patterns; it was a model for conversation (in this context, we define conversation as action-grounded construction of shared meanings). It was a society of non-human agents with simple goals: to find energy (light) and interact with others. They had agency. Their interactions produced emergent, unpredictable behavior. Today, we won't build physical mobiles, but we will create their digital reprsenations. We'll build simple software 'organisms' that can sense each other and react.
 
-Learning Objectives:
+**Learning Objectives:**
 - Understand core cybernetic concepts: perception, feedback, adaptation and agency.
 - Model simple communicative behaviors in code.
 - Shift from thinking of artworks as static objects to thinking of them as autonomous systems with behavioral modlaities.
