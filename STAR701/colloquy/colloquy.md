@@ -121,3 +121,16 @@ Add this to the `draw()` function (below the call to background()):
   }
 
 ```
+
+Introducing the Webcam as an External Actor (The True Paskian Element)
+Now, the webcam can be introduced as a way for the human (or anything else) to influence the system. This is a much more sophisticated and appropriate use. So make sure the core system is working.
+
+1. Declare this variable at the top of our sketch (i.e. before the `setup()` function).
+    - `let video; // declare video`
+2. Add this code to the `setup()` function, right after the call to `createCanvas()`
+  ```
+  // Setup video for external input
+  video = createCapture(VIDEO);
+  video.size(64, 48); // Very small resolution for performance
+  video.hide();
+  ```
