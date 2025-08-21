@@ -25,6 +25,8 @@ Gordon Pask's *Colloquy of Mobiles* wasn't about pretty patterns; it was a model
 - Allow webcam access
 
 ## Step 1: The Basic World
+We will create two "entities": a seeker (like Pask's "female" mobile that seeks light) and a beacon (like a "male" mobile that emits a signal).
+
 Copy and paste this code into your p5.js editor
 
 ```
@@ -36,6 +38,7 @@ function setup() {
   createCanvas(640, 480);
 
   // Initialize our two entities with properties.
+  // beacon
   entityA = {
     x: random(width),
     y: random(height),
@@ -44,6 +47,7 @@ function setup() {
     signalStrength: 0
   };
 
+  // seeker
   entityB = {
     x: random(width),
     y: random(height),
