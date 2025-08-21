@@ -122,7 +122,7 @@ Add this to the `draw()` function (below the call to `background()`):
 
 ```
 
-## Introducing the Webcam as an External Actor (The True Paskian Element)
+## Introduce the Webcam as an External Actor (The True Paskian Element)
 Now, the webcam can be introduced as a way for the human (or anything else) to influence the system. This is a much more sophisticated and appropriate use. So make sure the core system is working.
 
 1. Declare this variable at the top of our sketch (i.e. before the `setup()` function).
@@ -187,6 +187,133 @@ function draw() {
 }
 ```
 
+##
+Introduce Behavior-Based Movement for the Beacon (A More Complete Paskian System)
+Make the beacon's movement responsive to the seeker's behavior. This now combines environmental/human sensing with awareness of the seeker. The beacon now has a kind of personality via its behavioral states.
+
+Here is the full code:
+
+```
+let entityA, entityB; // Our two cybernetic entities
+let video;
+let beaconState = "idle"; // States: idle, fleeing, curious
+let stateChangeTime = 0;
+
+function setup() {
+  createCanvas(640, 480);
+  
+  // Setup video for external input
+  video = createCapture(VIDEO);
+  video.size(320, 240); // lower resolution for performance
+  video.hide();
+
+  // Initialize our two entities with properties.
+  entityA = {
+    x: random(width),
+    y: random(height),
+    size: 50,
+    color: [255, 0, 0], // Red
+    signalStrength: 0
+  };
+
+  entityB = {
+    x: random(width),
+    y: random(height),
+    size: 30,
+    color: [0, 0, 255], // Blue
+    speed: 5,
+    perception: 100 // How far it can "see"
+  };
+}
+
+// The Perceive-Think-Act Loop 
+
+function draw() {
+  background(0, 10); // Semi-transparent background for trails
+  
+  // --- NEW: SAMPLE THE ENVIRONMENT ---
+  // Get the overall brightness of the video scene
+  video.loadPixels(); // NOW this line is necessary!
+  let totalBrightness = 0;
+  for (let i = 0; i < video.pixels.length; i += 4) {
+    // Calculate brightness of each pixel (average of R, G, B)
+    totalBrightness += (video.pixels[i] + video.pixels[i+1] + video.pixels[i+2]) / 3;
+  }
+  let avgBrightness = totalBrightness / (video.pixels.length / 4);
+  
+  // calculate distance
+  let d = dist(entityA.x, entityA.y, entityB.x, entityB.y);
+  
+  // Beacon behavior state machine
+  if (millis() - stateChangeTime > 3000) { // Change state every 3 seconds
+    let r = random();
+    if (r < 0.3) {
+      beaconState = "idle";
+    } else if (r < 0.6) {
+      beaconState = "curious";
+    } else {
+      beaconState = "fleeing";
+    }
+    stateChangeTime = millis();
+  }
+  
+    // Act according to state
+  if (beaconState === "idle") {
+    // Minimal movement
+    entityA.x += random(-0.5, 0.5);
+    entityA.y += random(-0.5, 0.5);
+  } else if (beaconState === "curious" && d < 200) {
+    // Move slightly toward the seeker when curious and nearby
+    let angle = atan2(entityB.y - entityA.y, entityB.x - entityA.x);
+    entityA.x += cos(angle) * 0.8;
+    entityA.y += sin(angle) * 0.8;
+  } else if (beaconState === "fleeing" && d < 150) {
+    // Move away from the seeker when fleeing and too close
+    let angle = atan2(entityB.y - entityA.y, entityB.x - entityA.x);
+    entityA.x -= cos(angle) * 1.5;
+    entityA.y -= sin(angle) * 1.5;
+  }
+  
+  // Keep beacon within bounds
+  entityA.x = constrain(entityA.x, 0, width);
+  entityA.y = constrain(entityA.y, 0, height);
+
+  // --- ENTITY A LIGHT BEHAVIOR (AFFECTED BY EXTERNAL WORLD) ---
+  // The beacon's signal is a combination of Seeker proximity AND external light
+  let proximityFactor = map(d, 0, width/2, 255, 50);
+  let lightFactor = map(avgBrightness, 0, 255, 0.2, 1.5); // Light amplifies signal
+  entityA.signalStrength = proximityFactor * lightFactor; // Combine the factors
+
+  fill(entityA.color[0], entityA.color[1], entityA.color[2], entityA.signalStrength);
+  noStroke();
+  ellipse(entityA.x, entityA.y, entityA.size);
+
+  // --- ENTITY B (The Seeker) BEHAVIOR ---
+  // 1. PERCEIVE: Can it "see" the beacon? (Is it within perception range?)
+  if (d < entityB.perception) {
+    // 2. THINK/ACT: If yes, change color and move towards the beacon
+    entityB.color = [255, 255, 0]; // Yellow = excitement
+    let angle = atan2(entityA.y - entityB.y, entityA.x - entityB.x);
+    entityB.x += cos(angle) * entityB.speed;
+    entityB.y += sin(angle) * entityB.speed;
+  } else {
+    // 3. THINK/ACT: If not, wander randomly
+    entityB.color = [0, 0, 255]; // Blue = searching
+    entityB.x += random(-entityB.speed, entityB.speed);
+    entityB.y += random(-entityB.speed, entityB.speed);
+  }
+
+  // Keep entities on screen
+  entityB.x = constrain(entityB.x, 0, width);
+  entityB.y = constrain(entityB.y, 0, height);
+
+  // Draw the seeker
+  fill(entityB.color[0], entityB.color[1], entityB.color[2]);
+  ellipse(entityB.x, entityB.y, entityB.size);
+}
+```
+
+
 ## Experimentation
 OK, so you are now "ethology designing". Basically defining the rules of engagement for your digital entities.
 
@@ -203,3 +330,23 @@ Change the perception. What if the Seeker isn't attracted to proximity but to a 
 **Challenge 3: Environmental Memory**
 
 Give an entity a simple memory. If the Seeker hasn't found the Beacon for 500 frames (`if (frameCount % 500 == 0)`), make its speed increase (it becomes "desperate") or its perception widen.
+
+## Discussion & Critique
+
+5. Critique & Discussion (10 mins)
+
+At what point did the system stop feeling like code you wrote and start feeling like a behavior you were observing?
+
+How did introducing a human participant (via webcam) change the dynamic? Did it feel like a conversation?
+
+How is this approach to using a camera fundamentally different from how we use it on social media? (It's sensing for interaction, not capturing for representation).
+
+How does this exercise reflect Pask's idea of a "colloquy" (a formal conversation) as opposed to just a "feedback loop"?
+
+Agency & Behavior: How does giving the beacon its own movement change the dynamics of the system? Does it feel more like a "conversation" between two entities?
+
+Character Design: What personality does each movement method give to the beacon? Is it shy, playful, erratic, or methodical?
+
+Interaction Design: How could the beacon's movement be influenced by the seeker's behavior or human interaction? (e.g., the beacon moves away when the seeker gets too close, or moves toward areas of light)
+
+Paskian Principles: Which method best reflects the principles of the *Colloquy of Mobiles*, where each entity has its own goals and behaviors that create emergent interactions?
