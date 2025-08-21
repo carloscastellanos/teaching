@@ -98,4 +98,22 @@ function draw() {
 ```
 
 ## Step 3: Run the sketch
-Run the sketch and observe. Consider altering the entites' proprties (e.g. signalStrength of entity A; speed: or perception: of entity B).
+Run the sketch and observe. Consider altering the entites' properties (e.g. signalStrength of entity A; speed: or perception: of entity B).
+
+## Periodic Movement for the Beacon (Entity A)
+Now let's make some changes to make the system more dynamic (and perhaps closer to Pask's concept of active, communicative entities). We can give Entity A (The Beacon) its own agency by periodically changing its location. Here is one simple approach.
+
+Add this to the `draw()` function (below the call to background()):
+
+```
+  // Periodically move the beacon
+  if (millis() - lastMoveTime > moveInterval) {
+    entityA.x = random(width);
+    entityA.y = random(height);
+    lastMoveTime = millis();
+    
+    // Optional: Make the move interval slightly variable for more organic behavior
+    moveInterval = random(2000, 4000);
+  }
+
+```
