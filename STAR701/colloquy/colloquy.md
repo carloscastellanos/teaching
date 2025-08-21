@@ -221,7 +221,7 @@ function setup() {
     y: random(height),
     size: 30,
     color: [0, 0, 255], // Blue
-    speed: 5,
+    speed: 2,
     perception: 100 // How far it can "see"
   };
 }
