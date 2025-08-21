@@ -231,9 +231,9 @@ function setup() {
 function draw() {
   background(0, 10); // Semi-transparent background for trails
   
-  // --- NEW: SAMPLE THE ENVIRONMENT ---
+  // --- SAMPLE THE ENVIRONMENT ---
   // Get the overall brightness of the video scene
-  video.loadPixels(); // NOW this line is necessary!
+  video.loadPixels(); // load the current value of each video pixel into the pixels array so we can analyze it
   let totalBrightness = 0;
   for (let i = 0; i < video.pixels.length; i += 4) {
     // Calculate brightness of each pixel (average of R, G, B)
