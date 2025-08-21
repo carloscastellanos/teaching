@@ -193,12 +193,13 @@ OK, so you are now "ethology designing". Basically defining the rules of engagem
 Here are some more experiments you can try:
 
 - **Challenge 1: Create a Second Couple**
+
 Add entityC and entityD with different rules. Maybe they are competitors? Maybe they are attracted to the Seeker instead of the Beacon? How do the two couples interact?
 
 - **Challenge 2: Different "Senses"**
-Change the perception. What if the Seeker isn't attracted to proximity but to a color? What if it's repelled by bright light? Change the if statement to trigger on color detection instead of distance.
 
-Code Hint: Use video.get(entityB.x, entityB.y) to get the color of the video pixel at the Seeker's location.
+Change the perception. What if the Seeker isn't attracted to proximity but to a color? What if it's repelled by bright light? Change the if statement to trigger on color detection instead of distance. (Code Hint: Use video.get(entityB.x, entityB.y) to get the color of the video pixel at the Seeker's location.)
 
 - **Challenge 3: Environmental Memory**
+
 Give an entity a simple memory. If the Seeker hasn't found the Beacon for 500 frames (if (frameCount % 500 == 0)), make its speed increase (it becomes "desperate") or its perception widen.
