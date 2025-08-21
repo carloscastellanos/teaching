@@ -136,7 +136,7 @@ Now, the webcam can be introduced as a way for the human (or anything else) to i
   ```
 3. Now here is your new draw() function (replace current one with this):
 ```
-unction draw() {
+function draw() {
   background(0, 10); // Semi-transparent background for trails
   
   // --- NEW: SAMPLE THE ENVIRONMENT ---
@@ -186,3 +186,19 @@ unction draw() {
   ellipse(entityB.x, entityB.y, entityB.size);
 }
 ```
+
+## Experimentation
+OK, so you are now "ethology designing". Basically defining the rules of engagement for your digital entities.
+
+Here are some more experiments you can try:
+
+**Challenge 1: Create a Second Couple**
+Add entityC and entityD with different rules. Maybe they are competitors? Maybe they are attracted to the Seeker instead of the Beacon? How do the two couples interact?
+
+**Challenge 3: Different "Senses"**
+Change the perception. What if the Seeker isn't attracted to proximity but to a color? What if it's repelled by bright light? Change the if statement to trigger on color detection instead of distance.
+
+Code Hint: Use video.get(entityB.x, entityB.y) to get the color of the video pixel at the Seeker's location.
+
+**Challenge 3: Environmental Memory**
+Give an entity a simple memory. If the Seeker hasn't found the Beacon for 500 frames (if (frameCount % 500 == 0)), make its speed increase (it becomes "desperate") or its perception widen.
