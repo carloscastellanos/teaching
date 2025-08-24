@@ -180,7 +180,7 @@ Use gestures to change how you draw. (Code Hint: Move the `background()` command
 ```
 function draw() {
   if (mouseIsPressed) {
-    let currentMood = moods[currentLabel]; // You need to store the label in a global variable!
+    let currentMood = moods[label]; // You need to store the label in a global variable!
     fill(currentMood.color);
     ellipse(mouseX, mouseY, 20, 20);
   }
