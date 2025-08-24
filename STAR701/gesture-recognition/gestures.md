@@ -83,6 +83,7 @@ const moods = {
     color: [200, 0, 150],   // Purple
     emoji: "👋"
   },
+  // OPTIONAL: gray background if no gesture is recognized
   "nothing": {
     color: [100, 100, 100], // Grey
     emoji: "👁️"
@@ -152,25 +153,51 @@ function draw() {
 }
 ```
 
+**Key Code Explanations for the Class:**
+- `preload()`: Loads the model before anything else runs.
+- `classifyVideo()` & `gotResults()`: This is the heartbeat. It asks the model "What do you see?" and then gets an answer asynchronously.
+- `confidence > 0.75`: This is a "confidence threshold." It prevents the sketch from flickering if the model is unsure. This is an important control parameter.
+- The moods Object: These are your classes. This is where the fun happens! We are assigning meaning to the gestures. A ✌️ means yellow. This is a simple form of semantic mapping.
 
-## Experimentation
-OK, so you are now "ethology designing". Basically defining the rules of engagement for your digital entities.
+**Instructions:**
+1. PASTE YOUR MODEL URL into the modelURL variable.
+2. Click "Run". Allow camera permissions.
+3. Test your gestures!
 
-Here are some more experiments you can try:
+## Experimentation & Semantic "Hacking"
+Now, challenge yourselves to change the meaning of the gestures. The technology is the same; the art is in the mapping.
 
-**Challenge 1: Create a Second Couple**
+Here are some suggestions:
 
+**Challenge 1: Change the Mood**
+Reassign the colors in the moods object. What if a thumbs down is red? What if a wave is a calming green?
 
-**Challenge 2: Different "Senses"**
+**Challenge 2: From Mood Ring to Instrument**
+Instead of changing color, make each gesture trigger a sound. (Code Hint: Use the p5.js sound library. Load sound files in preload() and trigger sound.play() inside `gotResults()` based on the class label.)
 
-
-
-**Challenge 3: Environmental Memory**
-
-
+**Challenge 3: Gestural Drawing Tool**
+Use gestures to change how you draw. (Code Hint: Move the `background()` command from `gotResults()` to `setup()` so it only runs once. In the draw() function, use the current class label to change the drawing style.)
+```
+function draw() {
+  if (mouseIsPressed) {
+    let currentMood = moods[currentLabel]; // You need to store the label in a global variable!
+    fill(currentMood.color);
+    ellipse(mouseX, mouseY, 20, 20);
+  }
+}
+```
 
 ## Discussion & Critique
 
-5. Critique & Discussion (10 mins)
+Agency & Control: Who was in control? You, or the model? Did it feel like a collaboration or a struggle?
+
+Bias: How did you have to change your natural gesture to make the model understand it? What does this say about the "expectations" baked into AI?
+
+Materiality: How did changing the meaning (the color/sound) of a gesture change how it felt to perform it?
+
+Error: What happened when the model misclassified your gesture? Were any of these "failures" interesting or poetically resonant?
+
+Future Applications: Imagine this not with a webcam, but with a camera in a public space. What are the ethical and expressive implications of gestural control in art?
+
 
 
