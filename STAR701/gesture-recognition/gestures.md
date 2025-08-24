@@ -12,7 +12,7 @@
 
 **Tools:** p5.js Web Editor, Webcam, [Teachable Machine](https://teachablemachine.withgoogle.com/)
 
-In the popular imagination, today's AI is thought of as something that replaces human creativity. We will take a differnt aproach. We'll treat AI as something to be exploited by artists. Basically or us,AI will be a veryvery trainable puppet that translates our physical movement into digital action. A gesture is one of our most fundamental forms of communication. We'll teach the computer to understand a small vocabulary of our own making.
+In the popular imagination, today's AI is thought of as something that replaces human creativity. We will take a differnet approach. We'll treat AI as something to be exploited by artists. Basically or us, AI will be a trainable puppet that translates our physical movement into digital action. A gesture is one of our most fundamental forms of communication. We'll teach the computer to understand a small vocabulary of our own making.
 
 **Learning Objectives:**
 - Understand the basic concept of classification in machine learning.
