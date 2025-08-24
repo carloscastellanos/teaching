@@ -8,7 +8,7 @@
 
 **Concept:**  We will move beyond the mouse and keyboard to use our bodies as an input device. By training a simple machine learning model, we will create interactive sketches that respond to hand gestures. This introduces AI not as a mysterious, complex technology, but as a pliable artistic material that can be shaped for expressive purposes.
 
-**Inspiration:** Artists/researchers like [Rebecca Fiebrink](https://researchers.arts.ac.uk/1594-rebecca-fiebrink) (creator of the [http://www.wekinator.org](Wekinator)) and [Lauren Lee McCarthy](https://get-lauren.net/).
+**Inspiration:** Artists/researchers like [Rebecca Fiebrink](https://researchers.arts.ac.uk/1594-rebecca-fiebrink) (creator of [http://www.wekinator.org](Wekinator) ) and [Lauren Lee McCarthy](https://get-lauren.net/).
 
 **Tools:** p5.js Web Editor, Webcam, [https://teachablemachine.withgoogle.com/](Teachable Machine)
 
