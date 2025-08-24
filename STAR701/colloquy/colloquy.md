@@ -333,8 +333,6 @@ Give an entity a simple memory. If the Seeker hasn't found the Beacon for 500 fr
 
 ## Discussion & Critique
 
-5. Critique & Discussion (10 mins)
-
 At what point did the system stop feeling like code you wrote and start feeling like a behavior you were observing?
 
 How did introducing a human participant (via webcam) change the dynamic? Did it feel like a conversation?
