@@ -153,7 +153,7 @@ function draw() {
 }
 ```
 
-**Key Code Explanations for the Class:**
+**Key Code Explanations:**
 - `preload()`: Loads the model before anything else runs.
 - `classifyVideo()` & `gotResults()`: This is the heartbeat. It asks the model "What do you see?" and then gets an answer asynchronously.
 - `confidence > 0.75`: This is a "confidence threshold." It prevents the sketch from flickering if the model is unsure. This is an important control parameter.
@@ -169,13 +169,13 @@ Now, challenge yourselves to change the meaning of the gestures. The technology 
 
 Here are some suggestions:
 
-**Challenge 1: Change the Mood**
+**Change the Mood**
 Reassign the colors in the moods object. What if a thumbs down is red? What if a wave is a calming green?
 
-**Challenge 2: From Mood Ring to Instrument**
+**From Mood Ring to Instrument**
 Instead of changing color, make each gesture trigger a sound. (Code Hint: Use the p5.js sound library. Load sound files in preload() and trigger sound.play() inside `gotResults()` based on the class label.)
 
-**Challenge 3: Gestural Drawing Tool**
+**Gestural Drawing Tool**
 Use gestures to change how you draw. (Code Hint: Move the `background()` command from `gotResults()` to `setup()` so it only runs once. In the draw() function, use the current class label to change the drawing style.)
 ```
 function draw() {
