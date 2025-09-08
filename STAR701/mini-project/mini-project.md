@@ -59,21 +59,24 @@ Crucially, you are welcome and encouraged to integrate materials and methods fro
 ## Deliverables
 Live in-class or in-studio Demo (5-7 minutes):
 
-- Introduce your experiment. What was your "what if" question? What materials and methods did you choose to explore it? Show us the prototype in action. Interesting failures and unexpected outcomes are as valuable as "successful" works.
+* Introduce your experiment. What was your "what if" question? What materials and methods did you choose to explore it? Show us the prototype in action. Interesting failures and unexpected outcomes are as valuable as "successful" works.
 
-- Peer Feedback/Discussion (2-3 mins): The class will provide structured feedback using the "I See, I Think, I Wonder" framework below.
+* Peer Feedback/Discussion (2-3 mins): The class will provide structured feedback using the "I See, I Think, I Wonder" framework below.
 
-- Process Documentation (submitted on myCourses):
+* Process Documentation (submitted on myCourses):
 
-- Title and Concept: A descriptive title and a concise artist's statement (approx. 100 words) framing your experiment.
+* Title and Concept: A descriptive title and a concise artist's statement (approx. 100 words) framing your experiment.
 
-- Documentation: Include at least two pieces of documentation. This could be:
-    A diagram of your system/process.
-    A short video (30 sec max) or animated GIF of the behavior.
-    Photos of the setup (especially if physical).
-    A key excerpt from your code or score.
+* Documentation: Include at least two pieces of documentation. This could be:
+    * A diagram of your system/process.
+    * A short video (30 sec max) or animated GIF of the behavior.
+    * Photos of the setup (especially if physical).
+    * A key excerpt from your code or score.
 
-- Reflection (~200 words): Briefly discuss your process. What did you discover through this experiment? How did the behavior of your chosen materials (digital or otherwise) align with or defy your expectations? What is one thing you would change or explore next?
+* Reflection (~200 words): Briefly discuss your process. What did you discover through this experiment? How did the behavior of your chosen materials (digital or otherwise) align with or defy your expectations? What is one thing you would change or explore next?
+
+
+
 
 Peer Feedback Framework
 During each demo, provide feedback to your peers using this structure:
