@@ -25,6 +25,9 @@ In the popular imagination, today's AI is thought of as something that replaces 
 - Create a new sketch.
 - Allow webcam access
 
+## Warm-up
+- Take a look at this example: [a rock/paper/scissors detector in p5.js](https://editor.p5js.org/golan/sketches/4UggchtU-)
+
 ## Step 1: Building Our Gestural Vocabulary
 1. Go to the [Teachable Machine](https://teachablemachine.withgoogle.com/) web site and spend a few minutes getting familiar with the site and the basic machine learning workflow. Likewise, spend some time on the [ml5](https://ml5js.org/) site, getting familar with their documentation.
 2. Create a New Project: Choose "Image Project".
