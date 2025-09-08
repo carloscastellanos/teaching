@@ -75,6 +75,7 @@ Live in-class or in-studio Demo (5-7 minutes):
 
 * Reflection (~200 words): Briefly discuss your process. What did you discover through this experiment? How did the behavior of your chosen materials (digital or otherwise) align with or defy your expectations? What is one thing you would change or explore next?
 
+##
 >[!NOTE]
 > **Suggestions for commenting on fellow students’ work**
 
