@@ -6,7 +6,7 @@
 
 # Gesture as Material
 
-**Concept:**  We will move beyond the mouse and keyboard to use our bodies as an input device. By training a simple machine learning model, we can create interactive sketches that respond to hand gestures. For today, we will create mood-based color fields controlled by hand gestures. This exercise introduces AI not as a mysterious, complex technology, but as a pliable artistic material that can be shaped for expressive purposes.
+**Concept:**  In this activity, we will move beyond the mouse and keyboard to use our bodies as an input device. By training a simple machine learning model, we can create interactive sketches that respond to hand gestures. For today, we will create mood-based color fields controlled by hand gestures. This exercise introduces AI not as a mysterious, complex technology, but as a pliable artistic material that can be shaped for expressive purposes.
 
 **Inspiration:** Artists/researchers like [Rebecca Fiebrink](https://researchers.arts.ac.uk/1594-rebecca-fiebrink) (creator of [http://www.wekinator.org](Wekinator)) and [Lauren Lee McCarthy](https://get-lauren.net/).
 
