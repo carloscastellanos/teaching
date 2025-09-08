@@ -170,13 +170,14 @@ Now, challenge yourselves to change the meaning of the gestures. The technology 
 Here are some suggestions:
 
 **Change the Mood**
-Reassign the colors in the moods object. What if a thumbs down is red? What if a wave is a calming green?
+- Reassign the colors in the moods object. What if a thumbs down is red? What if a wave is a calming green?
 
 **From Mood Ring to Instrument**
-Instead of changing color, make each gesture trigger a sound. (Code Hint: Use the p5.js sound library. Load sound files in preload() and trigger sound.play() inside `gotResults()` based on the class label.)
+- Instead of changing color, make each gesture trigger a sound. (Code Hint: Use the p5.js sound library. Load sound files in preload() and trigger sound.play() inside `gotResults()` based on the class label.)
 
 **Gestural Drawing Tool**
-Use gestures to change how you draw. (Code Hint: Move the `background()` command from `gotResults()` to `setup()` so it only runs once. In the draw() function, use the current class label to change the drawing style.)
+- Use gestures to change how you draw. (Code Hint: Move the `background()` command from `gotResults()` to `setup()` so it only runs once. In the draw() function, use the current class label to change the drawing style.)
+
 ```
 function draw() {
   if (mouseIsPressed) {
@@ -189,15 +190,15 @@ function draw() {
 
 ## Discussion & Critique
 
-Agency & Control: Who was in control? You, or the model? Did it feel like a collaboration or a struggle?
+_Agency & Control:_ Who was in control? You, or the model? Did it feel like a collaboration or a struggle?
 
-Bias: How did you have to change your natural gesture to make the model understand it? What does this say about the "expectations" baked into AI?
+_Bias:_ How did you have to change your natural gesture to make the model understand it? What does this say about the "expectations" baked into AI?
 
-Materiality: How did changing the meaning (the color/sound) of a gesture change how it felt to perform it?
+_Materiality:_ How did changing the meaning (the color/sound) of a gesture change how it felt to perform it?
 
-Error: What happened when the model misclassified your gesture? Were any of these "failures" interesting or poetically resonant?
+_Error:_ What happened when the model misclassified your gesture? Were any of these "failures" interesting or poetically resonant?
 
-Future Applications: Imagine this not with a webcam, but with a camera in a public space. What are the ethical and expressive implications of gestural control in art?
+_Future Applications:_ Imagine this not with a webcam, but with a camera in a public space. What are the ethical and expressive implications and possibilities of gestural control in art?
 
 
 
