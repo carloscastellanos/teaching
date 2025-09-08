@@ -23,7 +23,9 @@ Create a **_prototype_** that explores a specific behavior. Your project should 
 
 - What if a vase could be made so that is crumbles, collapses or decomposes over time (days, weeks)? What if you document that process?
 
-- What if I reimagine the clock so that it displays some alternative representation of time (e.g. [sidereal](https://en.wikipedia.org/wiki/Sidereal_time) or [ultradian](https://en.wikipedia.org/wiki/Ultradian_rhythm) time)?
+- What if I challenge the assumption that a drawing can be "finished". Can I make a living, evolving drawing?
+
+- What if I reimagine what a clock is? Can it display some alternative representation of time (e.g. [sidereal](https://en.wikipedia.org/wiki/Sidereal_time) or [ultradian](https://en.wikipedia.org/wiki/Ultradian_rhythm) time)?
 
 - What if a machine learning model interpreted my movements not as commands, but as suggestions for a poem?
 
