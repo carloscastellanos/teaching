@@ -33,7 +33,7 @@ Create a **_prototype_** that explores a specific behavior. Your project should 
 
 - What if my chair "spoke" to me when I sat on it?
 
-- What if I cultivated plants and/or bacteria so that my studio can have that distinct earthy smell, like after rainfall?
+- What if I cultivated plants and/or bacteria so that my studio can have that distinct earthy smell you get after a rainfall?
 
 - What if I treat code like a physical material - can I bend it, break it, or make it glitch in an interesting way?
 
