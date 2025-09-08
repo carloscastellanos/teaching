@@ -61,7 +61,7 @@ Live in-class or in-studio Demo (5-7 minutes):
 
 * Introduce your experiment. What was your "what if" question? What materials and methods did you choose to explore it? Show us the prototype in action. Interesting failures and unexpected outcomes are as valuable as "successful" works.
 
-* Peer Feedback/Discussion (2-3 mins): The class will provide structured feedback using the "I See, I Think, I Wonder" framework below.
+* Peer Feedback/Discussion (2-3 mins): The class will provide structured feedback (see below)
 
 * Process Documentation (submitted on myCourses):
 
@@ -75,14 +75,15 @@ Live in-class or in-studio Demo (5-7 minutes):
 
 * Reflection (~200 words): Briefly discuss your process. What did you discover through this experiment? How did the behavior of your chosen materials (digital or otherwise) align with or defy your expectations? What is one thing you would change or explore next?
 
+>[!NOTE]
+> **Suggestions for commenting on fellow students’ work**
 
+Supporting your classmates through feedback on their work is an important part of this course. When watching your classmates present their work, there will be time for verbal comments but you should also take written notes on their presentations and on their project/subject matter, etc. Offer suggestions on what they do well, what they could do differently, useful conceptual strategies and anything they could do to make their work better. Presenters themselves should also take notes during or immediately after their presentations. Share notes, code, ideas, etc; both during and outside of class. The atmosphere in the course should be one of creative collaboration and continual sharing of ideas and practical know-how.
 
+During each demonstration, I suggest providing feedback to your peers using this structure:
 
-Peer Feedback Framework
-During each demo, provide feedback to your peers using this structure:
+- **_Describe_** what you observed without judgment. e.g., "I see a projection that changes color every time a car passes outside," or "I see a program that writes a poem one letter at a time.")
 
-I See... (Describe what you observed without judgment. e.g., "I see a projection that changes color every time a car passes outside," or "I see a webpage that writes a poem one letter at a time.")
+- **_Interpret_** the potential meaning or effect. e.g., "I think the use of the light sensor connects the digital piece to the real world in a beautiful way," or "I think the slow reveal of the text creates a sense of anticipation.")
 
-I Think... (Interpret the potential meaning or effect. e.g., "I think the use of the light sensor connects the digital piece to the real world in a beautiful way," or "I think the slow reveal of the text creates a sense of anticipation.")
-
-I Wonder... (Pose a thoughtful question about the materials or behavior. e.g., "I wonder how the piece would behave in a different environment?" or "I wonder what would happen if the rules of the algorithm were more strict?" or "I wonder if this could be translated into a physical object?")
+- Pose a **_thoughtful question_** or suggestion about the materials or behavior. e.g., "I wonder how the piece would behave in a different environment?" or "I wonder what would happen if the rules of the algorithm were more strict?" or "I wonder if this could be translated into a physical object?")
