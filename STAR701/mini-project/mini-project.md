@@ -46,7 +46,7 @@ Your focus should be on the process and the behavior that emerges. What does you
 ## Technical & Conceptual Requirements
 Your prototype must demonstrate engagement with the ideas and themes of the course by thoughtfully incorporating at least one of the following avenues of inquiry:
 
-- :diamonds:**Computational Processes:** Using software (e.g., p5.js, ML models) to create generative, time-based, or interactive behaviors. _What are the behaviors of code?_
+:small_blue_diamond:**Computational Processes:** Using software (e.g., p5.js, ML models) to create generative, time-based, or interactive behaviors. _What are the behaviors of code?_
 
 - **Physical & Material Interactions:** Using electronics (e.g., Arduino, sensors, motors) to translate physical actions into digital events, or vice versa. This includes using non-digital materials (e.g., paper, wood, glass, leaves, soil) as integral, responsive components of the system. _How can a physical material mediate or be transformed by a computational process?_
 
