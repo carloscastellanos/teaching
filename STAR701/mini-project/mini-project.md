@@ -39,8 +39,6 @@ Create a **_prototype_** that explores a specific behavior. Your project should 
 
 - What if I treat code like a physical material - can I bend it, break it, or make it glitch in an interesting way?
 
-- What if an Arduino and a simple motor could create a performance that evokes Cage's indeterminacy?
-
 Your focus should be on the process and the behavior that emerges. What does your system do? How does it react, change, or surprise you?
 
 ## Technical & Conceptual Requirements
