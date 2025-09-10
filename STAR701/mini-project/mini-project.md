@@ -29,11 +29,13 @@ Create a **_prototype_** that explores a specific behavior. Your project should 
 
 - What if a machine learning model interpreted my movements not as commands, but as suggestions for a poem?
 
-- What if I made a video where each frame was randomly pulled from a database?
+- What if the pages of a book reacted to sunlight, slowly changing color over time?
 
 - What if a pillow told me bedtime stories when I laid my head down on it?
 
 - What if my chair "spoke" to me when I sat on it?
+
+- What if I used drops of water to create an animation?
 
 - What if I cultivated plants and/or bacteria so that my studio can have that distinct earthy smell you get after a rainfall?
 
