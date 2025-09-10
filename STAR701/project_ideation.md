@@ -14,4 +14,5 @@ It is not unusual to have trouble or to become stuck while trying to choose an i
 8. Remember that ideas can be rendered at any scale. You may have a big idea that can’t be done within the context of a 15-week course or is too expensive to make etc. But even a big idea can be isolated down to an elegant small example. If you a great idea that seems intimidating or unmanageable ask yourself what is the core element of this idea that could tested first as a proof of concept?
 9. Look for the rules and metrics: how are you going to evaluate whether the idea fits the need? Often defining the rubric is harder than generating the idea itself.
 10. How would you explain your idea to someone completely outside your discipline, peer group, etc (e.g. your grandmother)? This should help you recognize the unspoken assumptions built into your system or idea and help you adjust.
-Portions of this list have been inspired by from artist Paula Levine and engineer Garth Zeglin.
+
+Portions of this list have been inspired by from artist [Paula Levine](http://paulalevine.net/) and engineer [Garth Zeglin](https://www.cs.cmu.edu/~garthz/).
