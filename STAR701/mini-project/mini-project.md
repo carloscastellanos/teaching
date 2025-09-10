@@ -62,6 +62,7 @@ You are welcome and encouraged to integrate methods and materials from your own 
 
 Use your experiment to deepen your concept of "behavior". Reflect on the behavior of a material (e.g., how paint drips, how paper curls when wet) or an environment (e.g., how light changes throughout the day). This is just as rich a subject for artistic inquiry as the behavior of an algorithm or a technological system.
 
+If you are having trouble coming up with ideas foryour project, consider reading my [Project Ideation Guide](https://github.com/carloscastellanos/teaching/blob/master/STAR701/project_ideation.md)
 
 ## Deliverables
 ### Live in-class or in-studio demonstration (5-7 minutes):
