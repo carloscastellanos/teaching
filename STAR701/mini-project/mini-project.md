@@ -66,7 +66,7 @@ You are welcome and encouraged to integrate methods and materials from your own 
 
 ### Submitted to myCourses:
 
-* Title and Concept: A descriptive title and a concise artist's statement (approx. 100 words) framing your experiment.
+* Title and Concept: A descriptive title and a concise artist statement (approx. 100 words) framing your experiment.
 
 * Documentation: Include at least two pieces of documentation. This could be:
     * A diagram of your system/process.
