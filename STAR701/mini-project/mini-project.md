@@ -14,7 +14,7 @@ Value: 20% of Final Grade
 ## Objective
 This mid-term mini-project is an opportunity to synthesize the techniques and concepts we've explored so far through a process of open-ended play and material experimentation. The goal is to create a small-scale prototype that investigates a behavior of some kind - whether of a system, a material, an algorithm, an audience, or some combination thereof.
 
-We have been exposed to a wide range of ideas: from Fluxus event scores and the chance operations of John Cage, to the feedback systems of cybernetics, the responsiveness of interactive art, and the new materials and techniques of creative coding, sensors, mirocontrollers and machine learning. This project is your chance to bring one or more of these ideas into conversation with your own artistic interests. Consider this an opportunity to take risks with your art. The primary goal is thoughtful inquiry and. reative process, not a polished final product.
+We have been exposed to a wide range of ideas: from Fluxus event scores and the chance operations of John Cage, to the feedback systems of cybernetics, the responsiveness of interactive art, and the new materials and techniques of creative coding, sensors, mirocontrollers and machine learning. This project is your chance to bring one or more of these ideas into conversation with your own artistic interests. Consider this an opportunity to take risks with your art. The primary goal is thoughtful inquiry and creative process, not a polished final product.
 
 ## An Experiment in Behavior
 Create a **_prototype_** that explores a specific behavior. Your project should be a focused experiment - nothing too large or complicated, but you should try to create something expands, augments, questions, analyzes, undermines or otherwise complicates some traditional notion or assumption about art, technology or society. For example: Why does drawing have to be a solo activiuty (as it is traditionally conceived)? You may try asking some kind of "what if" question. Below are a few examples:
@@ -44,22 +44,21 @@ Create a **_prototype_** that explores a specific behavior. Your project should 
 Your focus should be on the process and the behavior that emerges. What does your system do? How does it react, change, or surprise you?
 
 ## Technical & Conceptual Requirements
-Your prototype must demonstrate engagement with the course by thoughtfully incorporating at least **_one_** of the following:
+Your prototype must demonstrate engagement with the course by thoughtfully incorporating at least one of the following avenues of inquiry:
 
-- A computational process (e.g., using p5.js to create generative, time-based, or interactive visuals/sound/behaviors.
+- **Computational Processes:** Using software (e.g., p5.js, ML models) to create generative, time-based, or interactive behaviors. _What are the behaviors of code?_
 
-- A physical interaction (e.g., using Arduino with a sensor to translate a physical action into a digital event, or vice versa).
+- **Physical & Material Interactions:** Using electronics (e.g., Arduino, sensors, motors) to translate physical actions into digital events, or vice versa. This includes using non-digital materials (e.g., paper, wood, glass, leaves, soil) as integral, responsive components of the system. _How can a physical material mediate or be transformed by a computational process?_
 
-- An element of chance or system-based rules (e.g., using random seeds, conditional statements, or algorithms to dictate form).
+- **Environmental Processes:** Designing systems that interact with or are affected by their environment. This could include using sensors to respond to light, sound, temperature, or movement in the space, or creating work that incorporates natural processes like growth, decay, or atmospheric change. _How does an artwork exist not as an object, but as a situation or process within an environment?_
 
-- A conceptual framework (e.g., creating a score or set of instructions that governs the piece, inspired by Fluxus or Cage).
+- **Conceptual & Rule-Based Systems:** Using scores, instructions, or algorithms (inspired by Fluxus or Cage) to dictate the form, process, or performance of the piece. The system itself is the material. _What kinds of behaviors or conceptual provocations are possible from simple instructions or sets of rules?_
 
-- An unconventional use of conventional art matierals (e.g. paint, wood, resin, etc) or use of unconvnentional art materials (leaves, soil, vacuum tubes, etc), manipulated so that they exhbit novel and/or unepxpected **_behaviors_**
+You are welcome and encouraged to integrate methods and materials from your own existing practice. The goal is to conduct a genuine experiment, using one of these avenues to ask new questions of your work, to see your familiar materials in a new light, and to look at technology with fresh eyes.
 
-Crucially, you are welcome and encouraged to integrate materials and methods from your own existing practice (e.g., painting, furniture, glass, etc.) as a primary component, using the computational elements as a new tool to interrogate it.
 
 ## Deliverables
-Live in-class or in-studio Demo (5-7 minutes):
+Live in-class or in-studio demonstration (5-7 minutes):
 
 * Introduce your experiment. What was your "what if" question? What materials and methods did you choose to explore it? Show us the prototype in action. Interesting failures and unexpected outcomes are as valuable as "successful" works.
 
@@ -71,9 +70,9 @@ Live in-class or in-studio Demo (5-7 minutes):
 
 * Documentation: Include at least two pieces of documentation. This could be:
     * A diagram of your system/process.
-    * A short video (30 sec max) or animated GIF of the behavior.
+    * A short video (30 sec max) of the behavior or process.
     * Photos of the setup (especially if physical).
-    * A key excerpt from your code or score.
+    * A key excerpt from your code or score (if applicable).
 
 * Reflection (~200 words): Briefly discuss your process. What did you discover through this experiment? How did the behavior of your chosen materials (digital or otherwise) align with or defy your expectations? What is one thing you would change or explore next?
 
