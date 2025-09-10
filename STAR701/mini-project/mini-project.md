@@ -46,13 +46,13 @@ Your focus should be on the process and the behavior that emerges. What does you
 ## Technical & Conceptual Requirements
 Your prototype must demonstrate engagement with the ideas and themes of the course by thoughtfully incorporating at least one of the following avenues of inquiry:
 
-:small_blue_diamond:**Computational Processes:** Using software (e.g., p5.js, ML models) to create generative, time-based, or interactive behaviors. _What are the behaviors of code?_
+- :small_blue_diamond:**Computational Processes:** Using software (e.g., p5.js, ML models) to create generative, time-based, or interactive behaviors. _What are the behaviors of code?_
 
-- **Physical & Material Interactions:** Using electronics (e.g., Arduino, sensors, motors) to translate physical actions into digital events, or vice versa. This includes using non-digital materials (e.g., paper, wood, glass, leaves, soil) as integral, responsive components of the system. _How can a physical material mediate or be transformed by a computational process?_
+- :small_blue_diamond:**Physical & Material Interactions:** Using electronics (e.g., Arduino, sensors, motors) to translate physical actions into digital events, or vice versa. This includes using non-digital materials (e.g., paper, wood, glass, leaves, soil) as integral, responsive components of the system. _How can a physical material mediate or be transformed by a computational process?_
 
-- **Environmental Processes:** Designing systems that interact with or are affected by their environment. This could include using sensors to respond to light, sound, temperature, or movement in the space, or creating work that incorporates natural processes like growth, decay, or atmospheric change. _How does an artwork exist not as an object, but as a situation or process within an environment?_
+- :small_blue_diamond:**Environmental Processes:** Designing systems that interact with or are affected by their environment. This could include using sensors to respond to light, sound, temperature, or movement in the space, or creating work that incorporates natural processes like growth, decay, or atmospheric change. _How does an artwork exist not as an object, but as a situation or process within an environment?_
 
-- **Conceptual & Rule-Based Systems:** Using scores, instructions, or algorithms (inspired by Fluxus or Cage) to dictate the form, process, or performance of the piece. The system itself is the material. _What kinds of behaviors or conceptual provocations are possible from simple instructions or sets of rules?_
+- :small_blue_diamond:**Conceptual & Rule-Based Systems:** Using scores, instructions, or algorithms (inspired by Fluxus or Cage) to dictate the form, process, or performance of the piece. The system itself is the material. _What kinds of behaviors or conceptual provocations are possible from simple instructions or sets of rules?_
 
 You are welcome and encouraged to integrate methods and materials from your own existing practice. The goal is to conduct a genuine experiment, using one of these avenues to ask new questions of your work, to see your familiar materials in a new light, and to look at technology with fresh eyes.
 
