@@ -102,7 +102,7 @@ function draw() {
 ```
 
 ## Step 3: Run the sketch
-Run the sketch and observe. Consider altering the entites' properties (e.g. signalStrength of entity A; speed: or perception: of entity B).
+Run the sketch and observe. Consider altering the entites' properties (e.g. signalStrength of entity A; speed: or perception of entity B).
 
 ## Periodic Movement for the Beacon (Entity A)
 Now let's make some changes to make the system more dynamic (and perhaps closer to Pask's concept of active, communicative entities). We can give Entity A (The Beacon) its own agency by periodically changing its location. Here is one simple approach.
@@ -152,6 +152,16 @@ function draw() {
   // calculate distance
   let d = dist(entityA.x, entityA.y, entityB.x, entityB.y);
 
+  // Periodically move the beacon
+  if (millis() - lastMoveTime > moveInterval) {
+    entityA.x = random(width);
+    entityA.y = random(height);
+    lastMoveTime = millis();
+    
+    // Optional: Make the move interval slightly variable for more organic behavior
+    moveInterval = random(2000, 4000);
+  }
+
   // --- ENTITY A BEHAVIOR (NOW AFFECTED BY EXTERNAL WORLD) ---
   // The beacon's signal is a combination of Seeker proximity AND external light
   let proximityFactor = map(d, 0, width/2, 255, 50);
@@ -196,7 +206,7 @@ Here is the full code:
 let entityA, entityB; // Our two cybernetic entities
 let video;
 let beaconState = "idle"; // States: idle, fleeing, curious
-let stateChangeTime = 0;
+let lastMoveTime = 0;
 const moveInterval = 3000;
 
 function setup() {
@@ -208,6 +218,7 @@ function setup() {
   video.hide();
 
   // Initialize our two entities with properties.
+  // beacon
   entityA = {
     x: random(width),
     y: random(height),
@@ -216,6 +227,7 @@ function setup() {
     signalStrength: 0
   };
 
+  // seeker
   entityB = {
     x: random(width),
     y: random(height),
@@ -245,7 +257,7 @@ function draw() {
   let d = dist(entityA.x, entityA.y, entityB.x, entityB.y);
   
   // Beacon behavior state machine
-  if (millis() - stateChangeTime > moveInterval) { // Change state every [moveInterval] seconds
+  if (millis() - lastMoveTime > moveInterval) { // Change state every [moveInterval] seconds
     let r = random();
     if (r < 0.3) {
       beaconState = "idle";
