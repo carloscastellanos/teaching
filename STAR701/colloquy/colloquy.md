@@ -187,8 +187,7 @@ function draw() {
 }
 ```
 
-##
-Introduce Behavior-Based Movement for the Beacon (A More Complete Paskian System)
+## Introduce Behavior-Based Movement for the Beacon (A More Complete Paskian System)
 Make the beacon's movement responsive to the seeker's behavior. This now combines environmental/human sensing with awareness of the seeker. The beacon now has a kind of personality via its behavioral states.
 
 Here is the full code:
