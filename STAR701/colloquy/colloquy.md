@@ -197,6 +197,7 @@ let entityA, entityB; // Our two cybernetic entities
 let video;
 let beaconState = "idle"; // States: idle, fleeing, curious
 let stateChangeTime = 0;
+const moveInterval = 3000;
 
 function setup() {
   createCanvas(640, 480);
@@ -244,7 +245,7 @@ function draw() {
   let d = dist(entityA.x, entityA.y, entityB.x, entityB.y);
   
   // Beacon behavior state machine
-  if (millis() - stateChangeTime > 3000) { // Change state every 3 seconds
+  if (millis() - stateChangeTime > moveInterval) { // Change state every [moveInterval] seconds
     let r = random();
     if (r < 0.3) {
       beaconState = "idle";
