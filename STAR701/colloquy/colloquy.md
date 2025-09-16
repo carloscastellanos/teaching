@@ -266,7 +266,10 @@ function draw() {
     } else {
       beaconState = "fleeing";
     }
-    stateChangeTime = millis();
+    lastMoveTime = millis();
+
+    // Optional: Make the move interval slightly variable for more organic behavior
+    // moveInterval = random(2000, 4000);
   }
   
     // Act according to state
