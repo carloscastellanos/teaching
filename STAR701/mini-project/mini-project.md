@@ -50,7 +50,7 @@ Your prototype must demonstrate engagement with the ideas and themes of the cour
 
     - **Electronic Interactions:** Using electronics (e.g., Arduino, sensors, motors) to translate physical actions into digital events, or vice versa. This includes using non-digital/non-electronic materials (e.g., paper, wood, glass, leaves, soil) as integral, responsive components of a system. _How can a physical material mediate or be transformed by a computational process?_
 
-    - **Material Interactions:** Utilizing the inherent properties of materials themselves to generate form, movement, or change. This could involve mechanisms, chemical processes, fluid dynamics, tension, gravity, wind, or light. How does the behavior of a material (e.g., ice melting, crystal growth) become the content of the work?
+    - **Material Interactions:** Utilizing the inherent properties of materials themselves to generate form, movement, or change. This could involve mechanisms, chemical processes, fluid dynamics, tension, gravity, wind, or light. _How does the behavior of a material (e.g., ice melting, crystal growth) become the content of the work?_
 
 - :small_blue_diamond: **Environmental Processes:** Designing systems that interact with or are affected by their environment. This could include using sensors to respond to light, sound, temperature, or movement in the space, or creating work that incorporates natural processes like growth, decay, or atmospheric change. _How does an artwork exist not as an object, but as a situation or process within an environment?_
 
