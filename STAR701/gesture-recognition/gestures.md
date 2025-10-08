@@ -152,7 +152,7 @@ function drawEmoji(gestureEmoji, x, y) {
 // 10. Keep the draw function empty; everything is event-driven
 function draw() {
   // We don't need a draw loop for this simple example,
-  // but we can add other persistent animations here later.
+  // but we can add other persistent graphics or animations here later.
 }
 ```
 
