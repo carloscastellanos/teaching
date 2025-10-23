@@ -158,7 +158,7 @@ function draw() {
   // We don't need a draw loop for this simple example,
   // but we can add other persistent graphics or animations here later.
 
-  // or you can add the live video so you can see yourself
+  // or you can optionally add the live video so you can see yourself
   image(video, 700, 500, 80, 60);
 }
 ```
