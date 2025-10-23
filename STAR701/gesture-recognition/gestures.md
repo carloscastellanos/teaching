@@ -95,13 +95,15 @@ const moods = {
 
 // 2. Preload the model
 function preload() {
-  classifier = ml5.imageClassifier(modelURL);
+  classifier = ml5.imageClassifier(modelURL + "model.json", {
+    flipped: true,
+  });
 }
 
 // 3. Setup the canvas and webcam
 function setup() {
   createCanvas(800, 600);
-  video = createCapture(VIDEO);
+  video = createCapture(VIDEO, { flipped: true });
   video.size(400, 300); // Smaller for better performance
   video.hide(); // Hide the extra video element
   classifyVideo(); // Start the classification loop!
@@ -113,7 +115,12 @@ function classifyVideo() {
 }
 
 // 5. What to do when we get a result back from the model
-function gotResults(results) {
+function gotResults(results, error) {
+  if (error) {
+    console.error(error);
+    return;
+  }
+
   console.log(results);
   
   // Get the top prediction (label & confidence)
@@ -150,6 +157,9 @@ function drawEmoji(gestureEmoji, x, y) {
 function draw() {
   // We don't need a draw loop for this simple example,
   // but we can add other persistent graphics or animations here later.
+
+  // or you can add the live video so you can see yourself
+  image(video, 700, 500, 80, 60);
 }
 ```
 
