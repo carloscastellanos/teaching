@@ -113,11 +113,8 @@ function classifyVideo() {
 }
 
 // 5. What to do when we get a result back from the model
-function gotResults(error, results) {
-  if (error) {
-    console.error(error);
-    return;
-  }
+function gotResults(results) {
+  console.log(results);
   
   // Get the top prediction (label & confidence)
   let label = results[0].label;
@@ -135,7 +132,7 @@ function gotResults(error, results) {
     // 8. Display the confidence level
     fill(255);
     textSize(24);
-    text(`Gesture: ${label} (${nf(confidence, 0, 2)})`, 20, 40);
+    text(`Gesture: ${label} (${nf(confidence, 0, 2)})`, 140, 40);
   }
   
   // Call this function again to create a continuous loop
