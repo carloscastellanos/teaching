@@ -68,3 +68,16 @@ We will use this as our basic structure.
 - Anchor/Link: `<a>` (e.g. `<a href="http://example.com">Link Text</a>`)
 
 - Division (a container): `<div>` (e.g. `<div>anything</div>`)
+
+6. Now create a simple page. Make it a portfolio page, showing your work. Include the following
+
+A few headings (for your name, project titles, etc)
+
+A paragraph about each work.
+
+An image for each work (you can grab images form the web to use as place holders for now).
+
+A link to your web site or that of a favorite artist.
+
+Save the file and open it in a browser to see the results.
+
