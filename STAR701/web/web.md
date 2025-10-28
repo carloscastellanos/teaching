@@ -59,12 +59,12 @@ We will use this as our basic structure.
 
 5. Now, let's add more content. Here are some common tags:
 
-Headings: `<h1>` to `<h6>` (e.g. `<h1> This is Heading 1</h1>`)
+- Headings: `<h1>` to `<h6>` (e.g. `<h1> This is Heading 1</h1>`)
 
-Paragraph: `<p>` (e.g. `<p>This is a paragraph</p>`)
+- Paragraph: `<p>` (e.g. `<p>This is a paragraph</p>`)
 
-Image: `<img>` (e.g. `<img src="image.jpg" alt="description" />`)
+- Image: `<img>` (e.g. `<img src="image.jpg" alt="description" />`)
 
-Anchor/Link: `<a>` (e.g. `<a href="http://example.com">Link Text</a>`)
+- Anchor/Link: `<a>` (e.g. `<a href="http://example.com">Link Text</a>`)
 
-Division (a container): `<div>` (e.g. `<div>anything</div>`)
+- Division (a container): `<div>` (e.g. `<div>anything</div>`)
