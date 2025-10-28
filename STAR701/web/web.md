@@ -47,15 +47,15 @@ We will use this as our basic structure.
 
 4. Explanation of each part:
 
-`<!DOCTYPE html>`: Tells the browser this is an HTML5 document.
+- `<!DOCTYPE html>`: Tells the browser this is an HTML5 document.
 
-`<html>`: The root element.
+- `<html>`: The root element.
 
-`<head>`: Contains meta information (e.g. title, description) links to CSS, javascript files, etc.
+- `<head>`: Contains meta information (e.g. title, description) links to CSS, javascript files, etc.
 
-`<title>`: The title of the page (appears in the browser tab).
+- `<title>`: The title of the page (appears in the browser tab).
 
-`<body>`: The visible part of the page.
+- `<body>`: The visible part of the page.
 
 5. Now, let's add more content. Here are some common tags:
 
