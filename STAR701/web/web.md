@@ -8,7 +8,7 @@
 
 ## Why Should Artists Care About Web Coding?
 
-Think of a webpage not as a technical document, but (like we did with machine learning) a malleable medum or canvas).
+Think of a webpage not as a technical document, but (like we did with machine learning) a malleable medum or canvas.
 
 Artist Examples:
 
@@ -21,7 +21,7 @@ Tools: A web browser (Safari, Chrome, Firefox) and a text editor (like VS Code, 
 
 Approach: We'll start by explaining that every website is made of two fundamental languages: HTML (the structure) and CSS (the style). We'll use the analogy of a house: HTML is the walls and rooms, CSS is the paint and furniture.
 
-There are three parts:
+There are three parts to this activity:
 Part 1: HTML - Building the Structure
 Part 2: CSS - Styling the Page
 Part 3: Experimentation and Play
@@ -206,4 +206,24 @@ Feel free to experiment with different properties (color, font-size, margin, pad
 
 ## PART III: Experimentation & Play
 
+- Now, try to change the styles and see what happens.
 
+- Challenge: Can you change the font to something from Google Fonts? Here is an example:
+
+    - Go to [Google Fonts](https://fonts.google.com)
+    - Pick a font (e.g., "Roboto")
+    - Click "Get font" (top right button)
+    - Click "Get embed code"
+    - Add the link in the `<head>`:
+
+```
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+```
+
+- Challenge: Can you take the CSS currently in your <style> tag and put it in an exernal .css file nad load that into your HTML page?
+
+## Resources
+- [W3 Schools](https://www.w3schools.com/)
+- [GitHub Pages](https://docs.github.com/en/pages) (free web hosting)
