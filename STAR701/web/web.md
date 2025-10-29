@@ -6,7 +6,15 @@
 
 # The Web as a Canvas: An Introduction to HTML & CSS
 
-The goal of this activity is to introduce you to web coding (HTML and CSS) in a way that is accessible, creative, and immediately rewarding.
+## Why Should Artists Care About Web Coding?
+
+Think of a webpage not as a technical document, but (like we did with machine learning) a malleable medum or canvas).
+
+Artist Examples:
+
+- [Rafaël Rozendaal](https://www.newrafael.com/internet/)
+- [Jodi.org](https://wwwwwwwww.jodi.org/)
+- [Lisa Jevbratt](https://jevbratt.com/)
 
 
 Tools: A web browser (Safari, Chrome, Firefox) and a text editor (like VS Code, Sublime Text, or even a simple one like TextEdit or Notepad). We'll use the browser's developer tools for live experimentation.
@@ -188,8 +196,14 @@ p.highlight {
 
 <p class="highlight">This is a highlighted paragraph.</p>
 
-
 ```
 
 >[!NOTE]
 > **An id name cannot start with a number!**
+
+Feel free to experiment with different properties (color, font-size, margin, padding, border, etc.)
+
+
+## PART III: Experimentation & Play
+
+
