@@ -149,7 +149,7 @@ p {
 }
 ```
 
-5.
+5. Now, let's style the image(s) to be centered and have a border:
 ```
 img {
     display: block;
@@ -160,7 +160,7 @@ img {
 
 ```
 
-**<ins>CSS Classes & IDs</ins**
+**<ins>CSS Classes & IDs</ins>**
 
 Up to this point we have been using CSS **element** selectors, which select HTML elements (tags). Now let's look at **class** and **ID** selectors.
 
