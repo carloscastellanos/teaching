@@ -222,7 +222,7 @@ Feel free to experiment with different properties (color, font-size, margin, pad
 <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 ```
 
-- Challenge: Can you take the CSS currently in your <style> tag and put it in an exernal .css file nad load that into your HTML page?
+- Challenge: Can you take the CSS currently in your <style> tag and put it in an external .css file and load that into your HTML page?
 
 ## Resources
 - [W3 Schools](https://www.w3schools.com/)
