@@ -86,7 +86,7 @@ We will use this as our basic structure.
 - Save the file and open it in a browser to see the results.
 
 
-#PART II: CSS
+## PART II: CSS
 
 **__Introduction__**
 
