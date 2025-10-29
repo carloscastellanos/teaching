@@ -149,15 +149,26 @@ p {
 }
 ```
 
-5. CSS Classes & IDs
+5.
+```
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid black;
+}
 
-Up until now, we have been using CSS **element** selectors, which select HTML elements (tags). Now let's look at **class** and **ID** selectors.
+```
+
+**<ins>CSS Classes & IDs</ins**
+
+Up to this point we have been using CSS **element** selectors, which select HTML elements (tags). Now let's look at **class** and **ID** selectors.
 
 - Class: for multiple elements, denoted by a dot (.) in CSS.
 
 - ID: for a unique element (only one per html page), denoted by a hash (#) in CSS.
 
-Add the following to your ``style`` tag:
+6. Add the following to your ``<style>`` tag:
 
 ```
 .highlight {
@@ -170,12 +181,14 @@ p.highlight {
 }
 ```
 
-Now in the HTML, add the class to a header and a paragraph:
+7. Now in the HTML, add the `highlight` class to a header and a paragraph:
 
 ```
 <h1 class="highlight">This is a highlighted header.</h1>
 
 <p class="highlight">This is a highlighted paragraph.</p>
+
+
 ```
 
 >[!NOTE]
