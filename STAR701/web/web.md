@@ -22,9 +22,9 @@ Tools: A web browser (Safari, Chrome, Firefox) and a text editor (like VS Code, 
 Approach: We'll start by explaining that every website is made of two fundamental languages: HTML (the structure) and CSS (the style). We'll use the analogy of a house: HTML is the walls and rooms, CSS is the paint and furniture.
 
 There are three parts to this activity:
-Part 1: HTML - Building the Structure
-Part 2: CSS - Styling the Page
-Part 3: Experimentation and Play
+- Part 1: HTML - Building the Structure
+- Part 2: CSS - Styling the Page
+- Part 3: Experimentation and Play
 
 
 ## PART I: HTML
