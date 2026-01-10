@@ -54,13 +54,14 @@ Wire a photocell to Analog Input 0 on your Arduino microcontroller. Refer to the
 Upload this Arduino code to your microcontroller and open the Serial Monitor.
 
 ```
+// read values at A0 and smooth them with a smoothing (low-pass) filter
 const int sensorPin = A0;
 
 int rawValue = 0;
 int smoothValue = 0;
 int lastSmoothValue = 0;
 
-float alpha = 0.1; // smoothing factor
+float weight = 0.1; // smoothing factor (0.0 - 1.0)
 
 void setup() {
   Serial.begin(9600);
@@ -70,7 +71,7 @@ void loop() {
   rawValue = analogRead(sensorPin);
 
   // Exponential smoothing
-  smoothValue = alpha * rawValue + (1 - alpha) * smoothValue;
+  smoothValue = weight * rawValue + (1 - weight) * smoothValue;
 
   int delta = smoothValue - lastSmoothValue;
 
@@ -84,8 +85,21 @@ void loop() {
 
 ```
 
+## Step 4: Sensor Analysis: Detecting Rising & Falling Values
 
-## Step 6: Wrap-Up and Q&A
+`delta` value:
+- Positive delta → light increasing
+- Negative delta → light decreasing
+
+Try this:
+- Cover the sensor slowly
+- Shine a phone flashlight quickly
+- Observe how the delta reacts
+
+We can see not just wherr the sensor is but where it's going.
+
+
+## Step 9: Wrap-Up and Q&A
 - Technical questions
 - [AR.js Documentation](https://ar-js-org.github.io/AR.js-Docs)
 - [A-Frame Documentation](https://aframe.io)
