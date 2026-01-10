@@ -14,7 +14,7 @@ We will build a simple interface using Processing, Arduino and a single photocel
 - Rising light (e.g. shine a flashlight over the photocell) makes lanterns surge upward and pulse.
 - Falling light (cover the sensor) makes them sink and cool down.
 - Sudden changes in light create ripples
-- Subtle noise keeps things organic.
+- Subtle randomness and pulsing keeps things organic.
 
 ## Learning Objectives
 - What “analog” really means with regard to sensors
@@ -226,6 +226,7 @@ Experiment with ways to extend or alter this app. Challenge yourself to push thi
 - Replace the photocell with another analog sensor
 - Use a second sensor to control wind direction.
 - Record sensor data and replay it like a visual memory.
+- Instead of lanterns use the `noise()` function to create a shifting cloud pattern that changes in reposnse to light. [example](https://github.com/carloscastellanos/teaching/tree/master/Processing/Noise/CloudPatterns))
 
 ## Step 9: Wrap-Up and Q&A
 
