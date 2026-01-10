@@ -23,14 +23,6 @@ We will build a simple interface using and Processing, Arduino and a single phot
 - How sensor behavior can drive expressive visuals in Processing
 - How to think in terms of interaction and behavior, not just input/output or numbers
 
-## Agenda
-1. Introduction to AR.js and A-Frame
-2. Setting Up the Development Environment
-3. Building a Simple AR Scene
-4. Adding Interactivity and Custom Features
-5. Testing and Troubleshooting
-6. Wrap-Up and Q&A
-
 ---
 
 >[!NOTE]
@@ -57,6 +49,7 @@ Wire a photocell to Analog Input 0 on your Arduino microcontroller. Refer to the
 
 ![Photocell breadboard layout](img/Screenshot-photocell.png) ![Photocell scematic](img/photocell_schem.png) 
 
+## Step 23: Reading Analog Values from Photocell
 
 
 ## Step 6: Wrap-Up and Q&A
