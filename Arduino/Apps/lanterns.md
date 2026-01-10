@@ -87,7 +87,7 @@ void loop() {
 
 ## Step 4: Sensor Analysis: Detecting Rising & Falling Values
 
-`delta` value:
+Observe the Serial Monitor, specifically the `delta` value:
 - Positive delta → light increasing
 - Negative delta → light decreasing
 
@@ -96,7 +96,7 @@ Try this:
 - Shine a phone flashlight quickly
 - Observe how the delta reacts
 
-We can see not just wherr the sensor is but where it's going.
+We can see not just where the sensor is but where it's going.
 
 
 ## Step 9: Wrap-Up and Q&A
