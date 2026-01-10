@@ -88,7 +88,7 @@ void loop() {
 
 ## Step 4: Sensor Analysis: Detecting Rising & Falling Values
 
-Observe the Serial Monitor, specifically the `delta` value:
+Observe the Serial Monitor (click magnifying class icon in upper right), specifically the `delta` value:
 - Positive delta → light increasing
 - Negative delta → light decreasing
 
@@ -196,17 +196,25 @@ class Lantern {
 Observe and interact with your lanterns. You can try:
 
 1. Slow vs Fast Light
-- What changes more: glow or motion?
+-- What changes more: glow or motion?
 
 2. Hand Shadows
-- Can you “breathe” with the system?
+-- Can you “breathe” with the system?
 
 3. Sharp Spikes
-- What does a sudden or erratic delta feel like visually?
+-- What does a sudden or erratic delta feel like visually?
 
 4. Different Data Mappings
-- How does the behavior of the lanterns change if you alter the data mappings (i.e. ranges for glow or lift)
+-- How does the behavior of the lanterns change if you alter the data mappings (i.e. ranges for `glow` or `lift`)
 
+
+## Step 7: Discussion
+
+- What kind of behaviors feel expressive?
+- Is absolute brightness or change more important?
+- How would this differ with a potentiometer? A force sensor?
+
+Try to think less in terms of sensors as simply measureing the environment and more in terms of interpretation through constraints.
 
 ## Step 9: Wrap-Up and Q&A
 - Technical questions
