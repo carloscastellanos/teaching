@@ -49,7 +49,7 @@ Wire a photocell to Analog Input 0 on your Arduino microcontroller. Refer to the
 
 ![Photocell breadboard layout](img/Screenshot-photocell.png) ![Photocell scematic](img/photocell_schem.png) 
 
-## Step 3: Reading Analog Values from Photocell
+## Step 3: Reading Analog Values from a Photocell
 
 Upload this Arduino code to your microcontroller and open the Serial Monitor.
 
@@ -70,19 +70,20 @@ void setup() {
 void loop() {
   rawValue = analogRead(sensorPin);
 
-  // Exponential smoothing
-  smoothValue = weight * rawValue + (1 - weight) * smoothValue;
+  // smoothing the sensor values with a weighted average (low-pass) filter
+  smoothValue = weight * rawValue + (1 - weight) * lastSmoothValue;
 
+  // value holds rising or falling info
   int delta = smoothValue - lastSmoothValue;
 
+  // send data over the serial port
   Serial.print(smoothValue);
   Serial.print(",");
   Serial.println(delta);
 
-  lastSmoothValue = smoothValue;
-  delay(30);
+  lastSmoothValue = smoothValue; // update the variale holding the previous sensor value
+  delay(2); // slight delay to not overoad the serial port
 }
-
 ```
 
 ## Step 4: Sensor Analysis: Detecting Rising & Falling Values
@@ -98,10 +99,116 @@ Try this:
 
 We can see not just where the sensor is but where it's going.
 
+## Step 5: Serial Communication to Processing
+
+Our data protocol: `lightValue,delta`. The "," serves as our delimiter so we know which value corresponds to wbich data element
+
+## Step 6: Visualization: Lantern Field
+
+Open Processing and run the follwoing code (note: make sure you quit the Arduino IDE or at least close the Serial Monitor)
+
+```
+import processing.serial.*;
+
+Serial myPort;
+
+int lightValue = 0;
+int delta = 0;
+static final float pulseRate = 0.05;
+
+Lantern[] lanterns;
+int numLanterns = 80;
+
+void setup() {
+  size(800, 600);
+  smooth();
+
+  myPort = new Serial(this, Serial.list()[0], 9600);
+  myPort.bufferUntil('\n');
+
+  lanterns = new Lantern[numLanterns];
+  for (int i = 0; i < lanterns.length; i++) {
+    lanterns[i] = new Lantern(random(width), random(height));
+  }
+}
+
+void draw() {
+  background(10, 15, 30);
+
+  float glow = map(lightValue, 0, 1023, 50, 255);
+  float lift = map(lightValue, 0, 1023, 0.2, 2.5);
+
+  for (Lantern l : lanterns) {
+    l.update(lift, delta);
+    l.display(glow);
+  }
+}
+
+void serialEvent(Serial myPort) {
+  String data = trim(myPort.readStringUntil('\n'));
+  if (data != null) {
+    String[] parts = split(data, ',');
+    if (parts.length == 2) {
+      lightValue = int(parts[0]);
+      delta = int(parts[1]);
+    }
+  }
+}
+
+class Lantern {
+  float x, y;
+  float speed;
+  float size;
+  float pulse;
+
+  Lantern(float x, float y) {
+    this.x = x;
+    this.y = y;
+    speed = random(0.3, 1.2);
+    size = random(8, 18);
+    pulse = random(TWO_PI);
+  }
+
+  void update(float lift, int delta) {
+    if (delta > 0) {
+      y -= speed * lift * 1.5;
+    } else {
+      y -= speed * lift * 0.5;
+    }
+
+    if (y < -20) {
+      y = height + 20;
+      x = random(width);
+    }
+
+    pulse += pulseRate;
+  }
+
+  void display(float glow) {
+    float flicker = sin(pulse) * 10;
+    noStroke();
+    fill(glow, glow * 0.8, glow * 0.4, 180);
+    ellipse(x, y, size + flicker, size + flicker);
+  }
+}
+```
+
+Observe and interact with your lanterns. You can try:
+
+1. Slow vs Fast Light
+- What changes more: glow or motion?
+
+2. Hand Shadows
+- Can you “breathe” with the system?
+
+3. Sharp Spikes
+- What does a sudden or erratic delta feel like visually?
+
+4. Different Data Mappings
+- How does the behavior of the lanterns change if you alter the data mappings (i.e. ranges for glow or lift)
+
 
 ## Step 9: Wrap-Up and Q&A
 - Technical questions
-- [AR.js Documentation](https://ar-js-org.github.io/AR.js-Docs)
-- [A-Frame Documentation](https://aframe.io)
 - More resources available on myCourses
 

@@ -17,7 +17,7 @@ void loop() {
   rawValue = analogRead(sensorPin);
 
   // Exponential smoothing
-  smoothValue = weight * rawValue + (1 - weight) * smoothValue;
+  smoothValue = weight * rawValue + (1 - weight) * lastSmoothValue;
 
   int delta = smoothValue - lastSmoothValue;
 
@@ -27,5 +27,5 @@ void loop() {
   Serial.println(delta);
 
   lastSmoothValue = smoothValue;
-  delay(30);
+  delay(2);
 }
