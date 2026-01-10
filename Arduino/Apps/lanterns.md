@@ -51,7 +51,7 @@ Wire a photocell to Analog Input 0 on your Arduino microcontroller. Refer to the
 
 ## Step 3: Reading Analog Values from Photocell
 
-Upload this Arduino code to oyur microcontroller and open the Serial Monitor.
+Upload this Arduino code to your microcontroller and open the Serial Monitor.
 
 ```
 const int sensorPin = A0;
