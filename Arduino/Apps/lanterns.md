@@ -49,7 +49,40 @@ Wire a photocell to Analog Input 0 on your Arduino microcontroller. Refer to the
 
 ![Photocell breadboard layout](img/Screenshot-photocell.png) ![Photocell scematic](img/photocell_schem.png) 
 
-## Step 23: Reading Analog Values from Photocell
+## Step 3: Reading Analog Values from Photocell
+
+Upload this Arduino code to oyur microcontroller and open the Serial Monitor.
+
+```
+const int sensorPin = A0;
+
+int rawValue = 0;
+int smoothValue = 0;
+int lastSmoothValue = 0;
+
+float alpha = 0.1; // smoothing factor
+
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  rawValue = analogRead(sensorPin);
+
+  // Exponential smoothing
+  smoothValue = alpha * rawValue + (1 - alpha) * smoothValue;
+
+  int delta = smoothValue - lastSmoothValue;
+
+  Serial.print(smoothValue);
+  Serial.print(",");
+  Serial.println(delta);
+
+  lastSmoothValue = smoothValue;
+  delay(30);
+}
+
+```
 
 
 ## Step 6: Wrap-Up and Q&A
