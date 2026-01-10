@@ -1,6 +1,6 @@
 # IGME 480
 
-# Physical COmputing & Alternative Interfaces
+# Physical Computing & Alternative Interfaces
 
 ### Spring 2026
 
@@ -8,7 +8,7 @@
 
 ## Simple Light-Based Interface
 
-We will build a simple interface using and Processing, Arduino and a single photocell . This will be a “Lantern Field”. Floating lanterns react to light Light on the photocell makes lanterns rise and glow. Darkness makes them drift down and dim.
+We will build a simple interface using Processing, Arduino and a single photocell. This will be a “Lantern Field”. Floating lanterns react to light, riseing and glowing in response. Darkness makes them drift down and dim.
 
 - Brightness level controls overall glow and vertical motion.
 - Rising light (e.g. shine a flashlight over the photocell) makes lanterns surge upward and pulse.
@@ -217,6 +217,7 @@ Observe and interact with your lanterns. You can try:
 Try to think less in terms of sensors as simply measureing the environment and more in terms of interpretation through constraints.
 
 ## Step 8: Experimentation and Extension
+
 Experiment with ways to extend or alter this app. Challenge yourself to push this further. Here are some ideas:
 
 - Add color shifts based on rising vs falling light.
@@ -227,6 +228,7 @@ Experiment with ways to extend or alter this app. Challenge yourself to push thi
 - Record sensor data and replay it like a visual memory.
 
 ## Step 9: Wrap-Up and Q&A
+
 - Technical questions
 - Design questions
 - More resources available on myCourses
