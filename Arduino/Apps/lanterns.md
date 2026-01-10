@@ -45,7 +45,7 @@ We will build a simple interface using Processing, Arduino and a single photocel
 - Today’s goal: translate light behavior into motion and mood.
 
 ## Step 2: Hardware Setup
-Wire a photocell to Analog Input 0 on your Arduino microcontroller. Refer to the Week 3 slides, the images below or [this web page](https://physicalcomputing.ccastellanos.com/labs/arduino/arduino-analog-input/) if you need a refresher on how to do this.
+Wire a photocell to Analog Input 0 (A0) on your Arduino microcontroller. Refer to the Week 3 slides, the images below or [this web page](https://physicalcomputing.ccastellanos.com/labs/arduino/arduino-analog-input/) if you need a refresher on how to do this.
 
 ![Photocell breadboard layout](img/Screenshot-photocell.png) ![Photocell scematic](img/photocell_schem.png) 
 
