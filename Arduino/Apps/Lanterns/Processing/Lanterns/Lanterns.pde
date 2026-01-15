@@ -13,7 +13,7 @@ void setup() {
   size(800, 600);
   smooth();
 
-  myPort = new Serial(this, Serial.list()[2], 9600); // select the approariate serial port (may be differnt for your computer)
+  myPort = new Serial(this, Serial.list()[2], 9600); // select the appropriate serial port (may be differnt for your computer)
   myPort.bufferUntil('\n');
 
   // create lantern objects
@@ -56,7 +56,7 @@ class Lantern {
   float size;
   float pulse;
 
-  // constructor (randomize speed, size and pulse of each lantern
+  // constructor (randomize speed, size and pulse of each lantern)
   Lantern(float x, float y) {
     this.x = x;
     this.y = y;
