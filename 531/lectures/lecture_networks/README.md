@@ -266,4 +266,4 @@ Jingwen Zhu's [*Real Me*](http://www.jingwen-zhu.com/real-me/) (2015) "is a chat
 * Tale of Tales. *The Endless Forest*. 2005. Multiplayer online role-playing game. http://tale-of-tales.com/TheEndlessForest/.
 
 
-Kris Paulsen, *Here/There: Telepresence, Touch, and Art at the Interface*
+
