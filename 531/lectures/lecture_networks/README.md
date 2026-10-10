@@ -17,7 +17,7 @@ what media theorist Marshall McLuhan would later refer to (in reference to telec
 
 Today, we participate in synchronous video calls with Skype and FaceTime, collaboratively edit documents (and [sext](https://www.theatlantic.com/technology/archive/2019/03/hottest-chat-app-teens-google-docs/584857/)) in Google Docs, and build multiperson virtual environments in MineCraft. These systems and processes are part of the fabric of everyday life, but it hasn't always been so, and it's worth stepping back and thinking about the use of networked telecommunications in media arts. As is often the case, some media artworks from the past presaged common tools today... and others represent intriguing dead-ends in the history of attempts to devise new modes of communication.
 
-![Net Art Diagram](images/net_art.jpg)
+![Net Art Diagram](img/net_art.jpg)
 
 In the projects below, questions how each project resolves issues of:
 
@@ -46,13 +46,13 @@ Questions:
 
 We will watch a portion of [*The Cave of Forgotten Dreams by Werner Herzog*](https://www.youtube.com/watch?v=l7XTERdQZf8&t=29m58s), from 29:58 - 32:45 (purchase required). Regarding two artists, 5000 years apart, who 'collaborated' on the same drawing, Herzog remarks: "We are locked in history, and they were not."
 
-[![image](images/cave_of_forgotten_dreams.jpg)](https://www.youtube.com/watch?v=l7XTERdQZf8&t=29m58s)
+[![image](img/cave_of_forgotten_dreams.jpg)](https://www.youtube.com/watch?v=l7XTERdQZf8&t=29m58s)
 
 #### Cairns
 
 [Cairns](https://en.wikipedia.org/wiki/Cairn) are human-made piles of stones. Cairns have been and are used for a broad variety of purposes, from prehistoric times to the present, often as landmarks, memorials and trail markers. It is a collaboratively created structure, built one stone at a time, often over the course of centuries.
 
-![image](images/Shankend-Cairn.jpg)
+![image](img/Shankend-Cairn.jpg)
 
 So how did we get from there, to ...here?:
 
@@ -71,14 +71,14 @@ Andrew Badr's [Your World of Text](https://www.yourworldoftext.com/golan) is an 
 #### Agar.io & Slither.io
 [Agar.io](https://agar.io/) (Matheus Valadares, 2015) and the related [Slither.io](http://slither.io/) are compelling multiplayer games that are astonishingly well-tuned. Very different strategies are required depending on one's current size/score.
 
-![image](images/agario.png)
+![image](img/agario.png)
 
-![image](images/slitherio.jpg)
+![image](img/slitherio.jpg)
 
 #### Telephone Picture (László Moholy-Nagy, 1923)
 The [first use of telecommunications as an artistic medium](https://en.wikipedia.org/wiki/Telematic_art) occurred in 1923 when the Hungarian constructivist artist László Moholy-Nagy made [Telephone Pictures](https://www.moma.org/collection/works/78747). These works questioned the idea of the isolated individual artist and the unique art object.
 
-![](images/Laszlo-Moholy-Nagy-Telephone-Picture-1200x1922.jpg)
+![](img/Laszlo-Moholy-Nagy-Telephone-Picture-1200x1922.jpg)
 
 *"In April 1923, Moholy had Construction in Enamel 2 and 3 made at a local enamel factory. He would later claim to have ordered them by describing them over the telephone, exaggerating both his distance from the manufacturing process that produced them and the degree of technological mediation involved. In doing so Moholy presented the artist in the modern age as producer of ideas rather than things. While sharing the same abstract geometric composition, the works use a mathematical progression to change its scale, highlighting the conception of the image as transferable data."* (MoMA)
 
@@ -92,7 +92,7 @@ Myron Krueger's landmark [VideoPlace](https://youtu.be/dmmxVA5xhuo) (~1972-1989)
 #### Hole in Space (1980)
 Hole in Space (1980) was a "communication sculpture" by Kit Galloway and Sherrie Rabinowitz, which used live two-way video to connect street-level audiences in Los Angeles and New York City.
 
-![](images/hole-in-space.jpg)
+![](img/hole-in-space.jpg)
 
 *"On a November evening in 1980 the unsuspecting public walking past the Lincoln Center for the Performing Arts in New York City, and «The Broadway» department store located in the open air Shopping Center in Century City (Los Angeles), had a surprising counter with each other. Suddenly head-to-toe, life-sized, television images of the people on the opposite coast appeared. They could now see, hear, and speak with each other as if encountering each other on the same sidewalk. No signs, sponsor logos, or credits were posted--no explanation at all was offered. No self-view video monitors to distract from the phenomena of this life-size encounter. [...] «Hole-In-Space» suddenly severed the distance between both cities and created an outrageous pedestrian intersection. There was the evening of discovery, followed by the evening of intentional word-of-mouth rendezvous, followed by a mass migration of families and trans-continental loved ones, some of which had not seen each other for over twenty years."*
 
@@ -102,23 +102,23 @@ Hole in Space (1980) was a "communication sculpture" by Kit Galloway and Sherrie
 #### Poietic Generator (1986+) 
 [*The Poietic Generator*](https://en.wikipedia.org/wiki/Poietic_Generator) is a social-network game designed by Olivier Auber in 1986. The game takes place within a two-dimensional matrix in the tradition of board games and its principle is similar to both Conway's Game of Life and the surrealists' Exquisite corpse.
 
-![](images/poetique.gif)
+![](img/poetique.gif)
 
 #### Million Dollar Homepage (2005) 
 [*Million Dollar Homepage*](http://milliondollarhomepage.com/) is a website "conceived by Alex Tew, a student from Wiltshire, England, to raise money for his university education. The home page consisted of a million pixels arranged in a 1000x1000 pixel grid; the image-based links on it were sold for $1 per pixel in 10x10 blocks. The purchasers of these pixel blocks provided tiny images to be displayed on them, a URL to which the images were linked, and a slogan to be displayed when hovering a cursor over the link. The aim of the website was to sell all of the pixels in the image, thus generating a million dollars of income for the creator." ([Wikipedia](https://en.wikipedia.org/wiki/The_Million_Dollar_Homepage))
 
-![](images/million_dollar_homepage.png)
+![](img/million_dollar_homepage.png)
 
 In the Harvard study, "[A Million Squandered: The “Million Dollar Homepage” as a Decaying Digital Artifact](https://lil.law.harvard.edu/blog/2017/07/21/a-million-squandered-the-million-dollar-homepage-as-a-decaying-digital-artifact/)", you can see which links still work after 12 years: 
 
-![](images/million_dollar_2017.png)
+![](img/million_dollar_2017.png)
 
 The 547 unreachable links are attached to graphical elements that collectively take up 342,000 pixels (face value: $342,000).
 
 #### R/Place (2017)
 [*R/Place*](https://en.wikipedia.org/wiki/Place_(Reddit)) "was a collaborative project and social experiment hosted on the social networking site Reddit that began on April Fools' Day 2017. The experiment involved an online canvas of one million (1000x1000) pixel squares, located at a subreddit called /r/place, which registered users could edit by changing the color of a single pixel from a 16-colour palette. After each pixel was placed, a timer prevented the user from placing any pixels for a period of time varying from 5 to 20 minutes." (Wikipedia)
 
-![](images/rplace.png)
+![](img/rplace.png)
 
 [![](https://img.youtube.com/vi/ljSnAd6omJ8/0.jpg)](https://youtu.be/ljSnAd6omJ8)
 
@@ -130,7 +130,7 @@ The 547 unreachable links are attached to graphical elements that collectively t
 #### Telematic Dreaming (1992-1993)
 Paul Sermon's [*Telematic Dreaming*](https://www.hgb-leipzig.de/~sermon/dream/) (1992-1993) "is an installation that exists within the ISDN digital telephone network. Two separate interfaces are located in separate locations, these interfaces in themselves are dynamic installations that function as customized video-conferencing systems. A double bed is located within both locations, one in a blacked out space and the other in an illuminated space. The bed in the light location has a camera situated directly above it, sending a live video image of the bed, and a person ("A") lying on it, to a video projector located above the other bed in the blacked out location. The live video image is projected down on to the bed with another person ("B") on it. A second camera, next to the video projector, sends a live video image of the projection of person "A" with person "B" back to a series of monitors that surround the bed and person "A" in the illuminated location. The telepresent image functions like a mirror that reflects one person within another person's reflection." (Paul Sermon)
 
-[![](images/sermon-telematic-dreaming-620x412.jpg)](https://vimeo.com/44862244)
+[![](img/sermon-telematic-dreaming-620x412.jpg)](https://vimeo.com/44862244)
 
 #### The Trace (1995)
 In [*The Trace*](http://www.lozano-hemmer.com/the_trace.php) (1995), an interactive installation by Rafael Lozano-Hemmer, a participant encounters the moving, ghostlike "presence" of another person, who is located in an identical but separate room. Their presence is conveyed by a glowing spot created by a pair of intersecting beams of light.
@@ -145,7 +145,7 @@ In [*The Trace*](http://www.lozano-hemmer.com/the_trace.php) (1995), an interact
 #### Telegarden (1995)
 Ken Goldberg & Joseph Santarromana's [*TeleGarden*](http://queue.ieor.berkeley.edu/~goldberg/garden/Ars/) is an art installation that allows web users to view and interact with a remote garden filled with living plants. Members can plant, water, and monitor the progress of seedlings via the tender movements of an industrial robot arm.  The Telegarden was developed at the University of Southern California and went online in June 1995. In its first year, over 9000 members helped cultivate. In September 1996, the Telegarden was moved to the lobby of the Ars Electronica Center in Austria, where it remained online until August 2004.
 
-[![](images/telegarden.jpg)](https://youtu.be/BCEC1tfc5Jc)
+[![](img/telegarden.jpg)](https://youtu.be/BCEC1tfc5Jc)
 
 #### inTouch (1998)
 [*inTouch*](https://tangible.media.mit.edu/project/intouch/) (Scott Brave & Andy Dahley, 1998) -- an experiment in telepresent haptics, allowed two people to communicate through shared movements of a set of wooden rollers.
@@ -155,75 +155,75 @@ Ken Goldberg & Joseph Santarromana's [*TeleGarden*](http://queue.ieor.berkeley.e
 #### BumpList (2003)
 Jonah Brucker-Cohen's [*BumpList*](http://www.coin-operated.com/2010/05/13/bumplist-an-email-community-for-the-determined-2003/) (2003) is "an email community for the determined". BumpList "functions like a standard, public listserv, but adds the constraints of limited membership (only 6 people could subscribe at once) and the urgency of forcing people to re-subscribe if they get bumped and want to continue the conversations, discussions, arguments in which they are engaged." (Brucker-Cohen)
 
-[![Jonah Brucker-Cohen's *BumpList*](images/bumplist2.gif)](http://www.coin-operated.com/2010/05/13/bumplist-an-email-community-for-the-determined-2003/)
+[![Jonah Brucker-Cohen's *BumpList*](img/bumplist2.gif)](http://www.coin-operated.com/2010/05/13/bumplist-an-email-community-for-the-determined-2003/)
 
 #### Image Labeling Game (2004)
 In 2004, [Luis von Ahn and Laura Dabbish](http://ael.gatech.edu/cs6452f13/files/2013/08/labeling-images.pdf) developed the "[ESP Game](https://en.wikipedia.org/wiki/ESP_game)", which was later (2006) developed into the "Google Image Labeler". The foundational concept of gamifying the elicitation of intersubjectively valid labels for images, eventually would underpin a wide range of technologies, like [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA), for labeling images and (more importantly) creating terascale datasets for training machine learning algorithms.
 
-![Image Labeling Game](images/esp-game.png)
+![Image Labeling Game](img/esp-game.png)
 
 [![](https://img.youtube.com/vi/tx082gDwGcM/0.jpg)](https://youtu.be/tx082gDwGcM)
 
 #### Can We Talk? (2011)
 Zach Gage's [*Can We Talk?*](https://vimeo.com/27421540)(2011) "is a chat program for having serious conversations. It attempts to disambiguate the reasons for silence in online conversation, while preserving the qualities that make text chatting a unique platform for communication." (Gage)
 
-[![Zach Gage's *Can We Talk?*](images/can_we_talk.png)](https://vimeo.com/27421540)
+[![Zach Gage's *Can We Talk?*](img/can_we_talk.png)](https://vimeo.com/27421540)
 
 #### The Smaller Picture (2002)
 
 The Smaller Picture (2002) by Kevan Davis is one of the first massively crowdsourced Internet artworks, and is still operational at [https://kevan.org/smaller.cgi](https://kevan.org/smaller.cgi), but the best part is no longer there — an emergent alphabet created by the hive mind:
 
-![](images/datavis_smaller_picture.jpg)
+![](img/datavis_smaller_picture.jpg)
 
 #### Do Not Touch (2013)
 Studio Moniker's [*Do Not Touch*](http://donottouch.org/) (2013) [[live version here](http://donottouch.org/)] is a music video created from the crowdsourced movements of its viewers' cursors.
 
-[![Studio Moniker's *Do Not Touch*](images/do-not-touch.jpg)](https://youtu.be/W3ZjY8YD_NY)
+[![Studio Moniker's *Do Not Touch*](img/do-not-touch.jpg)](https://youtu.be/W3ZjY8YD_NY)
 
 #### Social Turkers (2013)
 Lauren McCarthy's [*Social Turkers*](http://socialturkers.com/) (2013) asks: "What if we could receive real-time feedback on our social interactions? Would unbiased third party monitors be better suited to interpret situations and make decisions for the parties involved? How might augmenting our experience help us become more aware in our relationships, shift us out of normal patterns, and open us to unexpected possibilities? I am developing a system like this for myself using Amazon Mechanical Turk. During a series of dates with new people I meet on the internet, I will stream the interaction to the web using an iPhone app. Turk workers will be paid to watch the stream, interpret what is happening, and offer feedback as to what I should do or say next. This feedback will be communicated to me via text message." (McCarthy)
 
-[![Social Turkers](images/social_turkers.jpg)](https://vimeo.com/66339316)
+[![Social Turkers](img/social_turkers.jpg)](https://vimeo.com/66339316)
 
 #### the space between us (2015)
 *the space between us* (2015) by David Horvitz is an iOS app which connects two people's phones. Once connected, the app displays the distance and direction to the other person.
 
-![](images/horvitz_app_01-1200x800.jpg)
+![](img/horvitz_app_01-1200x800.jpg)
 
 #### Thumbkiss / Couple (2018)
 
 Another network-for-two is "[Thumbkiss](https://www.youtube.com/watch?v=NkveWyiU4Go&t=1m47s)" (recently renamed "Couple"). Couples in remote locations align their thumbprints in a shared, 2D virtual screenspace. 
 
-[![](images/thumbkiss.gif)](https://www.youtube.com/watch?v=NkveWyiU4Go&t=1m47s)
+[![](img/thumbkiss.gif)](https://www.youtube.com/watch?v=NkveWyiU4Go&t=1m47s)
 
 
 #### Die With Me (2018)
 Dries Depoorter and David Surprenant developed [Die With Me](http://diewithme.online/), a chat app you can only use when you have less than 5% battery. "Die together in a chatroom on your way to offline peace."
 
-[![](images/die_with_me.jpg)](https://vimeo.com/251322259)
+[![](img/die_with_me.jpg)](https://vimeo.com/251322259)
 
-![](images/die_with_me_2.png)
+![](img/die_with_me_2.png)
 
 #### Exhausting a Crowd (2015)
 Kyle McDonald's [Exhausting a Crowd](http://www.exhaustingacrowd.com/london) (2015) is "a crowdsourced description of 12 hours in Piccadilly Circus, London, inspired by the classic 60-page piece of experimental literature from Georges Perec, 'An Attempt at Exhausting a Place in Paris', written from a bench over three days in 1974." (McDonald)
 
-[![](images/exhausting-a-crowd.jpg)](https://vimeo.com/129465015)
+[![](img/exhausting-a-crowd.jpg)](https://vimeo.com/129465015)
 
 #### Real Me
 Jingwen Zhu's [*Real Me*](http://www.jingwen-zhu.com/real-me/) (2015) "is a chatting app with BLE connected muscle sensor, pulse sensor and vibration sensor. It tracks the user's emotion while chatting and using system messages to tell the 'real emotion' of the user. Sensor readings also draw out geometric motion graphics as the background of the chatting room. The user's heart rate is mapped to the color of the speech bubble, their smile triggers the particles of the window, and leg shaking triggers the shaking of speech bubbles." (Zhu)
 
-![](images/real_me.png)
+![](img/real_me.png)
 
-![](images/real_me_leg.gif)
+![](img/real_me_leg.gif)
 
 #### Aram Bartholl, Dead Drops (2010)
 
-[![](images/dead_drop.jpg)](https://youtu.be/hwohadcUv4A)
-![](images/dead_drop2.jpg)
+[![](img/dead_drop.jpg)](https://youtu.be/hwohadcUv4A)
+![](img/dead_drop2.jpg)
 
 #### Other collaborative drawing tools
 
-![](images/cui_SF_Moma-992x675.jpg)
+![](img/cui_SF_Moma-992x675.jpg)
 
 * [Communimage](https://omiotu.com/communimage/) (Johannes Gees, 1999)
 * [Net.Flag](https://vimeo.com/44329425) (Mark Napier, 2002)
@@ -231,7 +231,7 @@ Jingwen Zhu's [*Real Me*](http://www.jingwen-zhu.com/real-me/) (2015) "is a chat
 
 #### Chat spaces by Maddy Varner (CMU BFA '16)
 
-[![](images/poopchat_pro.png)](https://vimeo.com/166142275)
+[![](img/poopchat_pro.png)](https://vimeo.com/166142275)
 
 * [Poopchat Pro](http://poopchat-pro.herokuapp.com/) - A chatroom in which participants communicate with small poops
 * [Pasties](http://pasties.maddy.zone/) - A chatroom in which participants communicate exclusively by copy-pasting.
